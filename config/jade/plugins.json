@@ -125,6 +125,12 @@
     "tfc_chest": true,
     "barrel": true
   },
+  "createlowheated": {
+    "basic_burner_info": true
+  },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "dynamictrees": {
     "rooty_water": true,
     "pod": true,
@@ -146,5 +152,8 @@
     "brewing_stand": true,
     "block": true,
     "note_block": true
+  },
+  "immersivetechnology": {
+    "display": true
   }
 }

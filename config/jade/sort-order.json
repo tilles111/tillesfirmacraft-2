@@ -4,6 +4,7 @@
   "alekiships:furnace": null,
   "alekiships:jukebox": null,
   "alekiships:note_block": null,
+  "createlowheated:basic_burner_info": null,
   "dynamictrees:branch": null,
   "dynamictrees:fruit": null,
   "dynamictrees:pod": null,
@@ -26,6 +27,13 @@
   "firmalife:string": null,
   "firmalife:tumbler": null,
   "firmalife:vat": null,
+  "immersiveengineering:multiblock_icon": null,
+  "immersiveengineering:multiblock_inventory": null,
+  "immersiveengineering:multiblock_tank": null,
+  "immersivetechnology:display": null,
+  "immersivetechnology:multiblock_energy": null,
+  "immersivetechnology:multiblock_fluid": null,
+  "immersivetechnology:status": null,
   "jade:block_face": null,
   "jade:distance": null,
   "jade:mod_name": null,
@@ -122,5 +130,6 @@
   "tfc:wall_torch": null,
   "tfc:water_wheel": null,
   "tfc:wild_animal": null,
-  "tfc:windmill": null
+  "tfc:windmill": null,
+  "theurgy:mercury_flux": null
 }

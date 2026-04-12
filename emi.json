@@ -1,12 +1,167 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:tfcambiental:straw_hat{Damage:0}",
+    "item:tfcambiental:leather_apron{Damage:0}",
+    "item:immersivetechnology:cooling_tower",
+    "item:create:fluid_tank",
+    "item:create:copper_sheet",
+    "#item:forge:plates/copper",
+    "item:immersiveengineering:wire_copper",
     {
       "type": "item",
-      "id": "create:shaft",
-      "amount": 8
+      "id": "immersiveengineering:plate_copper",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:plate_steel",
+      "amount": 3
+    },
+    "item:immersiveengineering:wirecutter{Damage:0}",
+    "item:tfc_ie_addon:mold_sheet",
+    "item:tfc_ie_addon:metal/sheet/lead",
+    "item:immersiveengineering:ingot_electrum",
+    "item:immersivetechnology:formation_tool",
+    "item:immersivetechnology:salt",
+    "item:immersivetechnology:advanced_coke_oven_baseheater",
+    "item:immersivetechnology:salt_slurry_bucket",
+    "item:advancedtfctech:fleshing_blades{bladeDmg:0}",
+    "item:advancedtfctech:fleshing_machine",
+    "item:tfc:medium_scraped_hide",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/bismuth_bronze",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:metal/wrought_iron",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:metal/zinc",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:metal/sterling_silver",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:metal/high_carbon_black_steel",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:tannin",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:light_blue_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:magenta_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:orange_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:rye_whiskey",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:purple_dye",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "firmalife:curdled_goat_milk",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "firmalife:curdled_yak_milk",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "firmalife:cream",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "tfcchannelcasting:white_chocolate",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "immersiveengineering:redstone_acid",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "immersiveengineering:potion",
+      "amount": 0
+    },
+    "item:firmalife:vat",
+    "item:firmalife:metal/sheet/stainless_steel",
+    {
+      "type": "fluid",
+      "id": "firmalife:metal/stainless_steel",
+      "amount": 100
+    },
+    "item:firmalife:metal/ingot/stainless_steel",
+    "item:firmalife:metal/double_ingot/stainless_steel",
+    "item:firmalife:metal/ingot/chromium",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "create:pulpifiable",
+      "amount": 4
+    },
+    "item:create:pulp",
+    {
+      "type": "item",
+      "id": "create:cardboard",
+      "amount": 64
     },
     "item:create:andesite_alloy",
+    "item:create:andesite_casing",
+    "item:create:mechanical_mixer",
+    "item:tfc:metal/ingot/bismuth_bronze",
+    "item:tfc:metal/hoe_head/bismuth_bronze",
+    "item:tfc:metal/hoe/bismuth_bronze{Damage:0}",
+    "item:minecraft:spruce_trapdoor",
+    "item:woodencog:wooden_generator",
+    "item:woodencog:ct_transformer",
+    "item:tfc:thatch",
+    "item:sns:straw_basket",
+    "item:sns:leather_sack",
+    "item:sns:bound_leather_strip",
+    "item:sns:blue_steel_toe_hiking_boots{Damage:0}",
+    "item:sns:red_steel_toe_hiking_boots{Damage:0}",
+    "item:sns:metal/horseshoes/red_steel{Damage:0}",
+    "item:sns:metal/horseshoe/red_steel",
+    "item:sns:frame_pack",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/copper",
+      "amount": 100
+    },
+    "item:tfc:metal/ingot/copper",
+    "#item:forge:ingots/copper",
+    "item:tfc:metal/double_ingot/copper",
     "item:minecraft:podzol",
     "item:minecraft:crying_obsidian",
     "item:minecraft:flowering_azalea_leaves",

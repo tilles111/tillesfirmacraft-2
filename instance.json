@@ -31422,7 +31422,7 @@
         "file": "dndecor-2.1.0.jar",
         "type": "mods",
         "description": "A Create addon focused on QOL decoration features that expand on the base decoration ability of Create whilst focusing on community feedback",
-        "disabled": false,
+        "disabled": true,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -33052,13 +33052,246 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Lodestone",
+        "version": "lodestone-1.20.1-1.6.4.1.jar",
+        "optional": true,
+        "file": "lodestone-1.20.1-1.6.4.1.jar",
+        "type": "mods",
+        "description": "A collection of code used throughout projects under the Lodestar team.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 616457,
+        "curseForgeFileId": 6213794,
+        "curseForgeProject": {
+          "id": 616457,
+          "name": "Lodestone",
+          "authors": [
+            {
+              "id": 101312255,
+              "name": "sammysemicolon",
+              "url": "https://www.curseforge.com/members/sammysemicolon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A collection of code used throughout projects under the Lodestar team.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "lodestone",
+          "isFeatured": false,
+          "dateModified": "2025-11-26T15:37:47.513Z",
+          "dateCreated": "2022-04-25T09:57:54.783Z",
+          "dateReleased": "2025-11-26T15:33:46.263Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lodestone",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/LodestarMC/Lodestone"
+          },
+          "logo": {
+            "id": 540477,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/540/477/256/256/637866092162419815.png",
+            "title": "637866092162419815.png",
+            "url": "https://media.forgecdn.net/avatars/540/477/637866092162419815.png",
+            "modId": 616457
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7264731
+        },
+        "curseForgeFile": {
+          "id": 6213794,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "lodestone-1.20.1-1.6.4.1.jar",
+          "fileName": "lodestone-1.20.1-1.6.4.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-02-20T15:59:37.757Z",
+          "fileLength": 670934,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3049741976,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3549400978,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1609425178,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 804791420,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3915606802,
+              "name": "lodestone.mixins.json"
+            },
+            {
+              "fingerprint": 1035898984,
+              "name": "lodestone.refmap.json"
+            },
+            {
+              "fingerprint": 1900202507,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2681156735,
+              "name": "team"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e6346060ae70cbf103b231d8a1536bcd044c84a8",
+              "algo": 1
+            },
+            {
+              "value": "2816fa972ca3a21e6e38783f979955be",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2035895651,
+          "modId": 616457
+        },
+        "modrinthProject": {
+          "id": "bN3xUWdo",
+          "slug": "lodestonelib",
+          "project_type": "mod",
+          "team": "Ah07qFia",
+          "title": "Lodestone",
+          "description": "A collection of code used throughout projects under the Lodestar team.",
+          "body": "![Banner](https://i.imgur.com/UQ8ZJYW.png)\n\nLodestone is a library used by all mods under the Lodestar team, containing important backend code mostly used for rendering.\n\n#### **Features**:\n\nA lot of shaders  \nVarious helper classes & utilities  \nA simple screenshake implementation  \nSome commonly used attributes in our mods  \nA system allowing for custom fire effects applied to entities  \nA particle system with a huge amount of per-particle configuration  \nA simple system for multiblock structures & block entity inventory handlers  \nA system for onscreen GUI-side particles with similar configuration to our other particle system  \nA world event system, similar to entities but saved, rendered, and ticked per dimension, rather than per chunk  \nA texture loader implementation; allowing for duplicating vanilla assets at a new directory during runtime. Also allows modifying the copied texture in various ways\n\n...And more things we can't be bothered to write down!\n\n![](https://i.imgur.com/GeluHCM.gif)",
+          "published": "2024-05-22T23:28:01.940021Z",
+          "updated": "2026-01-12T01:39:43.145782Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/bN3xUWdo/30bc21dd6229186e231fd3b28d64619912354ccf_96.webp",
+          "issues_url": "https://github.com/LodestarMC/Lodestone/issues",
+          "source_url": "https://github.com/LodestarMC/Lodestone",
+          "wiki_url": "https://github.com/LodestarMC/Lodestone/wiki",
+          "discord_url": "https://discord.gg/R6YByhkWsq",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/sammysemicolon"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "dRIycWqx",
+          "project_id": "bN3xUWdo",
+          "author_id": "e2dVP3HL",
+          "name": "Lodestone 1.20.1-1.6.4.1",
+          "version_number": "1.20.1-1.6.4.1",
+          "changelog": "Bugfixes and... no just bugfixes yeah",
+          "date_published": "2025-02-20T16:05:31.211605Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "e6346060ae70cbf103b231d8a1536bcd044c84a8",
+                "sha512": "fec5107deb73c06c4b1756349cb874e0933c4181fd20e8528e46a24e35ccb048898c8607830deea3242d7303784a9c3a03f3fadd40d13fb6dc27a34a77f5cc85"
+              },
+              "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/dRIycWqx/lodestone-1.20.1-1.6.4.1.jar",
+              "filename": "lodestone-1.20.1-1.6.4.1.jar",
+              "primary": true,
+              "size": 670934
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1775961417294,
-    "numPlays": 14
+    "lastPlayed": 1775970292116,
+    "numPlays": 33
   },
   "id": "1.20.1",
   "complianceLevel": 1,
