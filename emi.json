@@ -1,6 +1,27 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "create:shaft",
+      "amount": 8
+    },
+    "item:create:andesite_alloy",
+    "item:minecraft:podzol",
+    "item:minecraft:crying_obsidian",
+    "item:minecraft:flowering_azalea_leaves",
+    "item:minecraft:shroomlight",
+    "item:tfc:ceramic/jug",
+    "item:minecraft:acacia_fence_gate",
+    "item:minecraft:string",
+    "item:minecraft:blue_wool",
+    "item:minecraft:black_stained_glass",
+    "item:minecraft:iron_bars",
+    "item:minecraft:quartz_bricks",
+    "item:minecraft:brown_concrete",
+    "item:minecraft:light_gray_concrete_powder",
+    "item:minecraft:smooth_quartz",
+    "item:minecraft:amethyst_block",
     "item:tfc:wood/lumber/acacia"
   ],
   "craft_history": [],

@@ -1,5 +1,15 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "tfc:field_guide": {
+      "viewedEntries": [
+        "tfc:mechanics/steel",
+        "tfc:the_world/ores_and_minerals",
+        "tfc:mechanics/mechanical_power"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

@@ -51,6 +51,23 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "firmalife": {
+    "barrel_press": true,
+    "string": true,
+    "vat": true,
+    "drying_mat": true,
+    "tumbler": true,
+    "cheese": true,
+    "shelf": true,
+    "oven_top": true,
+    "pumping_station": true,
+    "stovetop_pot": true,
+    "solar_drier": true,
+    "oven_bottom": true,
+    "fruit_tree_sapling": true,
+    "jarbnet": true,
+    "hanger": true
+  },
   "tfc": {
     "bloomery": true,
     "nest_box": true,
@@ -87,6 +104,7 @@
     "chested_horse": true,
     "pack_predator": true,
     "barrel": true,
+    "mold_table": true,
     "predator": true,
     "wild_animal": true,
     "crucible": true,
@@ -103,6 +121,17 @@
     "firepit": true,
     "ingot_pile": true
   },
+  "firmaciv": {
+    "tfc_chest": true,
+    "barrel": true
+  },
+  "dynamictrees": {
+    "rooty_water": true,
+    "pod": true,
+    "fruit": true,
+    "rooty": true,
+    "branch": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -110,5 +139,12 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "alekiships": {
+    "furnace": true,
+    "jukebox": true,
+    "brewing_stand": true,
+    "block": true,
+    "note_block": true
   }
 }

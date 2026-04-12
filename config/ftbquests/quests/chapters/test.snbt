@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: "7CB476E847763B56"
+	id: "792731BD76BC2C18"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "3F5EA6D95866FDF4"
+		tasks: [{
+			id: "767D8DE6B0E82D60"
+			item: {
+				Count: 1
+				ForgeCaps: {
+					"tfc:item_heat": {
+						heat: 0.0f
+						ticks: 0L
+					}
+				}
+				id: "tfc:metal/ingot/red_steel"
+			}
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Test"
+}
