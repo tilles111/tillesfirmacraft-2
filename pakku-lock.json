@@ -1139,45 +1139,6 @@
             ]
         },
         {
-            "pakku_id": "oOLY33Pennoyb8wH",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "create-design-n-decor"
-            },
-            "name": {
-                "curseforge": "Create: Design n' Decor"
-            },
-            "id": {
-                "curseforge": "923238"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "dndecor-2.1.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7006/245/dndecor-2.1.0.jar",
-                    "id": "7006245",
-                    "parent_id": "923238",
-                    "hashes": {
-                        "sha1": "ebb404a2b0603cf05b598d12916e4fe5b76193d8",
-                        "md5": "418c8173418308a20a3ddf08f253552a"
-                    },
-                    "required_dependencies": [
-                        "328085"
-                    ],
-                    "size": 3247550,
-                    "date_published": "2025-09-17T15:42:05.047Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Sm5pegeOaOLnLTOW",
             "type": "MOD",
             "slug": {
@@ -2839,6 +2800,43 @@
                     "required_dependencies": [],
                     "size": 178625,
                     "date_published": "2023-11-23T00:33:22.407Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "o5k5rhXqcsjUgq9M",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "lodestone"
+            },
+            "name": {
+                "curseforge": "Lodestone"
+            },
+            "id": {
+                "curseforge": "616457"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lodestone-1.20.1-1.6.4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6213/794/lodestone-1.20.1-1.6.4.1.jar",
+                    "id": "6213794",
+                    "parent_id": "616457",
+                    "hashes": {
+                        "sha1": "e6346060ae70cbf103b231d8a1536bcd044c84a8",
+                        "md5": "2816fa972ca3a21e6e38783f979955be"
+                    },
+                    "required_dependencies": [],
+                    "size": 670934,
+                    "date_published": "2025-02-20T15:59:37.757Z"
                 }
             ]
         },
