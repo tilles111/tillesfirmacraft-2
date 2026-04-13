@@ -1,0 +1,9 @@
+{
+  "block.minecraft.zombie_head": "Hollow Head",
+  "block.minecraft.zombie_wall_head": "Hollow Wall Head",
+  "entity.minecraft.zombie": "Hollow",
+  "item.minecraft.zombie_spawn_egg": "Hollow Spawn Egg",
+  "subtitles.entity.zombie.hurt": "Hollow hurts",
+  "subtitles.entity.zombie.ambient": "Hollow groans",
+  "subtitles.entity.zombie.death": "Hollow dies"
+}

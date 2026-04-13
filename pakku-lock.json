@@ -1549,6 +1549,43 @@
             ]
         },
         {
+            "pakku_id": "FaZnJHsWFXvNx9Jz",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "explosive-enhancement-reforged"
+            },
+            "name": {
+                "curseforge": "Explosive Enhancement: Reforged"
+            },
+            "id": {
+                "curseforge": "1036246"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5960/819/explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+                    "id": "5960819",
+                    "parent_id": "1036246",
+                    "hashes": {
+                        "sha1": "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6",
+                        "md5": "06f4d25ecc03e08aaf45c8c48dc0a0b4"
+                    },
+                    "required_dependencies": [],
+                    "size": 83842,
+                    "date_published": "2024-12-03T23:59:27.337Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "NQ7IB57UBDVdTNCn",
             "type": "MOD",
             "slug": {

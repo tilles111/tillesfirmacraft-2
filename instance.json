@@ -34444,6 +34444,190 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Explosive Enhancement: Reforged",
+        "version": "Explosive CLIENT & SERVER [1.20.1-1.1.0]",
+        "optional": true,
+        "file": "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+        "type": "mods",
+        "description": "Make the explosions look cooler. Now for (Neo)Forge.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1036246,
+        "curseForgeFileId": 5960819,
+        "curseForgeProject": {
+          "id": 1036246,
+          "name": "Explosive Enhancement: Reforged",
+          "authors": [
+            {
+              "id": 103824742,
+              "name": "xylonity",
+              "url": "https://www.curseforge.com/members/xylonity"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Make the explosions look cooler. Now for (Neo)Forge.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "explosive-enhancement-reforged",
+          "isFeatured": false,
+          "dateModified": "2026-03-08T13:45:45.4Z",
+          "dateCreated": "2024-06-14T07:39:28.767Z",
+          "dateReleased": "2026-03-08T13:41:47.94Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/explosive-enhancement-reforged",
+            "sourceUrl": "https://github.com/Xylonity/Explosive-Enhancement-Reforged"
+          },
+          "logo": {
+            "id": 1013820,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1013/820/256/256/638538865181343780.webp",
+            "title": "638538865181343780.webp",
+            "url": "https://media.forgecdn.net/avatars/1013/820/638538865181343780.webp",
+            "modId": 1036246
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 888893,
+              "description": "",
+              "thumbnailUrl": "/Content/2-0-8923-20761/skins/global/images/ui/document-generic.png",
+              "title": "Showcase",
+              "url": "https://media.forgecdn.net/attachments/888/893/e3fba0360d9e4e210db4d474375f73dda567ddc9.gif",
+              "modId": 1036246
+            },
+            {
+              "id": 888891,
+              "description": "",
+              "thumbnailUrl": "/Content/2-0-8923-20761/skins/global/images/ui/document-generic.png",
+              "title": "The Enhanced Explosion",
+              "url": "https://media.forgecdn.net/attachments/888/891/89119dce18435faff6b4ea7928bacb190d097761.webp",
+              "modId": 1036246
+            }
+          ],
+          "mainFileId": 7729046
+        },
+        "curseForgeFile": {
+          "id": 5960819,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Explosive CLIENT & SERVER [1.20.1-1.1.0]",
+          "fileName": "explosiveenhancement-1.1.0-1.20.1-client-and-server.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-12-03T23:59:27.337Z",
+          "fileLength": 83842,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1434547752,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2191490615,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2131510413,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 343939075,
+              "name": "explosiveenhancement.mixins.json"
+            },
+            {
+              "fingerprint": 1265970121,
+              "name": "explosiveenhancement.refmap.json"
+            },
+            {
+              "fingerprint": 4206072370,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cd88ace6193c3704d46a5ee8fc7d0063d2e687f6",
+              "algo": 1
+            },
+            {
+              "value": "06f4d25ecc03e08aaf45c8c48dc0a0b4",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 1225615187,
+          "modId": 1036246
+        }
       }
     ],
     "ignoredUpdates": [],

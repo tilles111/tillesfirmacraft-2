@@ -2,6 +2,20 @@
   "favorites": [],
   "lookup_history": [
     {
+      "type": "item",
+      "id": "malum:rotting_essence",
+      "amount": 8
+    },
+    "item:malum:grim_talc",
+    "item:malum:block_of_grim_talc",
+    "item:minecraft:zombie_head",
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "amount": 3
+    },
+    "item:minecraft:bow{Damage:0}",
+    {
       "type": "fluid",
       "id": "immersivetechnology:salt_slurry",
       "amount": 1000
@@ -117,11 +131,6 @@
       "id": "tfc:sandpaper",
       "nbt": "{Damage:0}",
       "remainder": "item:tfc:sandpaper{Damage:1}"
-    },
-    {
-      "type": "item",
-      "id": "malum:rotting_essence",
-      "amount": 2
     },
     {
       "type": "item",
