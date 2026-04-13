@@ -36,7 +36,7 @@ configVersion = 2
 	cameraSwayFadeOutLength = 0.75
 	# Maximum strength of all screen shaking effects.
 	# Default: 2.5
-	screenShakesMaxIntensity = 2.5
+	screenShakesMaxIntensity = 0.0
 	# Speed at which screen shaking rotations change direction or oscillate.
 	# Default: 6.0
 	screenShakesMaxFrequency = 6.0

@@ -37,7 +37,7 @@
 	shadowsInSlots = true
 	#
 	# Items in hotbar slots always have shadows
-	shadowsInHotbar = true
+	shadowsInHotbar = false
 	#
 	# Items being carried by the cursor have shadows
 	shadowsInCursor = true

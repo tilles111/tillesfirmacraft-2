@@ -1,6 +1,134 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "fluid",
+      "id": "immersivetechnology:salt_slurry",
+      "amount": 1000
+    },
+    "item:immersivetechnology:salt",
+    "item:tfc:powder/salt",
+    {
+      "type": "fluid",
+      "id": "immersivetechnology:steam",
+      "amount": 24000
+    },
+    {
+      "type": "fluid",
+      "id": "immersivetechnology:distilled_water",
+      "amount": 500
+    },
+    "item:immersivetechnology:distiller",
+    {
+      "type": "fluid",
+      "id": "immersivetechnology:exhaust_steam",
+      "amount": 100
+    },
+    {
+      "type": "item",
+      "id": "immersivetechnology:steam_turbine",
+      "amount": 32
+    },
+    "fluid:tfc:salt_water",
+    {
+      "type": "list",
+      "amount": 1000,
+      "ingredients": [
+        "#fluid:firmalife:mixable",
+        "#fluid:tfc:water",
+        "#fluid:tfcchannelcasting:mixable"
+      ]
+    },
+    {
+      "type": "item",
+      "id": "immersiveindustry:steam_turbine",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:campfire",
+      "amount": 32
+    },
+    "item:createlowheated:basic_burner",
+    "item:tfc:metal/tuyere/black_steel{Damage:827}",
+    "item:tfc:metal/ingot/steel",
+    "item:tfc:metal/ingot/high_carbon_steel",
+    "item:tfc:metal/ingot/pig_iron",
+    {
+      "type": "item",
+      "id": "create:belt_connector",
+      "amount": 32
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:metal/pig_iron",
+      "amount": 0
+    },
+    {
+      "type": "item",
+      "id": "tfc:metal/ingot/cast_iron",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "tfcbetterbf:insulation",
+      "amount": 64
+    },
+    "item:tfc:medium_scraped_hide",
+    "item:advancedtfctech:fleshing_machine",
+    "item:immersiveengineering:storage_steel",
+    "item:advancedtfctech:power_loom",
+    "item:advancedtfctech:fleshing_blades{bladeDmg:0}",
+    {
+      "type": "fluid",
+      "id": "immersivepetroleum:crudeoil",
+      "amount": 1000
+    },
+    "item:immersivepetroleum:crudeoil_bucket",
+    "item:immersivepetroleum:seismic_survey",
+    "item:waterflasks:leather_flask{Damage:0}",
+    "item:tfc:ore/cinnabar",
+    "item:tfc:stone/axe_head/sedimentary",
+    "item:sns:buckle",
+    "item:sns:hiking_boots{Damage:0,lastStep:{}}",
+    "item:immersiveindustry:refractory_kiln_brick",
+    {
+      "type": "item",
+      "id": "minecraft:rail",
+      "amount": 32
+    },
+    "item:tfc:jute_fiber",
+    {
+      "type": "item",
+      "id": "tfc:jute",
+      "amount": 5
+    },
+    "item:waterflasks:iron_flask{Damage:0}",
+    "item:waterflasks:unfinished_iron_flask",
+    "item:waterflasks:red_steel_flask",
+    "item:waterflasks:unfinished_red_steel_flask",
+    {
+      "type": "item",
+      "id": "tfc:ore/diamond",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "tfc:sandpaper",
+      "nbt": "{Damage:0}",
+      "remainder": "item:tfc:sandpaper{Damage:1}"
+    },
+    {
+      "type": "item",
+      "id": "malum:rotting_essence",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "malum:alchemical_calx",
+      "amount": 64
+    },
+    "item:vintageimprovements:redstone_module",
     "item:tfcambiental:straw_hat{Damage:0}",
     "item:tfcambiental:leather_apron{Damage:0}",
     "item:immersivetechnology:cooling_tower",
@@ -23,12 +151,8 @@
     "item:tfc_ie_addon:metal/sheet/lead",
     "item:immersiveengineering:ingot_electrum",
     "item:immersivetechnology:formation_tool",
-    "item:immersivetechnology:salt",
     "item:immersivetechnology:advanced_coke_oven_baseheater",
     "item:immersivetechnology:salt_slurry_bucket",
-    "item:advancedtfctech:fleshing_blades{bladeDmg:0}",
-    "item:advancedtfctech:fleshing_machine",
-    "item:tfc:medium_scraped_hide",
     {
       "type": "fluid",
       "id": "tfc:metal/bismuth_bronze",
@@ -179,7 +303,9 @@
     "item:minecraft:amethyst_block",
     "item:tfc:wood/lumber/acacia"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "tfc:crafting/stone/axe_sedimentary"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},

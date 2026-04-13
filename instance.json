@@ -33285,13 +33285,1172 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Skin Layers 3D",
+        "version": "1.11.1-1.20.1 - Forge",
+        "optional": true,
+        "file": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+        "type": "mods",
+        "description": "Render the player skin layer in 3d!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 521480,
+        "curseForgeFileId": 7857555,
+        "curseForgeProject": {
+          "id": 521480,
+          "name": "Skin Layers 3D",
+          "authors": [
+            {
+              "id": 100212189,
+              "name": "tr7zw",
+              "url": "https://www.curseforge.com/members/tr7zw"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Render the player skin layer in 3d!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "skin-layers-3d",
+          "isFeatured": false,
+          "dateModified": "2026-04-01T18:31:42.36Z",
+          "dateCreated": "2021-08-29T11:23:02.697Z",
+          "dateReleased": "2026-04-01T18:16:14.383Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/tr7zw/3d-Skin-Layers"
+          },
+          "logo": {
+            "id": 426742,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/426/742/256/256/637657627491599401.png",
+            "title": "637657627491599401.png",
+            "url": "https://media.forgecdn.net/avatars/426/742/637657627491599401.png",
+            "modId": 521480
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 7857585
+        },
+        "curseForgeFile": {
+          "id": 7857555,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.11.1-1.20.1 - Forge",
+          "fileName": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-04-01T18:15:51.713Z",
+          "fileLength": 2163998,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1582852839,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3421239066,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 2009692332,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2636604009,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 4008329157,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1473524643,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3623175062,
+              "name": "skinlayers3d.mixins.json"
+            },
+            {
+              "fingerprint": 3621415596,
+              "name": "skinlayers3d.refmap.mixins.json"
+            },
+            {
+              "fingerprint": 931193015,
+              "name": "skinlayers3d"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b64ccb25ebe4cb7b09d1dd4561dbc519d5f02382",
+              "algo": 1
+            },
+            {
+              "value": "d7173930d21f0f3bf240e1d08ba84a29",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1562058472,
+          "modId": 521480
+        },
+        "modrinthProject": {
+          "id": "zV5r3pPn",
+          "slug": "3dskinlayers",
+          "project_type": "mod",
+          "team": "3Lp8TMMC",
+          "title": "3D Skin Layers",
+          "description": "Render the player skin layer in 3d!",
+          "body": "![alt text](https://tr7zw.github.io/uikit/banner/header_3d_skinlayers.png)\n\n<p align=\"center\" style=\"text-align: center;\">\n  <a href=\"https://discord.gg/caVV5eXekm\"><img src=\"https://tr7zw.github.io/uikit/social_buttons_icon/Discord-Button-64.png\" alt=\"Discord\" style=\"margin: 5px 10px;\"></a>\n  <a href=\"https://github.com/tr7zw/3d-Skin-Layers\"><img src=\"https://tr7zw.github.io/uikit/social_buttons_icon/Github-Button-64.png\" alt=\"GitHub\" style=\"margin: 5px 10px;\"></a>\n  <a href=\"https://modrinth.com/mod/3dskinlayers\"><img src=\"https://tr7zw.github.io/uikit/social_buttons_icon/Modrinth-Button-64.png\" alt=\"GitHub\" style=\"margin: 5px 10px;\"></a>\n  <a href=\"https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d\"><img src=\"https://tr7zw.github.io/uikit/social_buttons_icon/Curseforge-Button-64.png\" alt=\"GitHub\" style=\"margin: 5px 10px;\"></a>\n  <a href=\"https://ko-fi.com/tr7zw\"><img src=\"https://tr7zw.github.io/uikit/social_buttons_icon/Kofi-Button-64.png\" alt=\"Ko-fi\" style=\"margin: 5px 10px;\"></a>\n</p>\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<img src=\"https://tr7zw.github.io/uikit/headlines/large/About.png\" alt=\"About\" style=\"margin: 5px 10px;\">\n\n\n**Replaces the normally flat second layer of player skins with a fully 3D-modeled version.**  \nThe mod automatically switches back to vanilla-style 2D rendering when players are more than 12 blocks away, helping maintain high framerates. It also supports transparent elements - perfect for glasses, visors, or other cosmetic details!\n\nSince this mod is purely visual and entirely client-side, **it doesn't need to be installed on servers** and works seamlessly in any environment.\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<br>![Features](https://tr7zw.github.io/uikit/headlines/large/Features.png)\n\nGive your player skin the depth it deserves—with style and performance in mind.\n\n### 3D Extruded Skin Layer\n- Replaces the flat second skin layer with a full 3D model\n- Adds visual depth to cosmetic details like jackets, sleeves, or hats\n- Fully supports transparency for glasses, visors, etc.\n- Also applies to player head items\n\n### Performance-Aware Rendering\n- Automatically switches to vanilla 2D rendering beyond 12 blocks\n- Maintains FPS even in multiplayer or crowded areas\n- Fully client-side and requires no server installation\n\n<br>\n\n[![Essential](https://tr7zw.github.io/uikit/banner/essential_1.png)](https://essential.gg/x/tr7zw)<br><br>\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<br>![Compatibility & Dependancys](https://tr7zw.github.io/uikit/headlines/medium/Compatibility%20&%20Dependancys.png)\n\n| Minecraft    | Loader                 | Status          | Version  | Note                                                 |\n| ------------ | ---------------------- | --------------- | -------- | ---------------------------------------------------- |\n| 1.16.5+      | Fabric/Forge*/NeoForge | ✅ Supported     | Latest   |                                                      |\n| *1.16.5      | Forge                  | ⚠️ Unsupported   | Outdated | Unsupported, until it gets support for JarInJar mods |\n| 1.12.2/1.8.9 | Forge                  | ❌ Not supported | Outdated | Might get new updates at some point                  |\n\n| Mod                       | Status            | Note                                                                                      |\n| ------------------------- | ----------------- | ----------------------------------------------------------------------------------------- |\n| Essential                 | ✅ Supported       |                                                                                           |\n| Shoulder Surfing Reloaded | ✅ Supported       |                                                                                           |\n| Player Animator           | ✅ Supported       | This means mods that use it like Better Combat and Emotecraft                             |\n| CustomSkinLoader          | ⚠️ Partial support | Requires [this](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge) helper mod |\n| Lunar Client              | ❌ Not supported   | Will never get support!                                                                   |\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<br>![Screenshots / Media](https://tr7zw.github.io/uikit/headlines/medium/Screenshots%20Media.png)\n\n\n![Stage View](https://raw.githubusercontent.com/tr7zw/3d-Skin-Layers/1.19/img/MC_NU_HEADER.png)\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<br>![Known Issues](https://tr7zw.github.io/uikit/headlines/medium/Known%20Issues.png)\n\n- Because the outer layer is slightly larger than the player model, some skins may not align perfectly in 3D.\n- ZigZag patterns around corners will join up. This down to the math of making it 3d, but it can be somewhat prevented by placing slightly transparent pixels into the holes.\n- With shaders, some body part layer sides have weird shadows. I am trying to get this resolved.\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<br>![FAQ](https://tr7zw.github.io/uikit/headlines/medium/FAQ.png)\n\n### Does this need to be installed on the server?\n\nNo. This is a fully client-side mod and does **not** need to be installed on the server.\n\n### Does this work with HD Skins?\n\nNo. Since the pixels wouldn't have the correct shape, this is not possible.\n\n### The layers stick through the modded armor\n\nSome modded armor is closer to the body than vanilla. Turn down the 3d size in the mod settings till it fits.\n\n### The layers are flying offset to the body\n\nYou are probably using a ETF/EMF resourcepack. Make sure you update it, fitting to the Minecraft version.\n\n### Help the layers are gone! / The mod doesn't work!\n\nA few things to check before asking for help:\n- Check under Options > Skin Customization that you didn't accidentally disable your skin layers.\n- Check in the mod settings, that the features are turned on.\n- Does the mod show up in the modlist at all?\n- The skin should be loaded via Mojang, other skin loaders might not be supported.\n- Make sure your skin actually has things on the second layer. The mod can't magically invent layers.\n\n### I'm having issues with my cracked version of Minecraft\n\nPlease buy the game, illegal copies of the game are not supported.\n\n<br>![Divider](https://tr7zw.github.io/uikit/divider_faded/Divider_03.png)\n\n<br>![Credits & license](https://tr7zw.github.io/uikit/headlines/medium/Credits%20&%20License.png)\n\n👤 Thanks to the awesome translators and contributors on Github! \n<a href=\"https://github.com/tr7zw/EntityCulling/graphs/contributors\">\n  <img src=\"https://tr7zw.github.io/uikit/links/underlined/more_details.png\" style=\"vertical-align: middle;\" alt=\"Link\">\n</a> <br><br>\n📄 License: tr7zw Protective License <br>\nFeel free to use this mod in your Modrinth/Curseforge hosted modpacks without asking for permission. Do not redistribute the jar files anywhere else!",
+          "published": "2022-05-04T15:49:59.369142Z",
+          "updated": "2026-04-01T18:16:15.909445Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-tr7zw-Protective-License",
+            "name": "",
+            "url": "https://github.com/tr7zw/3d-Skin-Layers/blob/1.17/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "decoration"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/zV5r3pPn/ff7010d4ec0275609866c8b0f603b25e25949c08_96.webp",
+          "issues_url": "https://github.com/tr7zw/3d-Skin-Layers/issues",
+          "source_url": "https://github.com/tr7zw/3d-skin-layers",
+          "discord_url": "https://discord.gg/2wKH8yeThf",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/zV5r3pPn/images/5fedc9267a2e550c4e8f2e6a53b31b4286e728cb_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/zV5r3pPn/images/85f8d09fe9eab63e9fee90eba0835f1ca9cb3733.png",
+              "featured": true,
+              "title": "Header image",
+              "created": "2023-01-21T18:59:14.853888Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "egmtcJdf",
+          "project_id": "zV5r3pPn",
+          "author_id": "Qnt13hO8",
+          "name": "1.11.1-1.20.1 - Forge",
+          "version_number": "1.11.1",
+          "changelog": "## What's changed\r\n* Set 26.1.x as compatible (like 26.1.1)\r\n* Update libs to fix stuff like broken controls\r\n* Set clientside/java version flags on Curseforge\r\n\r\n**Full Changelog**: https://github.com/tr7zw/3d-Skin-Layers/compare/1.11.0...1.11.1\n",
+          "date_published": "2026-04-01T18:15:53.619535Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b416f33c72050d7e86fe5113fa3d875109f0f041db493acd3240e6598ac00ed8cea7456086c53556473239fb39407ca9d47569ec7910925ffff2aae5deafa91f",
+                "sha1": "b64ccb25ebe4cb7b09d1dd4561dbc519d5f02382"
+              },
+              "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/egmtcJdf/skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+              "filename": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+              "primary": true,
+              "size": 2163998
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Sound Physics Remastered",
+        "version": "[FORGE][1.20.1] Sound Physics Remastered 1.20.1-1.5.1",
+        "optional": true,
+        "file": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+        "type": "mods",
+        "description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 535489,
+        "curseForgeFileId": 7032235,
+        "curseForgeProject": {
+          "id": 535489,
+          "name": "Sound Physics Remastered",
+          "authors": [
+            {
+              "id": 20569971,
+              "name": "henkelmax",
+              "url": "https://www.curseforge.com/members/henkelmax"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "sound-physics-remastered",
+          "isFeatured": false,
+          "dateModified": "2026-04-10T05:32:38.423Z",
+          "dateCreated": "2021-10-14T08:10:19.053Z",
+          "dateReleased": "2026-04-10T05:16:33.893Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/henkelmax/sound-physics-remastered/issues",
+            "sourceUrl": "https://github.com/henkelmax/sound-physics-remastered"
+          },
+          "logo": {
+            "id": 442531,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/442/531/256/256/637694502660771592.png",
+            "title": "637694502660771592.png",
+            "url": "https://media.forgecdn.net/avatars/442/531/637694502660771592.png",
+            "modId": 535489
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7903189
+        },
+        "curseForgeFile": {
+          "id": 7032235,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FORGE][1.20.1] Sound Physics Remastered 1.20.1-1.5.1",
+          "fileName": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+          "releaseType": 3,
+          "fileStatus": 4,
+          "fileDate": "2025-09-25T14:25:13.323Z",
+          "fileLength": 206984,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 416089,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3408336310,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2004311083,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 410022690,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2285137511,
+              "name": "de"
+            },
+            {
+              "fingerprint": 4226171891,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 136565753,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3916323897,
+              "name": "sound-physics-remastered-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 3831105509,
+              "name": "sound_physics_remastered.accesswidener"
+            },
+            {
+              "fingerprint": 2517006917,
+              "name": "sound_physics_remastered.mixins.json"
+            },
+            {
+              "fingerprint": 2433777241,
+              "name": "sound_physics_remastered.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "aef2c02392624f0a12475ada809366b12ac9ec52",
+              "algo": 1
+            },
+            {
+              "value": "d70031b5058fb81d2670a4039440b00f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3096934868,
+          "modId": 535489
+        }
+      },
+      {
+        "name": "CreativeCore",
+        "version": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+        "optional": true,
+        "file": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+        "type": "mods",
+        "description": "a core mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 257814,
+        "curseForgeFileId": 7649757,
+        "curseForgeProject": {
+          "id": 257814,
+          "name": "CreativeCore",
+          "authors": [
+            {
+              "id": 8685730,
+              "name": "CreativeMD",
+              "url": "https://www.curseforge.com/members/creativemd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "a core mod",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "creativecore",
+          "isFeatured": false,
+          "dateModified": "2026-03-30T07:10:58.037Z",
+          "dateCreated": "2017-01-23T11:57:10.153Z",
+          "dateReleased": "2026-03-30T07:02:41.26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CreativeMD/CreativeCore/issues",
+            "sourceUrl": "https://github.com/CreativeMD/CreativeCore"
+          },
+          "logo": {
+            "id": 86225,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/86/225/256/256/636207446427836220.png",
+            "title": "636207446427836220.png",
+            "url": "https://media.forgecdn.net/avatars/86/225/636207446427836220.png",
+            "modId": 257814
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7844573
+        },
+        "curseForgeFile": {
+          "id": 7649757,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+          "fileName": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-02-19T17:33:44.717Z",
+          "fileLength": 1143788,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3418087250,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 243936845,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3638517475,
+              "name": "creativecore.forge.mixins.json"
+            },
+            {
+              "fingerprint": 3807378743,
+              "name": "creativecore.mixins.json"
+            },
+            {
+              "fingerprint": 1375345846,
+              "name": "creativecore.mixins.refmap.json"
+            },
+            {
+              "fingerprint": 1124175186,
+              "name": "creativecore.png"
+            },
+            {
+              "fingerprint": 1308093199,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1828453333,
+              "name": "team"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f2324c43cd0bbb856b115ce1a688c33bff999294",
+              "algo": 1
+            },
+            {
+              "value": "a58f958ab8b789af3c6b3a9d93ca415d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "NeoForge"
+          ],
+          "fileFingerprint": 2109282352,
+          "modId": 257814
+        },
+        "modrinthProject": {
+          "id": "OsZiaDHq",
+          "slug": "creativecore",
+          "project_type": "mod",
+          "team": "FvoHe2qM",
+          "title": "CreativeCore",
+          "description": "A core mod",
+          "body": "Nothing else than a simple core mod required by most of CreativeMD's mods.\n\n**Features**\n* Gui-Api\n* Config System (/cmdconfig or /cmdclientconfig)\n* Packet system (supports splitted packets)\n* Event system (by N247s)\n* Ingredients\n* Fake world\n\nI know everybody hates core mods, because it is an additional file you have to download, but it speeds up my progress. Over the years, I've created tones of useful methods and ways to achieve something. Now i can put all of it in CreativeCore and use it for all of my mods.\n\nLooking for a server to play with your friends. Our sponsor got you covered:\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\nUse the promo code teamcreative to get 25% off the first month on any of the gaming servers!\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)",
+          "published": "2021-08-17T09:10:08.972681Z",
+          "updated": "2026-03-30T07:02:48.400921Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OsZiaDHq/4953ecd3c0c8b185b2a56d64cdb104b03f3e5038_96.webp",
+          "issues_url": "https://github.com/CreativeMD/CreativeCore/issues",
+          "source_url": "https://github.com/CreativeMD/CreativeCore",
+          "discord_url": "https://discord.gg/W9QM3fS",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/creativemd"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "p6pvilEm",
+          "project_id": "OsZiaDHq",
+          "author_id": "YTAyzo4h",
+          "name": "2.12.35",
+          "version_number": "2.12.35",
+          "changelog": "* Removed IntersectionHelper\n* Fixed issues with connected textures and collision\n",
+          "date_published": "2026-02-19T17:33:37.983836Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "e3b00bc24856aaf931392f7bf2fdab8c492341ff2654fa513e0fef6df89927db7441b740ab8583d89e6b03d503e2ded656429491c464df3da6e16a004be94823",
+                "sha1": "f2324c43cd0bbb856b115ce1a688c33bff999294"
+              },
+              "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/p6pvilEm/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+              "filename": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+              "primary": true,
+              "size": 1143788
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "ItemPhysic Lite",
+        "version": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+        "optional": true,
+        "file": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+        "type": "mods",
+        "description": "#spinning",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 270441,
+        "curseForgeFileId": 6045994,
+        "curseForgeProject": {
+          "id": 270441,
+          "name": "ItemPhysic Lite",
+          "authors": [
+            {
+              "id": 8685730,
+              "name": "CreativeMD",
+              "url": "https://www.curseforge.com/members/creativemd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "#spinning",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "itemphysic-lite",
+          "isFeatured": false,
+          "dateModified": "2026-03-26T12:56:29.63Z",
+          "dateCreated": "2017-06-27T23:34:13.093Z",
+          "dateReleased": "2026-03-26T12:52:37.38Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CreativeMD/ItemPhysicLite/issues",
+            "sourceUrl": "https://github.com/CreativeMD/ItemPhysicLite"
+          },
+          "logo": {
+            "id": 103313,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/103/313/256/256/636337267977446572.png",
+            "title": "636337267977446572.png",
+            "url": "https://media.forgecdn.net/avatars/103/313/636337267977446572.png",
+            "modId": 270441
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7816667
+        },
+        "curseForgeFile": {
+          "id": 6045994,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+          "fileName": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-01-02T15:19:28.153Z",
+          "fileLength": 19487,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 257814,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1826355383,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 324347720,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1928949021,
+              "name": "itemphysic.png"
+            },
+            {
+              "fingerprint": 628011937,
+              "name": "itemphysiclite.mixin.refmap.json"
+            },
+            {
+              "fingerprint": 1054365591,
+              "name": "itemphysiclite.mixins.json"
+            },
+            {
+              "fingerprint": 3213796469,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3420225419,
+              "name": "team"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "4fc87af53afb8610e77710b30340783fc6bd0ccf",
+              "algo": 1
+            },
+            {
+              "value": "83c19033092e5eab8c00e0ab056a783a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1934443491,
+          "modId": 270441
+        },
+        "modrinthProject": {
+          "id": "OuyCgP8t",
+          "slug": "itemphysic-lite",
+          "project_type": "mod",
+          "team": "nTqeJavL",
+          "title": "ItemPhysic Lite",
+          "description": "items fall to the ground and do not float",
+          "body": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tINtt2RK-H4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThis is the Lite version of ItemPhysic and therefore visual only (client-side only)! Can be used on vanilla servers! <a href=\"https://modrinth.com/mod/itemphysic\">ItemPhysic Full</a>\n\nRequires <a href=\"https://modrinth.com/mod/creativecore\">CreativeCore</a>\n\n**Features**\n* enhanced item animation\n\n<a href=\"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic-1-3-4-more-realtistic-items-stone\">Old Downloads</a>\n\n**Addons**\n\n[ItemPhysic Guns](https://www.curseforge.com/minecraft/mc-mods/itemphysic-guns): \nAddon for ItemPhysic (Lite or Full) that fixes rendering of 3D guns from TaCZ and Superb Warfare when dropped.\n\nLooking for a server to play with your friends. Our sponsor got you covered:\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\nUse the promo code teamcreative to get 25% off the first month on any of the gaming servers!\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)\n \n\n ",
+          "published": "2022-11-14T10:40:42.190560Z",
+          "updated": "2026-03-26T12:52:46.108799Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OuyCgP8t/0b6af647b8bd2f5b7230b86566311692273f3360_96.webp",
+          "issues_url": "https://github.com/CreativeMD/ItemPhysicLite/issues",
+          "source_url": "https://github.com/CreativeMD/ItemPhysicLite",
+          "discord_url": "https://discord.gg/W9QM3fS",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/creativemd"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "pblKjZQf",
+          "project_id": "OuyCgP8t",
+          "author_id": "YTAyzo4h",
+          "name": "1.6.6",
+          "version_number": "1.6.6",
+          "changelog": "* Added mud to blocks require offset to prevent the item from being invisible\n",
+          "date_published": "2025-01-02T15:19:25.955410Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "4fc87af53afb8610e77710b30340783fc6bd0ccf",
+                "sha512": "7458b25e6243c196ecac5363ce6b30713eb93c043226906d6ad6b9774985831f67a250a3057183e6f9721cbdf56c6ebdd3db3769c1da66c7d07ba4d0d5878d1b"
+              },
+              "url": "https://cdn.modrinth.com/data/OuyCgP8t/versions/pblKjZQf/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+              "filename": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+              "primary": true,
+              "size": 19487
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "OsZiaDHq",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Ok Zoomer - It's Zoom!",
+        "version": "5.4.0-beta.9+forge (The Rebirth Update: Part 2)",
+        "optional": true,
+        "file": "ok_zoomer-forge-5.4.0-beta.9.jar",
+        "type": "mods",
+        "description": "A Fabric/NeoForge/Forge zoom mod that is powerful, lean, and pretty customizable. The zoom is yours!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 354047,
+        "curseForgeFileId": 7682985,
+        "curseForgeProject": {
+          "id": 354047,
+          "name": "Ok Zoomer - It's Zoom!",
+          "authors": [
+            {
+              "id": 51165509,
+              "name": "EnnuiLangeweile",
+              "url": "https://www.curseforge.com/members/ennuilangeweile"
+            },
+            {
+              "id": 19704318,
+              "name": "UpcraftLP",
+              "url": "https://www.curseforge.com/members/upcraftlp"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Fabric/NeoForge/Forge zoom mod that is powerful, lean, and pretty customizable. The zoom is yours!",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "ok-zoomer",
+          "isFeatured": false,
+          "dateModified": "2026-04-04T22:49:41.39Z",
+          "dateCreated": "2019-12-09T08:17:41.317Z",
+          "dateReleased": "2026-04-04T22:33:28.94Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ok-zoomer",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Up-Mods/OkZoomer/issues",
+            "sourceUrl": "https://github.com/Up-Mods/OkZoomer"
+          },
+          "logo": {
+            "id": 1129776,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1129/776/256/256/638688438227341154.png",
+            "title": "638688438227341154.png",
+            "url": "https://media.forgecdn.net/avatars/1129/776/638688438227341154.png",
+            "modId": 354047
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1010581,
+              "description": "A Minecraft landscape with cows and pigs being zoomed using Ok Zoomer's zoom, configured at the default Camera preset.",
+              "thumbnailUrl": "/Content/2-0-9102-23293/skins/global/images/ui/document-generic.png",
+              "title": "Zoom Showcase (Camera Preset)",
+              "url": "https://media.forgecdn.net/attachments/1010/581/a2.webp",
+              "modId": 354047
+            },
+            {
+              "id": 1010582,
+              "description": "A Minecraft landscape with cows and pigs being zoomed using Ok Zoomer's zoom, configured at the default Camera preset.",
+              "thumbnailUrl": "/Content/2-0-9102-23293/skins/global/images/ui/document-generic.png",
+              "title": "Zoom Showcase (Competitive Preset)",
+              "url": "https://media.forgecdn.net/attachments/1010/582/a3.webp",
+              "modId": 354047
+            },
+            {
+              "id": 872402,
+              "description": "The Ok Zoomer config screen as of Ok Zoomer 8.0.0 (1.20.6).",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/872/402/310/172/2024-05-21_23.png",
+              "title": "Ok Zoomer's config screen",
+              "url": "https://media.forgecdn.net/attachments/872/402/2024-05-21_23.png",
+              "modId": 354047
+            },
+            {
+              "id": 872403,
+              "description": "The key binds added by Ok Zoomer in the Key Binds menu. Not shown: The \"Save Hotbar Activator\" key bind being automatically unbound by mod.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/872/403/310/172/2024-05-22_00.png",
+              "title": "Ok Zoomer's key binds",
+              "url": "https://media.forgecdn.net/attachments/872/403/2024-05-22_00.png",
+              "modId": 354047
+            }
+          ],
+          "mainFileId": 7876574
+        },
+        "curseForgeFile": {
+          "id": 7682985,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "5.4.0-beta.9+forge (The Rebirth Update: Part 2)",
+          "fileName": "ok_zoomer-forge-5.4.0-beta.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-02-26T20:18:24.953Z",
+          "fileLength": 530268,
+          "dependencies": [],
+          "alternateFileId": 7682986,
+          "modules": [
+            {
+              "fingerprint": 607078590,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 979211636,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1672607877,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3403166134,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 838650603,
+              "name": "ok_zoomer.mixins.json"
+            },
+            {
+              "fingerprint": 2902575847,
+              "name": "ok_zoomer_forge.mixins.json"
+            },
+            {
+              "fingerprint": 2518996653,
+              "name": "ok_zoomer_forge.mixins.refmap.json"
+            },
+            {
+              "fingerprint": 1293275567,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2252120688,
+              "name": "page"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414",
+              "algo": 1
+            },
+            {
+              "value": "58098a6b4c5894f92051f8a0d452ce9a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "NeoForge"
+          ],
+          "fileFingerprint": 1600946717,
+          "modId": 354047
+        },
+        "modrinthProject": {
+          "id": "aXf2OSFU",
+          "slug": "ok-zoomer",
+          "project_type": "mod",
+          "team": "zqOQHDSA",
+          "title": "Ok Zoomer - It's Zoom!",
+          "description": "Ok Zoomer is a zoom mod that is powerful, lean, and pretty customizable. The zoom is yours!",
+          "body": "<div align=\"middle\">\n\n![Banner for the Ok Zoomer mod](https://mod-assets.upcraft.dev/promo/ok-zoomer/modpage_banner.png)\n\n<picture>\n<!-- Yes this is evil but y'all hate AVIF!!! Please talk with me before taking action. Fix in theory is simple: disable srcset because you killed it with that image processor thingy; I understand why it's in place though, I just wish it didn't kill the AVIF unless I used GitHub as a CDN, which it hates as a solution -->\n<source srcset=\"https://github.com 0, https://mod-assets.upcraft.dev/promo/ok-zoomer/showcase_camera.avif\" />\n<img src=\"https://mod-assets.upcraft.dev/promo/ok-zoomer/showcase_camera.webp\" alt=\"A Minecraft landscape with cows and pigs being zoomed using Ok Zoomer's zoom, configured at the default Camera preset.\" />\n</picture>\n</div>\n\nWhat you are seeing here is the best zoom mod around here. It is faster than those who claim to be simple, it is lighter than bloated competitors with megabytes of dependencies, it is powerful with its configurability and its many presets, and most importantly, it is never afraid to innovate, having popularized zoom transitions on its release and always introducing new features.\n\nThe zoom key is bound to <kbd>C</kbd> by default, with the zoom itself prioritizing a smooth transition between the user's interface and a clean view, which is perfect for screenshots! But if you want something else? We have options!\n\nBy going to Mod Menu or by using the `/ok_zoomer` command, you can choose other presets such as \"Competitive\" (prioritizes your interface), \"Classic\" (emulates OptiFine's zoom), Spyglass, and others! You can also tweak other options such as Zoom Transition, Cinematic Camera, Zoom Divisor, and much more!\n\nYou can see more information on the options on the [wiki](https://github.com/Up-Mods/OkZoomer/wiki/Configuration).\n\n## Dependencies\n\nAs of 1.20.6, this mod requires only the [Fabric API](https://modrinth.com/mod/fabric-api) to be installed. As for the loader, the Fabric Loader, as well as the [Quilt Loader](https://quiltmc.org), are available.\n\nAs of Ok Zoomer 10.0.0, this mod is fully compatible with NeoForge with no extra dependencies.\n\n[Mod Menu](https://modrinth.com/mod/modmenu) is optional but it might be a more convenient way to access the config screen.\n\nFor the best experience on Minecraft 26.1, check out [Longview](https://modrinth.com/mod/longview)!\n\n## Attribution\n\nThis mod's icon makes usage of [Twemoji](https://github.com/jdecked/twemoji) assets, which are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).",
+          "published": "2020-10-22T16:39:55.541266Z",
+          "updated": "2026-04-04T22:34:58.535977Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/aXf2OSFU/6bb42db9ff3dba778257ccc33452c338a7690aba_96.webp",
+          "issues_url": "https://github.com/Up-Mods/OkZoomer/issues",
+          "source_url": "https://github.com/Up-Mods/OkZoomer",
+          "wiki_url": "https://github.com/Up-Mods/OkZoomer/wiki",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/upcraftlp"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/aXf2OSFU/images/1faf4c97cb75a9eebdeabfb03768fe2d1ebdaa62.gif",
+              "raw_url": "https://cdn.modrinth.com/data/aXf2OSFU/images/1faf4c97cb75a9eebdeabfb03768fe2d1ebdaa62.gif",
+              "featured": true,
+              "title": "Zoom Showcase (Camera Preset)",
+              "description": "A Minecraft landscape with cows and pigs being zoomed using Ok Zoomer's zoom, configured at the default Camera preset.",
+              "created": "2024-11-10T16:22:09.103435Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/aXf2OSFU/images/d40be6483b75bfa8d2ca119ac2a5cac1e75abbe8.gif",
+              "raw_url": "https://cdn.modrinth.com/data/aXf2OSFU/images/d40be6483b75bfa8d2ca119ac2a5cac1e75abbe8.gif",
+              "featured": false,
+              "title": "Zoom Showcase (Competitive Preset)",
+              "description": "A Minecraft landscape with cows and pigs being zoomed using Ok Zoomer's zoom, configured at the Competitive preset.",
+              "created": "2024-11-10T16:22:36.148084Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/aXf2OSFU/images/b4a9fcebbb836ad1e00a03bdc729f4274e513a30_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/aXf2OSFU/images/b4a9fcebbb836ad1e00a03bdc729f4274e513a30.png",
+              "featured": false,
+              "title": "Ok Zoomer's config screen",
+              "description": "The Ok Zoomer config screen as of 16.0.0-beta.2",
+              "created": "2026-01-24T00:01:12.020908Z",
+              "ordering": 2.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "8M3vtEOe",
+          "project_id": "aXf2OSFU",
+          "author_id": "Ef5Yk50C",
+          "name": "5.4.0-beta.9+forge (The Rebirth Update: Part 2)",
+          "version_number": "5.4.0-beta.9+forge",
+          "changelog": "## Changelog\n\n- Fixed interface zooming being somewhat broken on Forge 1.20.1\n- Switched the bundled MixinExtras dependency to its slim variant\n- Reworked the transition system to be based on time instead of arbitrary values\n  - Fixed the \"Linear\" transition, making it truly linear\n- Split zoom transitions into a Start Transition, an End Transition and a Scroll Transition, allowing for further configurability\n- Reorganized the configuration for better user-friendliness and ease of configuration\n- Added \"Sine\", \"Balanced\" and \"Spring\" transitions\n- Added the \"Numeric Sliders\" option, replacing the number inputs with narrower but easier-to-configure number sliders\n- Added the \"Zoominator\" preset, which tries its best to replicate Zoomify's default zoom\n- Merged the Cinematic Camera's Vanilla and Multiplied modes\n  - Fixed a crash caused by the multiplied Cinematic Camera\n- Added support for Sodium's config screen\n- Updated the English text to be much clearer\n- Added a French (`fr_fr`) translation (#169, thanks p-sage!)\n- Updated the Traditional Chinese (`zh-tw`) translation (#172, thanks StarsShine11904!)\n- Updated the Simplified Chinese (`zh-cn`) translation (#148, thanks Moralts!)\n  - Backported from a pre-Rebirth Part 2 update, strings may still be missing\n- Updated the Brazilian Portuguese translation\n- Updated to Wrench Wrapper 0.8.1\n  - Fixed potential issues with compatibility layers like Sinytra and Kilt (#143)\n  - Switched from TOML to JSON5, the old config file will remain intact\n- Cleaned up lots of code\n- Moved all classes to `page.langeweile.ok_zoomer`\n- Removed the Portals internal functionality in favor of loader-agnostic code\n  - Fixed Ok Zoomer being mandatory to clients if the server (LAN) has it installed (issue #167)\n- Replaced the spyglass item check with a more efficient (and compatible) one on Forge\n- Stripped down the \"Unbind Conflicting Keys\" functionality on Minecraft 1.20.1, being removed on Forge and being config file-only on Fabric\n- Removed the legacy zoom scrolling mode and the Legacy Zoom Values section\n- Removed now-redundant Accessories compatibility code\n- Added new owos",
+          "date_published": "2026-02-26T20:18:27.270094Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9102ecee4f762f94fa961d787d4a9fbe62774d1340664ed92f98930d379ba2ce6fb48329f4e3552e5fe66269d867c8a69b509c0adfee23dd9d86f8d442053c0f",
+                "sha1": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414"
+              },
+              "url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/8M3vtEOe/ok_zoomer-forge-5.4.0-beta.9.jar",
+              "filename": "ok_zoomer-forge-5.4.0-beta.9.jar",
+              "primary": true,
+              "size": 530268
+            },
+            {
+              "hashes": {
+                "sha1": "8a4b85ad6f8e4e1b535e74dc013672f788e9b054",
+                "sha512": "5869715a2910da2b88e80b5fcaf9997fe0dc3f525fdff66dac0278c0d21425ab68ed3e0a5740123aaf3e3f43580541ae9d4dfc58db887d43a8fa1ea3db62e105"
+              },
+              "url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/8M3vtEOe/ok_zoomer-forge-5.4.0-beta.9-sources.jar",
+              "filename": "ok_zoomer-forge-5.4.0-beta.9-sources.jar",
+              "primary": false,
+              "size": 74354
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1775970292116,
-    "numPlays": 33
+    "lastPlayed": 1776044500099,
+    "numPlays": 35
   },
   "id": "1.20.1",
   "complianceLevel": 1,

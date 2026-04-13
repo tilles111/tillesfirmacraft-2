@@ -6,7 +6,9 @@
       "viewedEntries": [
         "tfc:mechanics/steel",
         "tfc:the_world/ores_and_minerals",
-        "tfc:mechanics/mechanical_power"
+        "tfc:mechanics/mechanical_power",
+        "tfc:advancedtfctech/fleshing_machine",
+        "tfc:mechanics/blast_furnace"
       ],
       "bookmarks": [],
       "completedManualQuests": []

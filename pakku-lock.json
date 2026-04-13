@@ -1139,6 +1139,43 @@
             ]
         },
         {
+            "pakku_id": "S48DQZsfp67bPcHI",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "creativecore"
+            },
+            "name": {
+                "curseforge": "CreativeCore"
+            },
+            "id": {
+                "curseforge": "257814"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7649/757/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+                    "id": "7649757",
+                    "parent_id": "257814",
+                    "hashes": {
+                        "sha1": "f2324c43cd0bbb856b115ce1a688c33bff999294",
+                        "md5": "a58f958ab8b789af3c6b3a9d93ca415d"
+                    },
+                    "required_dependencies": [],
+                    "size": 1143788,
+                    "date_published": "2026-02-19T17:33:44.717Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Sm5pegeOaOLnLTOW",
             "type": "MOD",
             "slug": {
@@ -2410,6 +2447,45 @@
             ]
         },
         {
+            "pakku_id": "oV2Nh5sXoIRqTQXu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "itemphysic-lite"
+            },
+            "name": {
+                "curseforge": "ItemPhysic Lite"
+            },
+            "id": {
+                "curseforge": "270441"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6045/994/ItemPhysicLite_FORGE_v1.6.6_mc1.20.1.jar",
+                    "id": "6045994",
+                    "parent_id": "270441",
+                    "hashes": {
+                        "sha1": "4fc87af53afb8610e77710b30340783fc6bd0ccf",
+                        "md5": "83c19033092e5eab8c00e0ab056a783a"
+                    },
+                    "required_dependencies": [
+                        "257814"
+                    ],
+                    "size": 19487,
+                    "date_published": "2025-01-02T15:19:28.153Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "OPDTjKNwdzxTb254",
             "type": "MOD",
             "slug": {
@@ -3173,6 +3249,43 @@
             ]
         },
         {
+            "pakku_id": "TO4WIgbbVuw3oZWW",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ok-zoomer"
+            },
+            "name": {
+                "curseforge": "Ok Zoomer - It's Zoom!"
+            },
+            "id": {
+                "curseforge": "354047"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ok_zoomer-forge-5.4.0-beta.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7682/985/ok_zoomer-forge-5.4.0-beta.9.jar",
+                    "id": "7682985",
+                    "parent_id": "354047",
+                    "hashes": {
+                        "sha1": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414",
+                        "md5": "58098a6b4c5894f92051f8a0d452ce9a"
+                    },
+                    "required_dependencies": [],
+                    "size": 530268,
+                    "date_published": "2026-02-26T20:18:24.953Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "iWZbKelh6XzoqFeI",
             "type": "MOD",
             "slug": {
@@ -3698,6 +3811,43 @@
             ]
         },
         {
+            "pakku_id": "Mpc476lIz0le2IOa",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "skin-layers-3d"
+            },
+            "name": {
+                "curseforge": "Skin Layers 3D"
+            },
+            "id": {
+                "curseforge": "521480"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7857/555/skinlayers3d-forge-1.11.1-mc1.20.1.jar",
+                    "id": "7857555",
+                    "parent_id": "521480",
+                    "hashes": {
+                        "sha1": "b64ccb25ebe4cb7b09d1dd4561dbc519d5f02382",
+                        "md5": "d7173930d21f0f3bf240e1d08ba84a29"
+                    },
+                    "required_dependencies": [],
+                    "size": 2163998,
+                    "date_published": "2026-04-01T18:15:51.713Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UEq5BB7s8aOKLgIA",
             "pakku_links": [
                 "9yg2hVFlfsIa9cTA"
@@ -3818,6 +3968,42 @@
                     ],
                     "size": 443978,
                     "date_published": "2025-01-18T20:48:18.013Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "lYyZG59BJPigOz8S",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sound-physics-remastered"
+            },
+            "name": {
+                "curseforge": "Sound Physics Remastered"
+            },
+            "id": {
+                "curseforge": "535489"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7032/235/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+                    "id": "7032235",
+                    "parent_id": "535489",
+                    "hashes": {
+                        "sha1": "aef2c02392624f0a12475ada809366b12ac9ec52",
+                        "md5": "d70031b5058fb81d2670a4039440b00f"
+                    },
+                    "required_dependencies": [],
+                    "size": 206984,
+                    "date_published": "2025-09-25T14:25:13.323Z"
                 }
             ]
         },
