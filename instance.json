@@ -34628,13 +34628,540 @@
           "fileFingerprint": 1225615187,
           "modId": 1036246
         }
+      },
+      {
+        "name": "Balm",
+        "version": "balm-forge-1.20.1-7.3.38-all.jar",
+        "optional": true,
+        "file": "balm-forge-1.20.1-7.3.38-all.jar",
+        "type": "mods",
+        "description": "Abstraction Layer for Multi-Loader Mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 531761,
+        "curseForgeFileId": 7420617,
+        "curseForgeProject": {
+          "id": 531761,
+          "name": "Balm",
+          "authors": [
+            {
+              "id": 12099681,
+              "name": "BlayTheNinth",
+              "url": "https://www.curseforge.com/members/blaytheninth"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Abstraction Layer for Multi-Loader Mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "balm",
+          "isFeatured": false,
+          "dateModified": "2026-04-10T09:05:52.103Z",
+          "dateCreated": "2021-09-29T10:33:49.32Z",
+          "dateReleased": "2026-04-10T09:02:54.45Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/balm",
+            "wikiUrl": "https://balm.twelveiterations.com/",
+            "issuesUrl": "https://github.com/TwelveIterations/Balm/issues",
+            "sourceUrl": "https://github.com/TwelveIterations/Balm"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/36qHFMNgAh"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            },
+            {
+              "type": "8",
+              "url": "https://www.twitch.tv/blaytheninth"
+            },
+            {
+              "type": "14",
+              "url": "https://bsky.app/profile/blaytheninth.bsky.social"
+            }
+          ],
+          "logo": {
+            "id": 1107117,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1107/117/256/256/638657111836546584.png",
+            "title": "638657111836546584.png",
+            "url": "https://media.forgecdn.net/avatars/1107/117/638657111836546584.png",
+            "modId": 531761
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7903730
+        },
+        "curseForgeFile": {
+          "id": 7420617,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "balm-forge-1.20.1-7.3.38-all.jar",
+          "fileName": "balm-forge-1.20.1-7.3.38-all.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-01-05T11:43:31.017Z",
+          "fileLength": 591397,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3398776058,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1562175060,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3535347704,
+              "name": "balm-icon.png"
+            },
+            {
+              "fingerprint": 1720835543,
+              "name": "balm.mixins.json"
+            },
+            {
+              "fingerprint": 368890418,
+              "name": "balm.refmap.json"
+            },
+            {
+              "fingerprint": 2080437699,
+              "name": "data"
+            },
+            {
+              "fingerprint": 521604283,
+              "name": "net"
+            },
+            {
+              "fingerprint": 4184954135,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2086325127,
+              "name": "wthit_plugins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "515905f87268f1eb5af2a9878a84914517efe552",
+              "algo": 1
+            },
+            {
+              "value": "499467bc8050be8893b08995438cc026",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 3717034118,
+          "modId": 531761
+        }
+      },
+      {
+        "name": "Inventory Essentials",
+        "version": "inventoryessentials-forge-1.20.1-8.2.14.jar",
+        "optional": true,
+        "file": "inventoryessentials-forge-1.20.1-8.2.14.jar",
+        "type": "mods",
+        "description": "The most essential inventory tweaks. Now with sorting!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 368825,
+        "curseForgeFileId": 7207609,
+        "curseForgeProject": {
+          "id": 368825,
+          "name": "Inventory Essentials",
+          "authors": [
+            {
+              "id": 12099681,
+              "name": "BlayTheNinth",
+              "url": "https://www.curseforge.com/members/blaytheninth"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The most essential inventory tweaks. Now with sorting!",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "inventory-essentials",
+          "isFeatured": false,
+          "dateModified": "2026-04-03T16:58:08.997Z",
+          "dateCreated": "2020-03-23T17:46:59.41Z",
+          "dateReleased": "2026-04-03T07:44:32.013Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/inventory-essentials",
+            "wikiUrl": "https://mods.twelveiterations.com/mc/inventory-essentials",
+            "issuesUrl": "https://github.com/TwelveIterations/InventoryEssentials/issues",
+            "sourceUrl": "https://github.com/TwelveIterations/InventoryEssentials"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/VAfZ2Nau6j"
+            },
+            {
+              "type": "7",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            },
+            {
+              "type": "8",
+              "url": "https://www.twitch.tv/blaytheninth"
+            },
+            {
+              "type": "14",
+              "url": "https://bsky.app/profile/blaytheninth.bsky.social"
+            }
+          ],
+          "logo": {
+            "id": 256058,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/256/58/256/256/637203881905177301.png",
+            "title": "637203881905177301.png",
+            "url": "https://media.forgecdn.net/avatars/256/58/637203881905177301.png",
+            "modId": 368825
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7866396
+        },
+        "curseForgeFile": {
+          "id": 7207609,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "inventoryessentials-forge-1.20.1-8.2.14.jar",
+          "fileName": "inventoryessentials-forge-1.20.1-8.2.14.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-11-10T18:58:53.393Z",
+          "fileLength": 159489,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 531761,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3561648897,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1031176930,
+              "name": "LICENSE_inventoryessentials"
+            },
+            {
+              "fingerprint": 971572425,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2977625819,
+              "name": "inventoryessentials-icon.png"
+            },
+            {
+              "fingerprint": 959446034,
+              "name": "inventoryessentials.mixins.json"
+            },
+            {
+              "fingerprint": 1221701342,
+              "name": "inventoryessentials.refmap.json"
+            },
+            {
+              "fingerprint": 3349388741,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3576892092,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6840fd9a2b989855c804a2487d3f294d4cab46a5",
+              "algo": 1
+            },
+            {
+              "value": "6bf1e197b87a5a76668016ebd0168ecd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 786582916,
+          "modId": 368825
+        }
+      },
+      {
+        "name": "Corpse",
+        "version": "[FORGE][1.20.1] Corpse 1.20.1-1.0.23",
+        "optional": true,
+        "file": "corpse-forge-1.20.1-1.0.23.jar",
+        "type": "mods",
+        "description": "Never lose your items again!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 316582,
+        "curseForgeFileId": 7018272,
+        "curseForgeProject": {
+          "id": 316582,
+          "name": "Corpse",
+          "authors": [
+            {
+              "id": 20569971,
+              "name": "henkelmax",
+              "url": "https://www.curseforge.com/members/henkelmax"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Never lose your items again!",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "corpse",
+          "isFeatured": false,
+          "dateModified": "2026-04-10T13:19:31.3Z",
+          "dateCreated": "2019-03-06T17:21:14.03Z",
+          "dateReleased": "2026-04-10T13:16:52.293Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/henkelmax/corpse/issues",
+            "sourceUrl": "https://github.com/henkelmax/corpse"
+          },
+          "logo": {
+            "id": 194489,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/194/489/256/256/636873305017840968.png",
+            "title": "636873305017840968.png",
+            "url": "https://media.forgecdn.net/avatars/194/489/636873305017840968.png",
+            "modId": 316582
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7018272
+        },
+        "curseForgeFile": {
+          "id": 7018272,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FORGE][1.20.1] Corpse 1.20.1-1.0.23",
+          "fileName": "corpse-forge-1.20.1-1.0.23.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-09-21T09:06:56.603Z",
+          "fileLength": 245644,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1417247985,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3623889567,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2716364799,
+              "name": "de"
+            },
+            {
+              "fingerprint": 978719603,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 320998545,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd",
+              "algo": 1
+            },
+            {
+              "value": "a486f676f5e47e5846e31cb66cb5c16d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 4282386808,
+          "modId": 316582
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776044500099,
-    "numPlays": 35
+    "lastPlayed": 1776131870231,
+    "numPlays": 37
   },
   "id": "1.20.1",
   "complianceLevel": 1,

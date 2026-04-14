@@ -1,6 +1,55 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:tfc:metal/saw_blade/copper",
+    "item:tfc:metal/saw/copper",
+    "#item:tfc:saws",
+    "item:tfc:wood/lumber/sycamore",
+    "item:tfc:wood/planks/sycamore_door",
+    {
+      "type": "item",
+      "id": "firmaciv:thatch_roofing_slab",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "firmalife:jar/honey",
+      "remainder": "item:tfc:empty_jar"
+    },
+    "item:firmalife:raw_honey",
+    "item:tfc:burlap_cloth",
+    "item:tfc:jute_fiber",
+    "item:tfc:jute_net",
+    "item:tfc:dirty_jute_net",
+    "item:tfc:jute",
+    "item:malum:ether",
+    {
+      "type": "item",
+      "id": "malum:ether_torch",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "malum:iridescent_ether_torch",
+      "amount": 32
+    },
+    "item:tfc:powder/native_gold",
+    {
+      "type": "item",
+      "id": "tfc:ore/rich_native_gold",
+      "amount": 3
+    },
+    {
+      "type": "fluid",
+      "id": "tfc:metal/gold",
+      "amount": 35
+    },
+    "item:minecraft:gunpowder",
+    {
+      "type": "item",
+      "id": "minecraft:tnt",
+      "amount": 32
+    },
     {
       "type": "item",
       "id": "malum:rotting_essence",
@@ -110,12 +159,6 @@
       "type": "item",
       "id": "minecraft:rail",
       "amount": 32
-    },
-    "item:tfc:jute_fiber",
-    {
-      "type": "item",
-      "id": "tfc:jute",
-      "amount": 5
     },
     "item:waterflasks:iron_flask{Damage:0}",
     "item:waterflasks:unfinished_iron_flask",

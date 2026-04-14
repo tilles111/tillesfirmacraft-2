@@ -280,6 +280,43 @@
             ]
         },
         {
+            "pakku_id": "HYmWLnQaudTA5s0R",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "balm"
+            },
+            "name": {
+                "curseforge": "Balm"
+            },
+            "id": {
+                "curseforge": "531761"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-forge-1.20.1-7.3.38-all.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7420/617/balm-forge-1.20.1-7.3.38-all.jar",
+                    "id": "7420617",
+                    "parent_id": "531761",
+                    "hashes": {
+                        "sha1": "515905f87268f1eb5af2a9878a84914517efe552",
+                        "md5": "499467bc8050be8893b08995438cc026"
+                    },
+                    "required_dependencies": [],
+                    "size": 591397,
+                    "date_published": "2026-01-05T11:43:31.017Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "J0JCAl37TlKtdNLU",
             "pakku_links": [
                 "ftLbkphqQ6XWMPcD"
@@ -980,6 +1017,42 @@
                     "required_dependencies": [],
                     "size": 64187,
                     "date_published": "2024-02-10T13:46:20.167Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VMK0o4k0lbkKMTNS",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "corpse"
+            },
+            "name": {
+                "curseforge": "Corpse"
+            },
+            "id": {
+                "curseforge": "316582"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "corpse-forge-1.20.1-1.0.23.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7018/272/corpse-forge-1.20.1-1.0.23.jar",
+                    "id": "7018272",
+                    "parent_id": "316582",
+                    "hashes": {
+                        "sha1": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd",
+                        "md5": "a486f676f5e47e5846e31cb66cb5c16d"
+                    },
+                    "required_dependencies": [],
+                    "size": 245644,
+                    "date_published": "2025-09-21T09:06:56.603Z"
                 }
             ]
         },
@@ -2480,6 +2553,45 @@
                     ],
                     "size": 10719383,
                     "date_published": "2026-03-13T05:58:43.350Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bo4UMlS7cLBlifgO",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "inventory-essentials"
+            },
+            "name": {
+                "curseforge": "Inventory Essentials"
+            },
+            "id": {
+                "curseforge": "368825"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "inventoryessentials-forge-1.20.1-8.2.14.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7207/609/inventoryessentials-forge-1.20.1-8.2.14.jar",
+                    "id": "7207609",
+                    "parent_id": "368825",
+                    "hashes": {
+                        "sha1": "6840fd9a2b989855c804a2487d3f294d4cab46a5",
+                        "md5": "6bf1e197b87a5a76668016ebd0168ecd"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 159489,
+                    "date_published": "2025-11-10T18:58:53.393Z"
                 }
             ]
         },
