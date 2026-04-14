@@ -35155,6 +35155,347 @@
           "fileFingerprint": 4282386808,
           "modId": 316582
         }
+      },
+      {
+        "name": "FTB XMod Compat",
+        "version": "ftb-xmod-compat-forge-2.1.3.jar",
+        "optional": true,
+        "file": "ftb-xmod-compat-forge-2.1.3.jar",
+        "type": "mods",
+        "description": "Official multi-mod integrations support for the FTB Mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 889915,
+        "curseForgeFileId": 6402486,
+        "curseForgeProject": {
+          "id": 889915,
+          "name": "FTB XMod Compat",
+          "authors": [
+            {
+              "id": 17809311,
+              "name": "FTB",
+              "url": "https://www.curseforge.com/members/ftb"
+            },
+            {
+              "id": 129670203,
+              "name": "FTBTeam",
+              "url": "https://www.curseforge.com/members/ftbteam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Official multi-mod integrations support for the FTB Mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "ftb-xmod-compat",
+          "isFeatured": false,
+          "dateModified": "2026-03-06T16:44:46.797Z",
+          "dateCreated": "2023-07-18T12:44:50.013Z",
+          "dateReleased": "2026-03-06T16:40:45.563Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat",
+            "wikiUrl": "https://go.ftb.team/docs-xmod",
+            "issuesUrl": "https://go.ftb.team/support-mod-issues",
+            "sourceUrl": "https://github.com/FTBTeam/FTB-XMod-Compat"
+          },
+          "logo": {
+            "id": 850409,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/850/409/256/256/638251965015898859.png",
+            "title": "638251965015898859.png",
+            "url": "https://media.forgecdn.net/avatars/850/409/638251965015898859.png",
+            "modId": 889915
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7715134
+        },
+        "curseForgeFile": {
+          "id": 6402486,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ftb-xmod-compat-forge-2.1.3.jar",
+          "fileName": "ftb-xmod-compat-forge-2.1.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-04-09T10:47:38.837Z",
+          "fileLength": 129725,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 289412,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 314905,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 268655,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 404465,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238086,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 245755,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2601027792,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1906588422,
+              "name": "kubejs.plugins.txt"
+            },
+            {
+              "fingerprint": 118629613,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3703427272,
+              "name": "kubejs.classfilter.txt"
+            },
+            {
+              "fingerprint": 2250763913,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3847457515,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 325484272,
+              "name": "architectury_inject_FTBXModCompat1201_common_ff28572996724c77b2ddd312179ced9a_0bae31cb40f3adf2afeabe6d94b534752b8d99f828fbdefad40a7def4a08500cftbxmodcompat213devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0584f628d2bc6a612d79dee368324357ebae1423",
+              "algo": 1
+            },
+            {
+              "value": "6d01bd4bc73c6ce36d0d91c56bb27772",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2853914731,
+          "modId": 889915
+        }
+      },
+      {
+        "name": "Item Filters",
+        "version": "item-filters-forge-2001.1.0-build.59.jar",
+        "optional": true,
+        "file": "item-filters-forge-2001.1.0-build.59.jar",
+        "type": "mods",
+        "description": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 309674,
+        "curseForgeFileId": 4838266,
+        "curseForgeProject": {
+          "id": 309674,
+          "name": "Item Filters",
+          "authors": [
+            {
+              "id": 11776558,
+              "name": "LatvianModder",
+              "url": "https://www.curseforge.com/members/latvianmodder"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "item-filters",
+          "isFeatured": false,
+          "dateModified": "2023-11-03T18:49:45.683Z",
+          "dateCreated": "2019-01-08T04:12:44.183Z",
+          "dateReleased": "2023-11-03T18:45:29.927Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+            "wikiUrl": "https://discord.gg/latviandev",
+            "issuesUrl": "https://github.com/LatvianModder/Item-Filters/issues",
+            "sourceUrl": "https://github.com/LatvianModder/Item-Filters"
+          },
+          "logo": {
+            "id": 183063,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/183/63/256/256/636812486536100113.png",
+            "title": "636812486536100113.png",
+            "url": "https://media.forgecdn.net/avatars/183/63/636812486536100113.png",
+            "modId": 309674
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4553322
+        },
+        "curseForgeFile": {
+          "id": 4838266,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "item-filters-forge-2001.1.0-build.59.jar",
+          "fileName": "item-filters-forge-2001.1.0-build.59.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-11-03T18:45:29.927Z",
+          "fileLength": 110191,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2551210765,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3895545159,
+              "name": "itemfilters-common.mixins.json"
+            },
+            {
+              "fingerprint": 734738882,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4139533340,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "item-filters-common-refmap.json"
+            },
+            {
+              "fingerprint": 551857085,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3876258947,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 2614043915,
+              "name": "architectury_inject_ItemFilters1201_common_e9af290c845d43a6b1134351e469507f_c8942102ce7c657b325e1bc52c0e8291319f230144d9971e2cc991cda8898f87itemfilters200110build59devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "55a7f032c59489eca96069a7841601de2ff97590",
+              "algo": 1
+            },
+            {
+              "value": "4155fd7faf7daf46f9dcb914e93893e1",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3667785910,
+          "modId": 309674
+        }
       }
     ],
     "ignoredUpdates": [],
