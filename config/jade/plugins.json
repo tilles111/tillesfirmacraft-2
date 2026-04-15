@@ -153,6 +153,12 @@
     "block": true,
     "note_block": true
   },
+  "corpse": {
+    "corpse": true
+  },
+  "balm": {
+    "jade": true
+  },
   "immersivetechnology": {
     "display": true
   }

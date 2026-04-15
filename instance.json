@@ -62,18 +62,6 @@
           "summary": "View Items and Recipes",
           "categories": [
             {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -84,6 +72,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -91,9 +91,9 @@
           "classId": 6,
           "slug": "jei",
           "isFeatured": false,
-          "dateModified": "2026-04-10T13:15:47.39Z",
+          "dateModified": "2026-04-13T13:58:01.537Z",
           "dateCreated": "2015-11-23T23:00:41.923Z",
-          "dateReleased": "2026-04-10T13:08:09.093Z",
+          "dateReleased": "2026-04-13T13:51:42.667Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
             "wikiUrl": "",
@@ -4245,7 +4245,7 @@
             }
           ],
           "gameId": 432,
-          "summary": "Distribute HUD updates over multiple frames to improve performance. Now supports 1.21.11!",
+          "summary": "Distribute HUD updates over multiple frames to improve performance",
           "categories": [
             {
               "name": "Performance",
@@ -4265,9 +4265,9 @@
           "classId": 6,
           "slug": "gnetum",
           "isFeatured": false,
-          "dateModified": "2026-04-04T08:06:02.543Z",
+          "dateModified": "2026-04-13T05:39:16.297Z",
           "dateCreated": "2025-03-15T07:35:07.21Z",
-          "dateReleased": "2026-04-04T07:57:26.68Z",
+          "dateReleased": "2026-04-13T05:31:50.057Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/gnetum",
             "issuesUrl": "https://github.com/decce6/gnetum/issues",
@@ -4314,7 +4314,7 @@
               "modId": 1220460
             }
           ],
-          "mainFileId": 7871835
+          "mainFileId": 7919602
         },
         "curseForgeFile": {
           "id": 7641759,
@@ -6815,9 +6815,9 @@
           "classId": 6,
           "slug": "attributefix",
           "isFeatured": false,
-          "dateModified": "2026-02-12T01:19:20.207Z",
+          "dateModified": "2026-04-12T22:15:40.253Z",
           "dateCreated": "2017-10-23T22:52:35.823Z",
-          "dateReleased": "2026-02-12T01:13:52.617Z",
+          "dateReleased": "2026-04-12T22:07:31.087Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
             "wikiUrl": "https://docs.darkhax.net/mods/attributefix?curseforge",
@@ -6834,7 +6834,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7612292
+          "mainFileId": 7918226
         },
         "curseForgeFile": {
           "id": 7612291,
@@ -7016,6 +7016,18 @@
           "summary": "Fixes a bug with max health in Minecraft.",
           "categories": [
             {
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Armor, Tools, and Weapons",
               "slug": "armor-weapons-tools",
               "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
@@ -7062,18 +7074,6 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "Bug Fixes",
-              "slug": "bug-fixes",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
-              "dateModified": "2024-01-17T06:56:01.62Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6821,
-              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
@@ -7081,9 +7081,9 @@
           "classId": 6,
           "slug": "max-health-fix",
           "isFeatured": false,
-          "dateModified": "2026-02-12T04:08:20.987Z",
+          "dateModified": "2026-04-13T07:09:29.253Z",
           "dateCreated": "2021-06-09T09:13:37.397Z",
-          "dateReleased": "2026-02-12T04:02:48.453Z",
+          "dateReleased": "2026-04-13T07:05:53.797Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/max-health-fix",
             "wikiUrl": "",
@@ -7100,7 +7100,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7612770
+          "mainFileId": 7919761
         },
         "curseForgeFile": {
           "id": 7612769,
@@ -7720,7 +7720,7 @@
         "curseForgeFileId": 7296748,
         "curseForgeProject": {
           "id": 404465,
-          "name": "FTB Library (Forge)",
+          "name": "FTB Library (NeoForge)",
           "authors": [
             {
               "id": 17809311,
@@ -7754,9 +7754,9 @@
           "classId": 6,
           "slug": "ftb-library-forge",
           "isFeatured": false,
-          "dateModified": "2026-03-12T14:04:18.67Z",
+          "dateModified": "2026-04-13T16:04:35.447Z",
           "dateCreated": "2020-08-25T23:29:22.82Z",
-          "dateReleased": "2026-03-12T13:59:06.853Z",
+          "dateReleased": "2026-04-13T16:00:11.78Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
             "wikiUrl": "https://go.ftb.team/docs-library",
@@ -7923,9 +7923,9 @@
           "classId": 6,
           "slug": "ftb-teams-forge",
           "isFeatured": false,
-          "dateModified": "2026-04-05T08:39:07.013Z",
+          "dateModified": "2026-04-13T15:33:27.34Z",
           "dateCreated": "2020-08-25T23:29:22.803Z",
-          "dateReleased": "2026-04-05T08:31:58.663Z",
+          "dateReleased": "2026-04-13T15:29:52.867Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge",
             "wikiUrl": "https://go.ftb.team/docs-teams",
@@ -8058,6 +8058,30 @@
           "summary": "Questing Mod by FTB",
           "categories": [
             {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Server Utility",
               "slug": "server-utility",
               "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
@@ -8078,30 +8102,6 @@
               "isClass": false,
               "id": 421,
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -12425,9 +12425,9 @@
           "classId": 6,
           "slug": "shadow-drop",
           "isFeatured": true,
-          "dateModified": "2026-04-11T01:39:59.54Z",
+          "dateModified": "2026-04-13T18:29:15.033Z",
           "dateCreated": "2026-03-20T15:15:21.003Z",
-          "dateReleased": "2026-04-11T01:31:50.097Z",
+          "dateReleased": "2026-04-13T18:21:59.67Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/shadow-drop",
             "issuesUrl": "https://github.com/Terrunic/shadow-drop/issues",
@@ -12452,7 +12452,7 @@
               "modId": 1490601
             }
           ],
-          "mainFileId": 7907900
+          "mainFileId": 7922117
         },
         "curseForgeFile": {
           "id": 7907900,
@@ -13517,18 +13517,6 @@
           "summary": "See who are you chatting with! Now for Forge too!",
           "categories": [
             {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -13537,6 +13525,18 @@
               "isClass": false,
               "id": 424,
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -15796,18 +15796,6 @@
           "summary": "Automatic in-game configuration menus for every mod!",
           "categories": [
             {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Server Utility",
               "slug": "server-utility",
               "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
@@ -15828,6 +15816,18 @@
               "isClass": false,
               "id": 5191,
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -27446,9 +27446,9 @@
           "classId": 6,
           "slug": "geckolib",
           "isFeatured": false,
-          "dateModified": "2026-03-24T19:27:56.253Z",
+          "dateModified": "2026-04-12T03:31:57.087Z",
           "dateCreated": "2020-06-08T21:02:20.903Z",
-          "dateReleased": "2026-03-24T19:07:47.42Z",
+          "dateReleased": "2026-04-12T03:22:15.507Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
             "wikiUrl": "https://github.com/bernie-g/geckolib/wiki",
@@ -27471,7 +27471,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 7806319
+          "mainFileId": 7913641
         },
         "curseForgeFile": {
           "id": 7553267,
@@ -31416,265 +31416,6 @@
         }
       },
       {
-        "name": "Create: Design n' Decor",
-        "version": "Design-n-Decor-2.1.0-1.20.1.jar",
-        "optional": true,
-        "file": "dndecor-2.1.0.jar",
-        "type": "mods",
-        "description": "A Create addon focused on QOL decoration features that expand on the base decoration ability of Create whilst focusing on community feedback",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 923238,
-        "curseForgeFileId": 7006245,
-        "curseForgeProject": {
-          "id": 923238,
-          "name": "Create: Design n' Decor",
-          "authors": [
-            {
-              "id": 102301350,
-              "name": "Luna",
-              "url": "https://www.curseforge.com/members/luna"
-            },
-            {
-              "id": 103113342,
-              "name": "Dr_Mango_Tea",
-              "url": "https://www.curseforge.com/members/dr_mango_tea"
-            },
-            {
-              "id": 104792124,
-              "name": "MilkyFur",
-              "url": "https://www.curseforge.com/members/milkyfur"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A Create addon focused on QOL decoration features that expand on the base decoration ability of Create whilst focusing on community feedback",
-          "categories": [
-            {
-              "name": "Create",
-              "slug": "create",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
-              "dateModified": "2023-06-16T15:13:08.513Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6484,
-              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
-              "parentCategoryId": 426,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 6484,
-          "classId": 6,
-          "slug": "create-design-n-decor",
-          "isFeatured": false,
-          "dateModified": "2025-11-30T16:08:16.33Z",
-          "dateCreated": "2023-10-16T11:24:23.843Z",
-          "dateReleased": "2025-09-17T15:42:05.047Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-design-n-decor",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/DrMango14/Create-Design-n-Decor/issues",
-            "sourceUrl": "https://github.com/DrMango14/Create-Design-n-Decor"
-          },
-          "socialLinks": [
-            {
-              "type": "2",
-              "url": "https://discord.gg/3uPNTxFpMr"
-            }
-          ],
-          "logo": {
-            "id": 1293563,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1293/563/256/256/638840765433611351.png",
-            "title": "638840765433611351.png",
-            "url": "https://media.forgecdn.net/avatars/1293/563/638840765433611351.png",
-            "modId": 923238
-          },
-          "allowModDistribution": false,
-          "screenshots": [
-            {
-              "id": 743549,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/743/549/310/172/114.png",
-              "title": "Some More More Blocks! (Computercraft, Handcrafted, Farmers Delight on the side)",
-              "url": "https://media.forgecdn.net/attachments/743/549/114.png",
-              "modId": 923238
-            },
-            {
-              "id": 743548,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/743/548/310/172/113.png",
-              "title": "Lamps",
-              "url": "https://media.forgecdn.net/attachments/743/548/113.png",
-              "modId": 923238
-            },
-            {
-              "id": 743547,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/743/547/310/172/112.png",
-              "title": "More Blocks",
-              "url": "https://media.forgecdn.net/attachments/743/547/112.png",
-              "modId": 923238
-            },
-            {
-              "id": 743546,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/743/546/310/172/111.png",
-              "title": "Blocks",
-              "url": "https://media.forgecdn.net/attachments/743/546/111.png",
-              "modId": 923238
-            },
-            {
-              "id": 743545,
-              "description": "Credits to the_seven_",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/743/545/310/172/designdecor.png",
-              "title": "Mod Title",
-              "url": "https://media.forgecdn.net/attachments/743/545/designdecor.png",
-              "modId": 923238
-            }
-          ],
-          "mainFileId": 7006245
-        },
-        "curseForgeFile": {
-          "id": 7006245,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Design-n-Decor-2.1.0-1.20.1.jar",
-          "fileName": "dndecor-2.1.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2025-09-17T15:42:05.047Z",
-          "fileLength": 3247550,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 328085,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 344249660,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3953859744,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 3594572651,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 878828632,
-              "name": "data"
-            },
-            {
-              "fingerprint": 134514254,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 3384036547,
-              "name": "dndecor.mixins.json"
-            },
-            {
-              "fingerprint": 1586369187,
-              "name": "dndecor.refmap.json"
-            },
-            {
-              "fingerprint": 1849113194,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 1158581001,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "ebb404a2b0603cf05b598d12916e4fe5b76193d8",
-              "algo": 1
-            },
-            {
-              "value": "418c8173418308a20a3ddf08f253552a",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 4236510663,
-          "modId": 923238
-        }
-      },
-      {
         "name": "Create Horse Power",
         "version": "Create Horse Power 1.1.0 for mc1.20.1",
         "optional": true,
@@ -34194,9 +33935,9 @@
           "classId": 6,
           "slug": "ok-zoomer",
           "isFeatured": false,
-          "dateModified": "2026-04-04T22:49:41.39Z",
+          "dateModified": "2026-04-14T01:55:32.463Z",
           "dateCreated": "2019-12-09T08:17:41.317Z",
-          "dateReleased": "2026-04-04T22:33:28.94Z",
+          "dateReleased": "2026-04-14T01:48:08.07Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ok-zoomer",
             "wikiUrl": "",
@@ -34246,7 +33987,7 @@
               "modId": 354047
             }
           ],
-          "mainFileId": 7876574
+          "mainFileId": 7923875
         },
         "curseForgeFile": {
           "id": 7682985,
@@ -35496,13 +35237,171 @@
           "fileFingerprint": 3667785910,
           "modId": 309674
         }
+      },
+      {
+        "name": "TFC ruined world",
+        "version": "TFC ruined world 0,0,4",
+        "optional": true,
+        "file": "tfcstructuremodc-0.0.4.jar",
+        "type": "mods",
+        "description": "Adds ruined structures to the world of TFC",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1129845,
+        "curseForgeFileId": 6019462,
+        "curseForgeProject": {
+          "id": 1129845,
+          "name": "TFC ruined world",
+          "authors": [
+            {
+              "id": 112110047,
+              "name": "C4t2",
+              "url": "https://www.curseforge.com/members/c4t2"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds ruined structures to the world of TFC",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "tfc-ruined-world",
+          "isFeatured": false,
+          "dateModified": "2024-12-24T12:27:22.797Z",
+          "dateCreated": "2024-10-31T10:05:06.897Z",
+          "dateReleased": "2024-12-24T12:24:46.71Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tfc-ruined-world",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 1109552,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1109/552/256/256/638660465204500947.png",
+            "title": "638660465204500947.png",
+            "url": "https://media.forgecdn.net/avatars/1109/552/638660465204500947.png",
+            "modId": 1129845
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1004619,
+              "description": "2024-11-01_09.22.20.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1004/619/310/172/2024-11-01_09.png",
+              "title": "Small ruined church",
+              "url": "https://media.forgecdn.net/attachments/1004/619/2024-11-01_09.png",
+              "modId": 1129845
+            }
+          ],
+          "mainFileId": 6019462
+        },
+        "curseForgeFile": {
+          "id": 6019462,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "TFC ruined world 0,0,4",
+          "fileName": "tfcstructuremodc-0.0.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-12-24T12:24:46.71Z",
+          "fileLength": 117927,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 76790408,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3341654268,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1799588733,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3678652156,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "30cdc7fb5e39545feaeb5f09b6fb4ccaf09aec14",
+              "algo": 1
+            },
+            {
+              "value": "089b14cb12bf40bab1b23fa456e1569a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1490669427,
+          "modId": 1129845
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776131870231,
-    "numPlays": 37
+    "lastPlayed": 1776239234680,
+    "numPlays": 42,
+    "lastExportName": "Cool TFC Modpack",
+    "lastExportVersion": "1.20.1",
+    "lastExportAuthor": "Tilles",
+    "lastExportSaveTo": "C:\\Users\\tille\\AppData\\Roaming\\ATLauncher\\instances\\tillesfirmacraft-2"
   },
   "id": "1.20.1",
   "complianceLevel": 1,

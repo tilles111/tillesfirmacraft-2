@@ -4763,6 +4763,42 @@
             ]
         },
         {
+            "pakku_id": "sZj29DwSbzbYNtwv",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "tfc-ruined-world"
+            },
+            "name": {
+                "curseforge": "TFC ruined world"
+            },
+            "id": {
+                "curseforge": "1129845"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tfcstructuremodc-0.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6019/462/tfcstructuremodc-0.0.4.jar",
+                    "id": "6019462",
+                    "parent_id": "1129845",
+                    "hashes": {
+                        "sha1": "30cdc7fb5e39545feaeb5f09b6fb4ccaf09aec14",
+                        "md5": "089b14cb12bf40bab1b23fa456e1569a"
+                    },
+                    "required_dependencies": [],
+                    "size": 117927,
+                    "date_published": "2024-12-24T12:24:46.710Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FFua8BxGgZSF9yWN",
             "type": "MOD",
             "slug": {

@@ -1,8 +1,50 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:drowned_spawn_egg",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:zombie_spawn_egg",
+      "amount": 64
+    },
+    "item:tfc:metal/bucket/blue_steel",
+    "item:minecraft:bucket",
+    "item:immersiveengineering:ingot_aluminum",
+    {
+      "type": "fluid",
+      "id": "tfc_ie_addon:metal/aluminum",
+      "amount": 10
+    },
+    "item:tfc_ie_addon:ore/small_bauxite",
+    "item:minecraft:bone_meal",
+    "item:tfc:glue",
+    {
+      "type": "item",
+      "id": "minecraft:light_blue_dye",
+      "amount": 32
+    },
+    "item:minecraft:gunpowder",
+    {
+      "type": "item",
+      "id": "minecraft:firework_rocket",
+      "nbt": "{Fireworks:{Flight:1b}}",
+      "amount": 64
+    },
+    "item:immersiveengineering:dust_wood",
+    "item:minecraft:paper",
+    "item:theurgy:alchemical_sulfur_elytra{\"theurgy:sulfur.source.id\":\"minecraft:elytra\"}",
+    "item:minecraft:elytra{Damage:0}",
+    {
+      "type": "item",
+      "id": "tfc:gem/pyrite",
+      "amount": 64
+    },
     "item:tfc:metal/saw_blade/copper",
-    "item:tfc:metal/saw/copper",
+    "item:tfc:metal/saw/copper{Damage:0}",
     "#item:tfc:saws",
     "item:tfc:wood/lumber/sycamore",
     "item:tfc:wood/planks/sycamore_door",
@@ -44,7 +86,6 @@
       "id": "tfc:metal/gold",
       "amount": 35
     },
-    "item:minecraft:gunpowder",
     {
       "type": "item",
       "id": "minecraft:tnt",
@@ -98,8 +139,8 @@
       "amount": 1000,
       "ingredients": [
         "#fluid:firmalife:mixable",
-        "#fluid:tfc:water",
-        "#fluid:tfcchannelcasting:mixable"
+        "#fluid:tfcchannelcasting:mixable",
+        "#fluid:tfc:water"
       ]
     },
     {
