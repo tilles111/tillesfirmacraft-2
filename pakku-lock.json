@@ -3739,6 +3739,42 @@
             ]
         },
         {
+            "pakku_id": "Y747Dxq5cn04OLMC",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "presence-footsteps-forge"
+            },
+            "name": {
+                "curseforge": "Presence Footsteps (Forge)"
+            },
+            "id": {
+                "curseforge": "433068"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5015/286/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+                    "id": "5015286",
+                    "parent_id": "433068",
+                    "hashes": {
+                        "sha1": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+                        "md5": "e42d774ced61f8c62c58f3111aa5e3f5"
+                    },
+                    "required_dependencies": [],
+                    "size": 7080698,
+                    "date_published": "2024-01-07T18:51:46.987Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "WQURV6Y4WXmIV1Kf",
             "type": "MOD",
             "slug": {
@@ -4272,7 +4308,7 @@
             ]
         },
         {
-            "pakku_id": "WXbj6jOKls5lPkmX",
+            "pakku_id": "EapfBzevsm96iE6H",
             "type": "MOD",
             "slug": {
                 "curseforge": "sound"
@@ -4286,7 +4322,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Sounds-2.2.1+1.20.1+forge.jar",
+                    "file_name": "Sounds-2.0.4+1.20.1+forge.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -4295,18 +4331,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5940/443/Sounds-2.2.1+1.20.1+forge.jar",
-                    "id": "5940443",
+                    "url": "https://edge.forgecdn.net/files/5643/512/Sounds-2.0.4+1.20.1+forge.jar",
+                    "id": "5643512",
                     "parent_id": "925889",
                     "hashes": {
-                        "sha1": "e75686799054958804d711b1b6ceef4d132764b8",
-                        "md5": "ea8427a4988c1f5ad6b5ed7a38b8224d"
+                        "sha1": "244c3dddf48189817bb155dc15522b3722953ef6",
+                        "md5": "19e24d6881db43d6f09ab1aaabb092f0"
                     },
                     "required_dependencies": [
                         "669659"
                     ],
-                    "size": 10974911,
-                    "date_published": "2024-11-27T00:34:47.920Z"
+                    "size": 10975478,
+                    "date_published": "2024-08-19T11:18:02.753Z"
                 }
             ]
         },

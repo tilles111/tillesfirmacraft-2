@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "minecraft:bone",
+    "minecraft:bone_meal"
+  ],
+  "soundEvent": "minecraft:block.bone_block.hit"
+}

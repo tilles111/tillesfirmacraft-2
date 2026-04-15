@@ -1,6 +1,66 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:malum:hallowed_gold_ingot",
+    "item:malum:spirit_jar",
+    "item:tfc:metal/ingot/weak_blue_steel",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/weak_blue_steel",
+      "amount": 100
+    },
+    "item:tfc:metal/ingot/high_carbon_blue_steel",
+    "item:tfc:metal/ingot/blue_steel",
+    "item:tfc:metal/double_ingot/blue_steel",
+    "item:tfc:metal/sword_blade/blue_steel",
+    "item:tfc:metal/sword/blue_steel{Damage:0}",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/bismuth_bronze",
+      "amount": 100
+    },
+    "item:tfc:metal/ingot/bismuth_bronze",
+    "item:tfc:metal/pickaxe_head/bismuth_bronze",
+    "item:tfc:metal/pickaxe/bismuth_bronze{Damage:0}",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/bronze",
+      "amount": 100
+    },
+    "item:tfc:metal/ingot/bronze",
+    "item:tfc:metal/pickaxe_head/bronze",
+    "item:tfc:metal/pickaxe/bronze{Damage:0}",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/black_bronze",
+      "amount": 100
+    },
+    "item:tfc:metal/ingot/black_bronze",
+    "item:tfc:metal/pickaxe_head/black_bronze",
+    "item:tfc:metal/pickaxe/black_bronze{Damage:0}",
+    "item:tfc:powder/hematite",
+    "item:tfc:ore/rich_hematite",
+    {
+      "type": "item",
+      "id": "tfc_ie_addon:mineral/quartz_shard",
+      "amount": 2
+    },
+    "item:tfc:metal/propick_head/bronze",
+    "item:tfc:metal/propick/bronze{Damage:0}",
+    "item:precisionprospecting:metal/prospector_hammer_head/copper",
+    "item:precisionprospecting:metal/prospector_hammer/copper{Damage:0}",
+    "item:precisionprospecting:metal/mineral_prospector_head/bronze",
+    "item:precisionprospecting:metal/mineral_prospector/bronze{Damage:0}",
+    "item:tfc:metal/tuyere/wrought_iron{Damage:0}",
+    "item:precisionprospecting:metal/prospector_drill_head/wrought_iron",
+    "item:precisionprospecting:metal/prospector_drill/wrought_iron{Damage:0}",
+    "item:tfc:stone/knife_head/sedimentary",
+    "item:minecraft:bone",
+    "item:tfc:bone_needle{Damage:0}",
+    "item:minecraft:skeleton_skull",
+    "item:malum:grim_talc",
+    "item:minecraft:bone_meal",
+    "item:malum:alchemical_calx",
     {
       "type": "item",
       "id": "minecraft:drowned_spawn_egg",
@@ -20,7 +80,6 @@
       "amount": 10
     },
     "item:tfc_ie_addon:ore/small_bauxite",
-    "item:minecraft:bone_meal",
     "item:tfc:glue",
     {
       "type": "item",
@@ -96,7 +155,6 @@
       "id": "malum:rotting_essence",
       "amount": 8
     },
-    "item:malum:grim_talc",
     "item:malum:block_of_grim_talc",
     "item:minecraft:zombie_head",
     {
@@ -216,11 +274,6 @@
       "nbt": "{Damage:0}",
       "remainder": "item:tfc:sandpaper{Damage:1}"
     },
-    {
-      "type": "item",
-      "id": "malum:alchemical_calx",
-      "amount": 64
-    },
     "item:vintageimprovements:redstone_module",
     "item:tfcambiental:straw_hat{Damage:0}",
     "item:tfcambiental:leather_apron{Damage:0}",
@@ -246,11 +299,6 @@
     "item:immersivetechnology:formation_tool",
     "item:immersivetechnology:advanced_coke_oven_baseheater",
     "item:immersivetechnology:salt_slurry_bucket",
-    {
-      "type": "fluid",
-      "id": "tfc:metal/bismuth_bronze",
-      "amount": 0
-    },
     {
       "type": "fluid",
       "id": "tfc:metal/wrought_iron",
@@ -356,7 +404,6 @@
     "item:create:andesite_alloy",
     "item:create:andesite_casing",
     "item:create:mechanical_mixer",
-    "item:tfc:metal/ingot/bismuth_bronze",
     "item:tfc:metal/hoe_head/bismuth_bronze",
     "item:tfc:metal/hoe/bismuth_bronze{Damage:0}",
     "item:minecraft:spruce_trapdoor",
@@ -397,6 +444,7 @@
     "item:tfc:wood/lumber/acacia"
   ],
   "craft_history": [
+    "tfc:crafting/stone/knife_sedimentary",
     "tfc:crafting/stone/axe_sedimentary"
   ],
   "recipe_defaults": {

@@ -35692,13 +35692,176 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Presence Footsteps (Forge)",
+        "version": "1.20.1-1.9.1-beta.1",
+        "optional": true,
+        "file": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+        "type": "mods",
+        "description": "An unofficial port of Presence Footsteps from Fabric to Forge",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 433068,
+        "curseForgeFileId": 5015286,
+        "curseForgeProject": {
+          "id": 433068,
+          "name": "Presence Footsteps (Forge)",
+          "authors": [
+            {
+              "id": 9853787,
+              "name": "Paint_Ninja",
+              "url": "https://www.curseforge.com/members/paint_ninja"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An unofficial port of Presence Footsteps from Fabric to Forge",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "presence-footsteps-forge",
+          "isFeatured": false,
+          "dateModified": "2026-03-27T20:44:26.117Z",
+          "dateCreated": "2021-01-06T11:41:05.09Z",
+          "dateReleased": "2026-02-08T21:26:16.127Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/PaintNinja/Presence-Footsteps-Forge/issues",
+            "sourceUrl": "https://github.com/PaintNinja/Presence-Footsteps-Forge"
+          },
+          "logo": {
+            "id": 328277,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/328/277/256/256/637452075605397189.png",
+            "title": "637452075605397189.png",
+            "url": "https://media.forgecdn.net/avatars/328/277/637452075605397189.png",
+            "modId": 433068
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7596469
+        },
+        "curseForgeFile": {
+          "id": 5015286,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.20.1-1.9.1-beta.1",
+          "fileName": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-01-07T18:51:46.987Z",
+          "fileLength": 7080698,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 110918894,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1725774337,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 3422329061,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2857965290,
+              "name": "eu"
+            },
+            {
+              "fingerprint": 2319595504,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 710247325,
+              "name": "presencefootsteps.mixin.json"
+            },
+            {
+              "fingerprint": 1913050040,
+              "name": "presencefootsteps.mixin.refmap.json"
+            },
+            {
+              "fingerprint": 3766543312,
+              "name": "presencefootsteps_logo.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6ccb76043763f929a11f1857a57b41bb70ab7512",
+              "algo": 1
+            },
+            {
+              "value": "e42d774ced61f8c62c58f3111aa5e3f5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 1633971404,
+          "modId": 433068
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776242748802,
-    "numPlays": 43,
+    "lastPlayed": 1776286614197,
+    "numPlays": 47,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",
