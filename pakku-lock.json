@@ -3290,6 +3290,44 @@
             ]
         },
         {
+            "pakku_id": "NQ8JoSZ2ABewEO4v",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "mob-sunscreen"
+            },
+            "name": {
+                "curseforge": "Mob Sunscreen"
+            },
+            "id": {
+                "curseforge": "298408"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mobsunscreen-forge-1.20.1-3.1.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4647/106/mobsunscreen-forge-1.20.1-3.1.1.jar",
+                    "id": "4647106",
+                    "parent_id": "298408",
+                    "hashes": {
+                        "sha1": "8da962e6d1776d52a04aab5a8b3509e1ccfb8007",
+                        "md5": "cb49648e56eec3916c6cb704b9a5618e"
+                    },
+                    "required_dependencies": [],
+                    "size": 11361,
+                    "date_published": "2023-07-16T11:02:30.290Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "81ZCuiAB6ffXhtSo",
             "type": "MOD",
             "slug": {
