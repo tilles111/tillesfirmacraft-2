@@ -1,6 +1,20 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:malum:ether",
+    "item:malum:ether_torch",
+    "item:firmalife:sealed_bricks",
+    {
+      "type": "item",
+      "id": "firmalife:sealed_door",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "tfc:powder/sylvite",
+      "amount": 4
+    },
+    "item:tfc:ore/sylvite",
     "item:malum:hallowed_gold_ingot",
     "item:malum:spirit_jar",
     "item:tfc:metal/ingot/weak_blue_steel",
@@ -123,12 +137,6 @@
     "item:tfc:jute_net",
     "item:tfc:dirty_jute_net",
     "item:tfc:jute",
-    "item:malum:ether",
-    {
-      "type": "item",
-      "id": "malum:ether_torch",
-      "amount": 32
-    },
     {
       "type": "item",
       "id": "malum:iridescent_ether_torch",
@@ -197,8 +205,8 @@
       "amount": 1000,
       "ingredients": [
         "#fluid:firmalife:mixable",
-        "#fluid:tfcchannelcasting:mixable",
-        "#fluid:tfc:water"
+        "#fluid:tfc:water",
+        "#fluid:tfcchannelcasting:mixable"
       ]
     },
     {

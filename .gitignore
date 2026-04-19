@@ -20,3 +20,5 @@ config/oculus.properties
 config/woodencog-common-1.toml.bak
 config/woodencog-common-2.toml.bak
 config/oculus.properties
+emi.json
+patchouli_data.json

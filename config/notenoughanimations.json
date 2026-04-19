@@ -43,7 +43,7 @@
   "enableInWorldMapRendering": true,
   "enableOffhandHiding": true,
   "enableRotationLocking": true,
-  "enableLadderAnimation": true,
+  "enableLadderAnimation": false,
   "ladderAnimationAmplifier": 0.35,
   "ladderAnimationArmHeight": 1.7,
   "ladderAnimationArmSpeed": 2.0,
@@ -83,7 +83,7 @@
   "bowAnimation": "CUSTOM_V1",
   "customBowRotationLock": false,
   "clampCrossbowAnimations": false,
-  "burningAnimation": true,
+  "burningAnimation": false,
   "hideItemsForTheseBows": [],
   "mapHolding": [
     "minecraft:filled_map",

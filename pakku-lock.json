@@ -9,6 +9,42 @@
     },
     "projects": [
         {
+            "pakku_id": "oBqddGfxMNRpD1Ho",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "additional-placements"
+            },
+            "name": {
+                "curseforge": "Additional Placements"
+            },
+            "id": {
+                "curseforge": "674852"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "[1.20.1 Forge] Additional Placements 3.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7905/535/[1.20.1 Forge] Additional Placements 3.0.1.jar",
+                    "id": "7905535",
+                    "parent_id": "674852",
+                    "hashes": {
+                        "sha1": "9f5d85cce1ba38a7a874254c5e2efd0a7e5e05ea",
+                        "md5": "da88ff270b95ff1056a1464055aaf5b2"
+                    },
+                    "required_dependencies": [],
+                    "size": 1119423,
+                    "date_published": "2026-04-10T16:12:16.500Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LSplLWzWYhJvrXYt",
             "type": "MOD",
             "slug": {
@@ -512,6 +548,43 @@
                     "required_dependencies": [],
                     "size": 86682,
                     "date_published": "2023-07-17T21:33:02.067Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "HvPX9YQWrzh0ejec",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bookshelf"
+            },
+            "name": {
+                "curseforge": "Bookshelf"
+            },
+            "id": {
+                "curseforge": "228525"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7612/389/Bookshelf-Forge-1.20.1-20.2.15.jar",
+                    "id": "7612389",
+                    "parent_id": "228525",
+                    "hashes": {
+                        "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+                        "md5": "984cc53b314436f57e3bf72b8a1ba62b"
+                    },
+                    "required_dependencies": [],
+                    "size": 343925,
+                    "date_published": "2026-02-12T01:55:52.110Z"
                 }
             ]
         },
@@ -4495,6 +4568,44 @@
             ]
         },
         {
+            "pakku_id": "aE7xlWvitJxeIdXz",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "tfc-barrels"
+            },
+            "name": {
+                "curseforge": "TFC Barrels"
+            },
+            "id": {
+                "curseforge": "1006362"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tfcbarrels-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5277/81/tfcbarrels-1.0.0.jar",
+                    "id": "5277081",
+                    "parent_id": "1006362",
+                    "hashes": {
+                        "sha1": "2c6748dfff69f75c9a0cbbf6bc837b137090594a",
+                        "md5": "2cf79ff2f0e7dff2d9ecc564b2333f3c"
+                    },
+                    "required_dependencies": [
+                        "302973"
+                    ],
+                    "size": 348348,
+                    "date_published": "2024-04-20T17:07:24.780Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KjaNC3LZjhzj1uaw",
             "type": "MOD",
             "slug": {
@@ -5028,6 +5139,45 @@
                     ],
                     "size": 12189,
                     "date_published": "2024-06-05T07:32:13.277Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oVBMS7LbLsAWizV4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "tips"
+            },
+            "name": {
+                "curseforge": "Tips"
+            },
+            "id": {
+                "curseforge": "306549"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Tips-Forge-1.20.1-12.1.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7613/269/Tips-Forge-1.20.1-12.1.9.jar",
+                    "id": "7613269",
+                    "parent_id": "306549",
+                    "hashes": {
+                        "sha1": "033d62395ecf7939f82e5a69ef53cf62ad1afb7f",
+                        "md5": "b447605e76fade36276ce28b5ef0e332"
+                    },
+                    "required_dependencies": [
+                        "228525"
+                    ],
+                    "size": 127186,
+                    "date_published": "2026-02-12T07:56:15.503Z"
                 }
             ]
         },

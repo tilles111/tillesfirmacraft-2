@@ -1,6 +1,6 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": false,
+  "clickedVisualize": true,
   "bookData": {
     "tfc:field_guide": {
       "viewedEntries": [
@@ -9,7 +9,9 @@
         "tfc:mechanics/mechanical_power",
         "tfc:advancedtfctech/fleshing_machine",
         "tfc:mechanics/blast_furnace",
-        "tfc:waterflasks/recipes"
+        "tfc:waterflasks/recipes",
+        "tfc:firmalife/cellar",
+        "tfc:firmalife/climate_station"
       ],
       "bookmarks": [],
       "completedManualQuests": []

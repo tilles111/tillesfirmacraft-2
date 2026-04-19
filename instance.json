@@ -35855,13 +35855,1023 @@
           "fileFingerprint": 1633971404,
           "modId": 433068
         }
+      },
+      {
+        "name": "TFC Barrels",
+        "version": "tfcbarrels-1.0.0.jar",
+        "optional": true,
+        "file": "tfcbarrels-1.0.0.jar",
+        "type": "mods",
+        "description": "Port of SeriousCreeper's 1.18 TFC Barrel addon to TFC 1.20. Adds vanilla-style barrels for each wood type.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1006362,
+        "curseForgeFileId": 5277081,
+        "curseForgeProject": {
+          "id": 1006362,
+          "name": "TFC Barrels",
+          "authors": [
+            {
+              "id": 109454691,
+              "name": "Kaber",
+              "url": "https://www.curseforge.com/members/kaber"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Port of SeriousCreeper's 1.18 TFC Barrel addon to TFC 1.20. Adds vanilla-style barrels for each wood type.",
+          "categories": [
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "tfc-barrels",
+          "isFeatured": false,
+          "dateModified": "2024-04-21T08:01:39.847Z",
+          "dateCreated": "2024-04-21T07:57:36.073Z",
+          "dateReleased": "2024-04-20T17:07:24.78Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tfc-barrels"
+          },
+          "logo": {
+            "id": 983692,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/983/692/256/256/638492289158844909.jpg",
+            "title": "638492289158844909.jpg",
+            "url": "https://media.forgecdn.net/avatars/983/692/638492289158844909.jpg",
+            "modId": 1006362
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5277081
+        },
+        "curseForgeFile": {
+          "id": 5277081,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "tfcbarrels-1.0.0.jar",
+          "fileName": "tfcbarrels-1.0.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-20T17:07:24.78Z",
+          "fileLength": 348348,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 302973,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3498452195,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1856311150,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3974631670,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1114652127,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1521116610,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2c6748dfff69f75c9a0cbbf6bc837b137090594a",
+              "algo": 1
+            },
+            {
+              "value": "2cf79ff2f0e7dff2d9ecc564b2333f3c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1488728926,
+          "modId": 1006362
+        }
+      },
+      {
+        "name": "Bookshelf",
+        "version": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+        "optional": true,
+        "file": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+        "type": "mods",
+        "description": "An open source library for other mods!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 228525,
+        "curseForgeFileId": 7612389,
+        "curseForgeProject": {
+          "id": 228525,
+          "name": "Bookshelf",
+          "authors": [
+            {
+              "id": 6968547,
+              "name": "DarkhaxDev",
+              "url": "https://www.curseforge.com/members/darkhaxdev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An open source library for other mods!",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "bookshelf",
+          "isFeatured": false,
+          "dateModified": "2026-04-13T06:19:22.707Z",
+          "dateCreated": "2015-03-12T03:44:39.043Z",
+          "dateReleased": "2026-04-13T06:11:45.817Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+            "wikiUrl": "https://docs.darkhax.net/mods/bookshelf?curseforge",
+            "issuesUrl": "https://github.com/Darkhax-Minecraft/Bookshelf/issues",
+            "sourceUrl": "https://github.com/Darkhax-Minecraft/Bookshelf"
+          },
+          "logo": {
+            "id": 981432,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/981/432/256/256/638488256947873195.png",
+            "title": "638488256947873195.png",
+            "url": "https://media.forgecdn.net/avatars/981/432/638488256947873195.png",
+            "modId": 228525
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 356665,
+              "description": "This is a debug command added by Bookshelf. You can use it to export game data of the held item in many different formats. For example the ingredient option will give you a JSON string that can be used in datapacks for things like recipe inputs.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/356/665/310/172/hand_command.png",
+              "title": "Command: /bookshelf hand",
+              "url": "https://media.forgecdn.net/attachments/356/665/hand_command.png",
+              "modId": 228525
+            }
+          ],
+          "mainFileId": 7919656
+        },
+        "curseForgeFile": {
+          "id": 7612389,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+          "fileName": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-02-12T01:55:52.11Z",
+          "fileLength": 343925,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1064085601,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3987270503,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2258698057,
+              "name": "bookshelf.common.mixins.json"
+            },
+            {
+              "fingerprint": 2980735859,
+              "name": "bookshelf.forge.mixins.json"
+            },
+            {
+              "fingerprint": 807608998,
+              "name": "bookshelf.refmap.json"
+            },
+            {
+              "fingerprint": 475246396,
+              "name": "data"
+            },
+            {
+              "fingerprint": 777571610,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1314811348,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2432341171,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+              "algo": 1
+            },
+            {
+              "value": "984cc53b314436f57e3bf72b8a1ba62b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "NeoForge",
+            "Server"
+          ],
+          "fileFingerprint": 4263061721,
+          "modId": 228525
+        },
+        "modrinthProject": {
+          "id": "uy4Cnpcm",
+          "slug": "bookshelf-lib",
+          "project_type": "mod",
+          "team": "qdYl5sw1",
+          "title": "Bookshelf",
+          "description": "An open source library for other mods!",
+          "body": "<p>Bookshelf is a collection of code, frameworks, utilities, and other resources. Many mods utilize Bookshelf's code base to power their own mods.</p>\n\n<h3>Why use a library mod?</h3>\n<p>Library mods such as Bookshelf allow seemingly unrelated mods to share parts of the same code base. This reduces the amount of time and effort required to develop certain mods and features. The Library's code base is also tested in a wider range of circumstances and communities which can lead to less bugs and better performance in mods.</p>\n\n<h3>Features for Players</h3>\n<p>While this mod is primarily for mod authors, there are a few useful features for Players.</p>\n<ul>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Commands\" rel=\"nofollow\">Debug commands</a> like /bookshelf hand to get item IDs.</li>\n<li>Many new <a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Data-Packs\" rel=\"nofollow\">datapack features</a> like crafting recipes that damage items with durability rather than consuming them.</li>\n</ul>\n\n<h3>Features for Modders</h3>\n<ul>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/blob/1.16.5/src/main/java/net/darkhax/bookshelf/serialization/Serializers.java\" rel=\"nofollow\">Serialization for JSON/Network/NBT formats.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/tree/1.16.5/src/main/java/net/darkhax/bookshelf/util\" rel=\"nofollow\">Utility Functions.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/tree/1.16.5/src/main/java/net/darkhax/bookshelf/registry\" rel=\"nofollow\">Registry manager, including non-forge registry types, debugging, and statistics.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Commands\" rel=\"nofollow\">Debug commands.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Data-Packs#recipe-types\" rel=\"nofollow\">New recipe types.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Data-Packs#ingredients\" rel=\"nofollow\">New ingredient types.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Data-Packs#loot-conditions\" rel=\"nofollow\">New loot condition types.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Data-Packs#global-loot-modifiers\" rel=\"nofollow\">New loot modifier types.</a></li>\n<li><a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki/Data-Packs#item-predicates\" rel=\"nofollow\">New item predicates.</a></li>\n<li>Check <a href=\"https://github.com/Darkhax-Minecraft/Bookshelf\" rel=\"nofollow\">GitHub</a> and the <a href=\"https://github.com/Darkhax-Minecraft/Bookshelf/wiki\" rel=\"nofollow\">Wiki</a> for more!</li>\n</ul>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**",
+          "published": "2023-06-07T05:15:26.501095Z",
+          "updated": "2026-04-13T06:11:52.138393Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/uy4Cnpcm/002e73d916fb63c9c85e212ac47fde4ef9c4a65f.png",
+          "issues_url": "https://github.com/Darkhax-Minecraft/Bookshelf/issues",
+          "source_url": "https://github.com/Darkhax-Minecraft/Bookshelf",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/uy4Cnpcm/images/46dee24e9da4addbfb5dd2d082a6b2b86832e2e2.png",
+              "raw_url": "https://cdn.modrinth.com/data/uy4Cnpcm/images/46dee24e9da4addbfb5dd2d082a6b2b86832e2e2.png",
+              "featured": false,
+              "title": "Command: /bookshelf hand",
+              "description": "This is a debug command added by Bookshelf. You can use it to export game data of the held item in many different formats. For example the ingredient option will give you a JSON string that can be used in datapacks for things like recipe inputs.",
+              "created": "2023-06-07T05:15:12.382551Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "7eS5OIHj",
+          "project_id": "uy4Cnpcm",
+          "author_id": "TiqUUK2E",
+          "name": "Bookshelf-Forge-1.20.1-20.2.15",
+          "version_number": "20.2.15",
+          "changelog": "No changelog was specified.",
+          "date_published": "2026-02-12T01:55:56.923989Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+                "sha512": "b5e3d6031ea91aca65b059c84d813d248347a870fac4811cd1e9d649f2a37c857bbd32f2f071b69589c7b3940bf5bb4bdc0b82f62818bb03255be14d23cef170"
+              },
+              "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/7eS5OIHj/Bookshelf-Forge-1.20.1-20.2.15.jar",
+              "filename": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+              "primary": true,
+              "size": 343925
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Tips",
+        "version": "Tips-Forge-1.20.1-12.1.9.jar",
+        "optional": true,
+        "file": "Tips-Forge-1.20.1-12.1.9.jar",
+        "type": "mods",
+        "description": "Adds a tip section to various loading screens.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 306549,
+        "curseForgeFileId": 7613269,
+        "curseForgeProject": {
+          "id": 306549,
+          "name": "Tips",
+          "authors": [
+            {
+              "id": 6968547,
+              "name": "DarkhaxDev",
+              "url": "https://www.curseforge.com/members/darkhaxdev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a tip section to various loading screens.",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "tips",
+          "isFeatured": false,
+          "dateModified": "2026-02-12T08:02:23.87Z",
+          "dateCreated": "2018-11-08T05:16:42.677Z",
+          "dateReleased": "2026-02-12T07:56:21.203Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tips",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Darkhax-Minecraft/Tips/issues",
+            "sourceUrl": "https://github.com/Darkhax-Minecraft/Tips"
+          },
+          "logo": {
+            "id": 1009426,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1009/426/256/256/638532671747561767.png",
+            "title": "638532671747561767.png",
+            "url": "https://media.forgecdn.net/avatars/1009/426/638532671747561767.png",
+            "modId": 306549
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 314829,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/829/310/172/tip_screenshot_2.png",
+              "title": "Tip Example 2",
+              "url": "https://media.forgecdn.net/attachments/314/829/tip_screenshot_2.png",
+              "modId": 306549
+            },
+            {
+              "id": 314828,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/314/828/310/172/tip_screenshot_1.png",
+              "title": "Tip Example",
+              "url": "https://media.forgecdn.net/attachments/314/828/tip_screenshot_1.png",
+              "modId": 306549
+            }
+          ],
+          "mainFileId": 7613270
+        },
+        "curseForgeFile": {
+          "id": 7613269,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Tips-Forge-1.20.1-12.1.9.jar",
+          "fileName": "Tips-Forge-1.20.1-12.1.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-02-12T07:56:15.503Z",
+          "fileLength": 127186,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 228525,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1814806998,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4005083933,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3021658592,
+              "name": "net"
+            },
+            {
+              "fingerprint": 772167953,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "033d62395ecf7939f82e5a69ef53cf62ad1afb7f",
+              "algo": 1
+            },
+            {
+              "value": "b447605e76fade36276ce28b5ef0e332",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "NeoForge"
+          ],
+          "fileFingerprint": 2041389298,
+          "modId": 306549
+        },
+        "modrinthProject": {
+          "id": "AMCbgyVw",
+          "slug": "tips",
+          "project_type": "mod",
+          "team": "SEOvZNdW",
+          "title": "Tips",
+          "description": "This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips!",
+          "body": "<p>This mod will display useful tips on certain game screens such as the world loading screen. The tip shown will be cycled out every five seconds. The pool of tips can be expanded by resource packs, other mods, and even modpacks. You can learn more about configuring the tips <a href=\"https://github.com/Darkhax-Minecraft/Tips/wiki\" rel=\"nofollow\">here.</a></p>\n\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://cdn.modrinth.com/data/AMCbgyVw/images/d8e8bfef80fe51a48f79e3b617b392e6703c66e7.png\" alt=\"A tip being shown on the world loading screen.\" width=\"856\" height=\"512\"></p>\n\n<p><strong>Like the mod and want to support me?</strong></p>\n<ul>\n<li>Follow me on <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a></li>\n<li>Join my <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>Pledge on <a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a></li>\n<li>Check out my <a href=\"https://darkhax.net/\" rel=\"nofollow\">website</a></li>\n</ul>\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n**This project is sponsored by Nodecraft. Use code [DARKHAX](https://nodecraft.com/r/darkhax) for 30% off your first month of service!**\n\n<p>Project logo by <a href=\"https://game-icons.net/1x1/delapouite/info.html\" rel=\"nofollow\">Delapouite</a> on Game Icons and licensed under <a href=\"https://creativecommons.org/licenses/by/3.0/\" rel=\"nofollow\">CC By 3.0</a>.</p>",
+          "published": "2023-06-07T08:41:54.351495Z",
+          "updated": "2026-02-12T07:56:25.171203Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/AMCbgyVw/72004203af0b996cb8ea09c66231dc50e4a62f82.png",
+          "issues_url": "https://github.com/Darkhax-Minecraft/Tips/issues",
+          "source_url": "https://github.com/Darkhax-Minecraft/Tips",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/AMCbgyVw/images/366bb4f2ad293f61fb66e8a1f11320e8c15127e3.png",
+              "raw_url": "https://cdn.modrinth.com/data/AMCbgyVw/images/366bb4f2ad293f61fb66e8a1f11320e8c15127e3.png",
+              "featured": false,
+              "title": "Tip Example 2",
+              "created": "2023-06-07T08:41:39.899372Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AMCbgyVw/images/d8e8bfef80fe51a48f79e3b617b392e6703c66e7.png",
+              "raw_url": "https://cdn.modrinth.com/data/AMCbgyVw/images/d8e8bfef80fe51a48f79e3b617b392e6703c66e7.png",
+              "featured": false,
+              "title": "Tip Example",
+              "created": "2023-06-07T08:41:39.899372Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "bOsklji6",
+          "project_id": "AMCbgyVw",
+          "author_id": "TiqUUK2E",
+          "name": "Tips-Forge-1.20.1-12.1.9",
+          "version_number": "12.1.9",
+          "changelog": "- Fix issues with non-ascii characters in language files. [(7ea4ecd)](https://github.com/Darkhax-Minecraft/Tips/commit/7ea4ecd)\n- Remove deprecated schoomp code. [(0f69a9a)](https://github.com/Darkhax-Minecraft/Tips/commit/0f69a9a)\n\nThis project is made possible by [Patreon](https://www.patreon.com/Darkhax?tipsmod) support from players like you. Thank you!\n\n- lothrazar\n- Spencer Gilbert\n- Tobias Ward\n- techsquirrel\n- Pongo Sapiens\n- noobanidus\n- Darkosto\n",
+          "date_published": "2026-02-12T07:56:19.596024Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "e029acc0526ca306b0e4706ce26b3028d20225574c8c6b4434f54b27223d09ab6d18123423bdce93acde9ddc83a343017f9bd96da86b01c3e438b0508a8e75b9",
+                "sha1": "033d62395ecf7939f82e5a69ef53cf62ad1afb7f"
+              },
+              "url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/bOsklji6/Tips-Forge-1.20.1-12.1.9.jar",
+              "filename": "Tips-Forge-1.20.1-12.1.9.jar",
+              "primary": true,
+              "size": 127186
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "uy4Cnpcm",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Additional Placements",
+        "version": "[1.20.1 Forge] Additional Placements 3.0.1.jar",
+        "optional": true,
+        "file": "[1.20.1 Forge] Additional Placements 3.0.1.jar",
+        "type": "mods",
+        "description": "Additional placement states for many blocks, including vertical slabs and stairs",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 674852,
+        "curseForgeFileId": 7905535,
+        "curseForgeProject": {
+          "id": 674852,
+          "name": "Additional Placements",
+          "authors": [
+            {
+              "id": 16018916,
+              "name": "firemerald",
+              "url": "https://www.curseforge.com/members/firemerald"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Additional placement states for many blocks, including vertical slabs and stairs",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "additional-placements",
+          "isFeatured": false,
+          "dateModified": "2026-04-10T16:23:50.833Z",
+          "dateCreated": "2022-09-13T11:23:53.337Z",
+          "dateReleased": "2026-04-10T16:18:31.367Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/additional-placements",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/FirEmerald/Additional-Placements/issues",
+            "sourceUrl": "https://github.com/FirEmerald/Additional-Placements"
+          },
+          "logo": {
+            "id": 627515,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/627/515/256/256/638022658704570422.png",
+            "title": "638022658704570422.png",
+            "url": "https://media.forgecdn.net/avatars/627/515/638022658704570422.png",
+            "modId": 674852
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7905572
+        },
+        "curseForgeFile": {
+          "id": 7905535,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20.1 Forge] Additional Placements 3.0.1.jar",
+          "fileName": "[1.20.1 Forge] Additional Placements 3.0.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-04-10T16:12:16.5Z",
+          "fileLength": 1119423,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 377476216,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3618108369,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1255420279,
+              "name": "additionalplacements.png"
+            },
+            {
+              "fingerprint": 516989951,
+              "name": "architectury_inject_additionalplacements1201_common_c6aed23e1bd04db98bdd1f72edb6e4df_85415c5f521e8320c68c17bb97842460a847fdc5bf6ba2f83b377c6813533048additionalplacementscommon301devjar"
+            },
+            {
+              "fingerprint": 4060046097,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2423167509,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2922007656,
+              "name": "mixins.additionalplacements.json"
+            },
+            {
+              "fingerprint": 295804254,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9f5d85cce1ba38a7a874254c5e2efd0a7e5e05ea",
+              "algo": 1
+            },
+            {
+              "value": "da88ff270b95ff1056a1464055aaf5b2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2129944957,
+          "modId": 674852
+        },
+        "modrinthProject": {
+          "id": "f5TwOKkb",
+          "slug": "additional-placements",
+          "project_type": "mod",
+          "team": "s1TSQsQo",
+          "title": "Additional Placements",
+          "description": "Additional placement states for many blocks, including vertical slabs and stairs",
+          "body": "[![Discord Server](https://img.shields.io/discord/176190900945289237?style=flat-square&logo=discord&logoColor=ffffff&label=Discord)](https://discord.gg/ykHRhmC)\n\n![Mod Logo](https://github.com/FirEmerald/AdditionalPlacements/blob/1.20.1/logo.png?raw=true)\n\n[Fabric version here](https://modrinth.com/mod/additional-placements-fabric)\n\n\n\nAdditional Placements is a Vanilla-lite mod that allows you to place blocks in new orientations.\nNo new items are added - instead, the placement logic of the original blocks is modified.\nCurrently supports (includes most mod-added as well):\nSlabs - allows vertical placement\nStairs - allows vertical placement, and stairs will connect vertically as well\nCarpets - allows placement on walls and ceilings\nPressure Plates - allows placement on walls and ceilings\n\n![A group of vaguely spherical objects](https://i.imgur.com/8lUz6pT.png)\nThe \"testing spheres\". These odd shapes contain all 108 different possible stair block states and all 6 different possible slab block states, for testing purposes.\n\n![Video of stairs and slabs being placed in various orientations](https://i.imgur.com/OnxYZfA.gif)\nThe placement logic for slabs and stairs.",
+          "published": "2024-02-28T00:31:28.239851Z",
+          "updated": "2026-04-10T16:27:32.375691Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/f5TwOKkb/306e49252759ec5baa28d6a02c619979f5b1c7c7_96.webp",
+          "issues_url": "https://github.com/FirEmerald/Additional-Placements/issues",
+          "source_url": "https://github.com/FirEmerald/Additional-Placements",
+          "discord_url": "https://discord.gg/ykHRhmC",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/firemerald"
+            },
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://paypal.me/FirEmerald"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "jVlJI0bV",
+          "project_id": "f5TwOKkb",
+          "author_id": "Jy0E8qu6",
+          "name": "Additional Placements 3.0.1",
+          "version_number": "3.0.1",
+          "changelog": "- fix issues if retextured block model base models fail to load\n- utilize cached backing for retextured block model base models\n- prefetch baked models before gathering quads\n- fix several placement model wrapper methods using the wrong baked model in retextured models\n- fix potential, but highly unlikely, null pointer exceptions when fetching block models from blockstates",
+          "date_published": "2026-04-10T16:23:32.348455Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "dd17061d3453a7b178e6ffadaa53c62104b251a52df154a795f90a3e4750f4cdbb3ab3e46eb1ba205630b023ddb7e05d8f1b511b8813153709dfb35134521e1b",
+                "sha1": "9f5d85cce1ba38a7a874254c5e2efd0a7e5e05ea"
+              },
+              "url": "https://cdn.modrinth.com/data/f5TwOKkb/versions/jVlJI0bV/%5B1.20.1%20Forge%5D%20Additional%20Placements%203.0.1.jar",
+              "filename": "[1.20.1 Forge] Additional Placements 3.0.1.jar",
+              "primary": true,
+              "size": 1119423
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776286614197,
-    "numPlays": 47,
+    "lastPlayed": 1776578644516,
+    "numPlays": 49,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",
