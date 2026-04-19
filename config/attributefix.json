@@ -1,5 +1,16 @@
 {
   "attributes": {
+    "wizards_reborn:magic_modifier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "malum:reserve_staff_charges": {
       "enabled": false,
       "min": {
@@ -55,6 +66,17 @@
         "value": 2048
       }
     },
+    "scguns:spread_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "forge:entity_gravity": {
       "enabled": false,
       "min": {
@@ -75,6 +97,39 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "scguns:reload_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "scguns:projectile_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.01,
+        "value": 0.01
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "wizards_reborn:magic_armor": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "malum:spirit_spoils": {
@@ -154,6 +209,28 @@
         "value": 1024
       }
     },
+    "scguns:bullet_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "wizards_reborn:arcane_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "minecraft:generic.armor": {
       "enabled": true,
       "min": {
@@ -163,6 +240,17 @@
       "max": {
         "default": 30,
         "value": 1000000
+      }
+    },
+    "fluffy_fur:size_scale": {
+      "enabled": false,
+      "min": {
+        "default": 0.10000000149011612,
+        "value": 0.10000000149011612
+      },
+      "max": {
+        "default": 5,
+        "value": 5
       }
     },
     "forge:entity_reach": {
@@ -209,6 +297,28 @@
         "value": 1024
       }
     },
+    "scguns:additional_bullet_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1000,
+        "value": -1000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "fluffy_fur:camera_distance_amplifier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "minecraft:generic.movement_speed": {
       "enabled": true,
       "min": {
@@ -220,6 +330,28 @@
         "value": 1024
       }
     },
+    "fluffy_fur:jump_height_amplifier": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "botania:pixie_spawn_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "minecraft:generic.max_health": {
       "enabled": true,
       "min": {
@@ -229,6 +361,17 @@
       "max": {
         "default": 1024,
         "value": 1000000
+      }
+    },
+    "wizards_reborn:wissen_discount": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 75,
+        "value": 75
       }
     },
     "minecraft:zombie.spawn_reinforcements": {

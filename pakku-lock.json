@@ -589,6 +589,84 @@
             ]
         },
         {
+            "pakku_id": "41GV01GTCC5U9JYU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "botania"
+            },
+            "name": {
+                "curseforge": "Botania"
+            },
+            "id": {
+                "curseforge": "225643"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Botania-1.20.1-451-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7649/894/Botania-1.20.1-451-FORGE.jar",
+                    "id": "7649894",
+                    "parent_id": "225643",
+                    "hashes": {
+                        "sha1": "6edbc705ccb1ca075c8155f99144646a8168e8ee",
+                        "md5": "5d82b7506709fa793075a095f37684ad"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "306770"
+                    ],
+                    "size": 12201393,
+                    "date_published": "2026-02-19T18:07:59.193Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "n7ijzH57q1EH7Gwu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "botania-editor"
+            },
+            "name": {
+                "curseforge": "Botania Editor"
+            },
+            "id": {
+                "curseforge": "949058"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BotaniaEditor-1.20.1-1.0.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5775/841/BotaniaEditor-1.20.1-1.0.9.jar",
+                    "id": "5775841",
+                    "parent_id": "949058",
+                    "hashes": {
+                        "sha1": "1655964298bc4726e86864703ad10632c40a6dd7",
+                        "md5": "d0eea09745795f6fb893e3a91f430720"
+                    },
+                    "required_dependencies": [
+                        "225643"
+                    ],
+                    "size": 64279,
+                    "date_published": "2024-10-02T08:14:42.043Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ff8XWrPixHVGXu4P",
             "type": "MOD",
             "slug": {
@@ -893,6 +971,79 @@
                     ],
                     "size": 379260,
                     "date_published": "2026-03-27T20:11:10.280Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JomqKQyKRpokynbD",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "compressed-botanics"
+            },
+            "name": {
+                "curseforge": "Compressed Botanics"
+            },
+            "id": {
+                "curseforge": "1069144"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "compressedbotanics-1.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7785/983/compressedbotanics-1.1.3.jar",
+                    "id": "7785983",
+                    "parent_id": "1069144",
+                    "hashes": {
+                        "sha1": "86aa3aea8b6e492daa1f9c6e1c17129eea2997e3",
+                        "md5": "0ed32693e0e84534f08b4d2ae269b1c7"
+                    },
+                    "required_dependencies": [],
+                    "size": 76053,
+                    "date_published": "2026-03-20T18:15:54.563Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5DRDGkkRHssuXsj2",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "compressedcreativity"
+            },
+            "name": {
+                "curseforge": "Compressed Creativity"
+            },
+            "id": {
+                "curseforge": "549381"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "compressedcreativity-1.20.1-0.2.0-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6603/441/compressedcreativity-1.20.1-0.2.0-all.jar",
+                    "id": "6603441",
+                    "parent_id": "549381",
+                    "hashes": {
+                        "sha1": "0a87cacce547e6d96364b5376e0b415c90f17b59",
+                        "md5": "19babf6b96a261c8ac0cae7362a8321d"
+                    },
+                    "required_dependencies": [],
+                    "size": 749383,
+                    "date_published": "2025-06-01T01:27:34.193Z"
                 }
             ]
         },
@@ -2210,6 +2361,78 @@
                     ],
                     "size": 253961,
                     "date_published": "2026-02-06T12:29:28.823Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "IxRKChEGJjsZcsQO",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fluffy-fur"
+            },
+            "name": {
+                "curseforge": "Fluffy Fur"
+            },
+            "id": {
+                "curseforge": "1097456"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fluffy_fur-1.20.1-0.2.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7794/846/fluffy_fur-1.20.1-0.2.9.jar",
+                    "id": "7794846",
+                    "parent_id": "1097456",
+                    "hashes": {
+                        "sha1": "e979ae846f5bee1797ac6c81eeecde31d1fac55f",
+                        "md5": "4e906d33a761ccfbc79072846f959ea5"
+                    },
+                    "required_dependencies": [],
+                    "size": 17531254,
+                    "date_published": "2026-03-22T14:16:22.977Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KoptOrrqbTISlXOZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "framework"
+            },
+            "name": {
+                "curseforge": "Framework"
+            },
+            "id": {
+                "curseforge": "549225"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "framework-forge-1.20.1-0.8.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7573/740/framework-forge-1.20.1-0.8.0.jar",
+                    "id": "7573740",
+                    "parent_id": "549225",
+                    "hashes": {
+                        "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+                        "md5": "6d9a54cd004b15028673b309243e07a2"
+                    },
+                    "required_dependencies": [],
+                    "size": 383868,
+                    "date_published": "2026-02-04T03:42:20.040Z"
                 }
             ]
         },
@@ -3769,6 +3992,43 @@
                     "required_dependencies": [],
                     "size": 282474,
                     "date_published": "2025-03-07T09:06:06.367Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bf539No9XZvYcDpu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pneumaticcraft-repressurized"
+            },
+            "name": {
+                "curseforge": "PneumaticCraft: Repressurized"
+            },
+            "id": {
+                "curseforge": "281849"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7307/654/pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+                    "id": "7307654",
+                    "parent_id": "281849",
+                    "hashes": {
+                        "sha1": "cbe2d3c5df7c2770ac59eb6f02489d8917627c03",
+                        "md5": "4806175f379220c76445596ea1bfbb94"
+                    },
+                    "required_dependencies": [],
+                    "size": 10790482,
+                    "date_published": "2025-12-08T10:45:01.910Z"
                 }
             ]
         },
@@ -5369,6 +5629,45 @@
             ]
         },
         {
+            "pakku_id": "HMgaOwGdTR9fIqGi",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "wizards-reborn"
+            },
+            "name": {
+                "curseforge": "Wizard's Reborn"
+            },
+            "id": {
+                "curseforge": "913994"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "wizards_reborn-1.20.1-0.2.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6480/636/wizards_reborn-1.20.1-0.2.9.jar",
+                    "id": "6480636",
+                    "parent_id": "913994",
+                    "hashes": {
+                        "sha1": "203c0f173e3e7c2862437e3bae4ec00979f99df9",
+                        "md5": "6beb486e3f5d529b322052d27b9c4ab4"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "1097456"
+                    ],
+                    "size": 37299940,
+                    "date_published": "2025-04-30T16:07:23.940Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9Cu2GpyAs8thRrb6",
             "type": "MOD",
             "slug": {
@@ -5552,6 +5851,46 @@
                     "required_dependencies": [],
                     "size": 3114590,
                     "date_published": "2023-09-05T08:02:20.050Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0CxXYaEhnkzovJz6",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "scorched-guns"
+            },
+            "name": {
+                "curseforge": "~SCORCHED GUNS 2"
+            },
+            "id": {
+                "curseforge": "802940"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ScorchedGuns-0.5.5-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7232/63/ScorchedGuns-0.5.5-1.20.1.jar",
+                    "id": "7232063",
+                    "parent_id": "802940",
+                    "hashes": {
+                        "sha1": "a65d1a6fea7b44602c63175a8ea9a144d83a5de5",
+                        "md5": "76d3368c69c070cb76adf761efaec622"
+                    },
+                    "required_dependencies": [
+                        "549225",
+                        "309927",
+                        "388172"
+                    ],
+                    "size": 19173074,
+                    "date_published": "2025-11-17T10:34:33.937Z"
                 }
             ]
         }

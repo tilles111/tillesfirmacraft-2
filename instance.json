@@ -36865,13 +36865,2781 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Botania",
+        "version": "Botania-1.20.1-451-FORGE.jar",
+        "optional": true,
+        "file": "Botania-1.20.1-451-FORGE.jar",
+        "type": "mods",
+        "description": "An innovative natural magic themed tech mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 225643,
+        "curseForgeFileId": 7649894,
+        "curseForgeProject": {
+          "id": 225643,
+          "name": "Botania",
+          "authors": [
+            {
+              "id": 3852549,
+              "name": "Vazkii",
+              "url": "https://www.curseforge.com/members/vazkii"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An innovative natural magic themed tech mod",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "botania",
+          "isFeatured": false,
+          "dateModified": "2026-02-19T18:14:28.723Z",
+          "dateCreated": "2014-11-16T21:00:16.023Z",
+          "dateReleased": "2026-02-19T18:07:59.193Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/botania",
+            "wikiUrl": "https://botaniamod.net/index.html",
+            "issuesUrl": "https://github.com/VazkiiMods/Botania/issues",
+            "sourceUrl": "https://github.com/VazkiiMods/Botania"
+          },
+          "logo": {
+            "id": 588690,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/588/690/256/256/637958999552256716.png",
+            "title": "637958999552256716.png",
+            "url": "https://media.forgecdn.net/avatars/588/690/637958999552256716.png",
+            "modId": 225643
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7649894
+        },
+        "curseForgeFile": {
+          "id": 7649894,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Botania-1.20.1-451-FORGE.jar",
+          "fileName": "Botania-1.20.1-451-FORGE.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-02-19T18:07:59.193Z",
+          "fileLength": 12201393,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306770,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 943156943,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2132250735,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2657420385,
+              "name": "botania.refmap.json"
+            },
+            {
+              "fingerprint": 3372191705,
+              "name": "botania_forge.mixins.json"
+            },
+            {
+              "fingerprint": 531367924,
+              "name": "botania_xplat.mixins.json"
+            },
+            {
+              "fingerprint": 2538589922,
+              "name": "contributors.properties"
+            },
+            {
+              "fingerprint": 3033405097,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3307287674,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3135902094,
+              "name": "omake.md"
+            },
+            {
+              "fingerprint": 2916341145,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2165765510,
+              "name": "vazkii"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6edbc705ccb1ca075c8155f99144646a8168e8ee",
+              "algo": 1
+            },
+            {
+              "value": "5d82b7506709fa793075a095f37684ad",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3320934653,
+          "modId": 225643
+        },
+        "modrinthProject": {
+          "id": "pfjLUfGv",
+          "slug": "botania",
+          "project_type": "mod",
+          "team": "ZHXzsq7V",
+          "title": "Botania",
+          "description": "An innovative natural magic themed tech mod",
+          "body": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/botania.png)\n\n---\n\n# About\n\nWarning: Botania **Requires [Patchouli](https://modrinth.com/mod/patchouli) and [Curios (Forge)](https://www.curseforge.com/minecraft/mc-mods/curios) or [Trinkets (Fabric/Quilt)](https://modrinth.com/mod/trinkets)!**  \n\n**Botania** is a tech mod themed around natural magic. Gameplay is centered around creating magical flowers and devices using Mana, the power of the earth. Botania is fully playable as a standalone mod (and is designed as such), but it functions just well in conjunction with other mods.\n\nThe mod focuses on automation, but without elements that make it feel grindy-- systems can be thought out and designed, rather than built blindly from blueprints in JEI or a wiki.\n\n**Botania's design philosophy**\n\n* No pipes, wires, etc-- they're boring and overdone;\n* No GUIs-- interact with everything in-world;\n* No numbers-- players shouldn't try to minmax everything;\n* Keep all resources as renewable as possible;\n* Provide pleasing visuals, despite using only two different particle effects.\n\n**Botania's goals**\n\n* Break the mold of mods being means to ends-- be engaging in gameplay as well as in rewards;\n* Deliver fun and balanced gameplay without forcing players to grind;\n* Incentivize sandbox gameplay and allow players to create fun contraptions;\n* Create an overall immersive experience.\n\n---\n\n# Learn more about Botania today\n### Visit the **[Official Website](https://botaniamod.net/index.html)**\n\n---\n\n\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)- - ",
+          "published": "2022-05-30T01:13:31.701840Z",
+          "updated": "2026-02-19T18:07:54.599510Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Botania-License",
+            "name": "",
+            "url": "https://botaniamod.net/license.html"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "magic",
+            "technology"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pfjLUfGv/e40d77bf0245907048fb71b5a64ec3de10099ef1_96.webp",
+          "issues_url": "https://github.com/VazkiiMods/Botania/issues",
+          "source_url": "https://github.com/VazkiiMods/Botania",
+          "discord_url": "https://discord.com/invite/vm",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Vazkii"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "BID0lWKw",
+          "project_id": "pfjLUfGv",
+          "author_id": "kRXgk5E1",
+          "name": "1.20.1-451-forge",
+          "version_number": "1.20.1-451-forge",
+          "changelog": "https://botaniamod.net/changelog.html#1-20-1-451-fake",
+          "date_published": "2026-02-19T18:07:54.599510Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6edbc705ccb1ca075c8155f99144646a8168e8ee",
+                "sha512": "4b65e16386200e833bffc6c92f1b01d6c8e271937a59ae0841e12702609c4af817c5f610c0796be854c5139cd031dcdff2fd0618aac4b4c8d5657c6edcf14f62"
+              },
+              "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/BID0lWKw/Botania-1.20.1-451-FORGE.jar",
+              "filename": "Botania-1.20.1-451-FORGE.jar",
+              "primary": true,
+              "size": 12201393
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nU0bVIaL",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "vvuO3ImH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Botania Editor",
+        "version": "BotaniaEditor-1.20.1-1.0.9",
+        "optional": true,
+        "file": "BotaniaEditor-1.20.1-1.0.9.jar",
+        "type": "mods",
+        "description": "A botania addon that allows to configure the mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 949058,
+        "curseForgeFileId": 5775841,
+        "curseForgeProject": {
+          "id": 949058,
+          "name": "Botania Editor",
+          "authors": [
+            {
+              "id": 101441969,
+              "name": "MtChloe05",
+              "url": "https://www.curseforge.com/members/mtchloe05"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A botania addon that allows to configure the mod",
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "botania-editor",
+          "isFeatured": false,
+          "dateModified": "2024-10-02T08:21:40.283Z",
+          "dateCreated": "2023-12-11T11:13:40.45Z",
+          "dateReleased": "2024-10-02T08:14:42.043Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/botania-editor",
+            "issuesUrl": "https://github.com/MtcLeo05/BotaniaEditor/issues",
+            "sourceUrl": "https://github.com/MtcLeo05/BotaniaEditor"
+          },
+          "logo": {
+            "id": 918141,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/918/141/256/256/638378816323029110.png",
+            "title": "638378816323029110.png",
+            "url": "https://media.forgecdn.net/avatars/918/141/638378816323029110.png",
+            "modId": 949058
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5775841
+        },
+        "curseForgeFile": {
+          "id": 5775841,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "BotaniaEditor-1.20.1-1.0.9",
+          "fileName": "BotaniaEditor-1.20.1-1.0.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-10-02T08:14:42.043Z",
+          "fileLength": 64279,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 455982,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 225643,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1276364727,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3986375351,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3044956166,
+              "name": "botania_editor.mixins.json"
+            },
+            {
+              "fingerprint": 1823447740,
+              "name": "botania_editor.refmap.json"
+            },
+            {
+              "fingerprint": 1494177408,
+              "name": "com"
+            },
+            {
+              "fingerprint": 841846451,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 131037417,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3476427476,
+              "name": "waila_plugins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1655964298bc4726e86864703ad10632c40a6dd7",
+              "algo": 1
+            },
+            {
+              "value": "d0eea09745795f6fb893e3a91f430720",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2692206164,
+          "modId": 949058
+        },
+        "modrinthProject": {
+          "id": "IELXiU8H",
+          "slug": "botaniaeditor",
+          "project_type": "mod",
+          "team": "u59OJupG",
+          "title": "BotaniaEditor",
+          "description": "A botania addon that allows to configure the mod",
+          "body": "A botania addon that changes how some of Botania's features work to allow customization.\n\nThe mod's aim is to make it easy for modpack makers to tweak values, like how much mana a flower produces or consumes, to allow a much higher degree of freedom.\n\nIt also comes with a (configurable) jade and WTHIT addon, that shows some useful info in the tooltip.\n\nThe config files are structured like this:\nbotania_editor-client.toml, found in the .minecraft folder, for the jade / wthit addon\nvarious config files for specific features, found in the world folder under serverconfigs/botania_editor\n\n**_For bugs or suggestion feel free to use github issues, or if you prefer a more \"direct\" way of contacting me [Discord](https://discord.com/invite/4PaFWJSceX)_**\n\n**(Credits to the Botania creator for all assets, including the logo which has been used as reference to make this mod's logo)**",
+          "published": "2024-09-17T09:34:31.575222Z",
+          "updated": "2024-10-02T08:13:49.460183Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Botania-License",
+            "name": "",
+            "url": "https://botaniamod.net/license.html"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/IELXiU8H/9e95851309b7841335af07dd2f7c147a2e9fb1ff.png",
+          "issues_url": "https://github.com/MtcLeo05/BotaniaEditor/issues",
+          "source_url": "https://github.com/MtcLeo05/BotaniaEditor",
+          "discord_url": "https://discord.com/invite/4PaFWJSceX",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "rPNGvvA9",
+          "project_id": "IELXiU8H",
+          "author_id": "Kk8lW1kz",
+          "name": "BotaniaEditor-1.20.1-1.0.9",
+          "version_number": "1.20.1-1.0.9",
+          "changelog": "Added configs and tooltips to all missing generating flowers",
+          "date_published": "2024-10-02T08:13:49.460183Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "865c6bbd807d0a0ceb0ec681c444957c11b0a1dc2b1469dbfb344305d825206d76090b954b9e08f8ceb480d5ffc08fcac831f49cc1445d3587fcecbd4baf8ed8",
+                "sha1": "1655964298bc4726e86864703ad10632c40a6dd7"
+              },
+              "url": "https://cdn.modrinth.com/data/IELXiU8H/versions/rPNGvvA9/BotaniaEditor-1.20.1-1.19.2.jar",
+              "filename": "BotaniaEditor-1.20.1-1.19.2.jar",
+              "primary": true,
+              "size": 64279
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nvQzSEkH",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "6AQIaxuO",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "pfjLUfGv",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Compressed Botanics",
+        "version": "compressedbotanics-1-20-1-forge-1.1.3.jar",
+        "optional": true,
+        "file": "compressedbotanics-1.1.3.jar",
+        "type": "mods",
+        "description": "An addon for Botania, implementing features needed for the Compression modpack.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1069144,
+        "curseForgeFileId": 7785983,
+        "curseForgeProject": {
+          "id": 1069144,
+          "name": "Compressed Botanics",
+          "authors": [
+            {
+              "id": 108938695,
+              "name": "BigBarza",
+              "url": "https://www.curseforge.com/members/bigbarza"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon for Botania, implementing features needed for the Compression modpack.",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "compressed-botanics",
+          "isFeatured": false,
+          "dateModified": "2026-03-20T18:20:02.527Z",
+          "dateCreated": "2024-07-23T09:01:42.193Z",
+          "dateReleased": "2026-03-20T18:15:54.563Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/compressed-botanics",
+            "sourceUrl": "https://github.com/BigBarza/CompressedBotanics"
+          },
+          "logo": {
+            "id": 1045084,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1045/84/256/256/638572781217548766.png",
+            "title": "638572781217548766.png",
+            "url": "https://media.forgecdn.net/avatars/1045/84/638572781217548766.png",
+            "modId": 1069144
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7785983
+        },
+        "curseForgeFile": {
+          "id": 7785983,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "compressedbotanics-1-20-1-forge-1.1.3.jar",
+          "fileName": "compressedbotanics-1.1.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-03-20T18:15:54.563Z",
+          "fileLength": 76053,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3796947579,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2177144895,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2235650014,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2685205747,
+              "name": "compressedbotanics.mixins.json"
+            },
+            {
+              "fingerprint": 1998373510,
+              "name": "compressedbotanics.refmap.json"
+            },
+            {
+              "fingerprint": 2596165685,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 702832496,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "86aa3aea8b6e492daa1f9c6e1c17129eea2997e3",
+              "algo": 1
+            },
+            {
+              "value": "0ed32693e0e84534f08b4d2ae269b1c7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 2032615918,
+          "modId": 1069144
+        }
+      },
+      {
+        "name": "Fluffy Fur",
+        "version": "fluffy_fur-1.20.1-0.2.9.jar",
+        "optional": true,
+        "file": "fluffy_fur-1.20.1-0.2.9.jar",
+        "type": "mods",
+        "description": "Adds fluffy and renders things",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1097456,
+        "curseForgeFileId": 7794846,
+        "curseForgeProject": {
+          "id": 1097456,
+          "name": "Fluffy Fur",
+          "authors": [
+            {
+              "id": 100993484,
+              "name": "MaxBogomol",
+              "url": "https://www.curseforge.com/members/maxbogomol"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds fluffy and renders things",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "fluffy-fur",
+          "isFeatured": false,
+          "dateModified": "2026-03-22T14:20:55.107Z",
+          "dateCreated": "2024-10-09T11:28:17.373Z",
+          "dateReleased": "2026-03-22T14:16:22.977Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fluffy-fur",
+            "wikiUrl": "https://github.com/MaxBogomol/FluffyFur/wiki",
+            "sourceUrl": "https://github.com/MaxBogomol/FluffyFur"
+          },
+          "socialLinks": [
+            {
+              "type": "13",
+              "url": "https://github.com/MaxBogomol/FluffyFur"
+            },
+            {
+              "type": "2",
+              "url": "https://discord.gg/cKf55qNugw"
+            },
+            {
+              "type": "3",
+              "url": "https://fluffy-village.dev/pages/eng/creations/fluffy_fur.html"
+            }
+          ],
+          "logo": {
+            "id": 1074685,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1074/685/256/256/638611507928101814.png",
+            "title": "638611507928101814.png",
+            "url": "https://media.forgecdn.net/avatars/1074/685/638611507928101814.png",
+            "modId": 1097456
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 961051,
+              "description": "Fluffy Fur Logo",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/961/51/310/172/fluffy-fur-draw.png",
+              "title": "Fluffy Fur Logo",
+              "url": "https://media.forgecdn.net/attachments/961/51/fluffy-fur-draw.png",
+              "modId": 1097456
+            }
+          ],
+          "mainFileId": 7794846
+        },
+        "curseForgeFile": {
+          "id": 7794846,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "fluffy_fur-1.20.1-0.2.9.jar",
+          "fileName": "fluffy_fur-1.20.1-0.2.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-03-22T14:16:22.977Z",
+          "fileLength": 17531254,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 674831681,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3803412342,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 154936209,
+              "name": "data"
+            },
+            {
+              "fingerprint": 896661543,
+              "name": "fluffy_fur.mixins.json"
+            },
+            {
+              "fingerprint": 1115280441,
+              "name": "fluffy_fur.png"
+            },
+            {
+              "fingerprint": 2505762262,
+              "name": "fluffy_fur.refmap.json"
+            },
+            {
+              "fingerprint": 2148295601,
+              "name": "mod"
+            },
+            {
+              "fingerprint": 2826567208,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e979ae846f5bee1797ac6c81eeecde31d1fac55f",
+              "algo": 1
+            },
+            {
+              "value": "4e906d33a761ccfbc79072846f959ea5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1923152904,
+          "modId": 1097456
+        },
+        "modrinthProject": {
+          "id": "srqzRpcV",
+          "slug": "fluffy-fur",
+          "project_type": "mod",
+          "team": "Ic8sYnOC",
+          "title": "Fluffy Fur",
+          "description": "Adds fluffy and renders things",
+          "body": "### [The Fluffy Village](https://fluffy-village.dev/pages/eng/creations/fluffy_fur.html)\n\n# About:\n\n\"Fluffy Fur\" - a mod library by MaxBogomol.  \nAdds various things for rendering and simplifying development.\n\n![](https://fluffy-village.dev/assets/creations/fluffy_fur/logo.png)\n\n# Features:\nFlexible particle and rendering system  \nPost-process shaders  \nShaders support  \nCustom player skin and item skin system  \nCustom panoramas and menu  \nCreative sub-tab system  \nBuilt-in resource & data packs  \nModded book support  \nEasy networking  \nScreenshake  \nRaycast  \nItem particles  \nItem animations  \nCustom item models  \nAttribute modifiers  \nMusic modifiers  \nLoot modifiers  \nCustom languages  \nCustom splashes  \nCustom fonts  \n...and many other features to simplify development\n\n# Visual features:\nExplosion effect  \nLightning bolt effect  \nRain effect  \nBlood effect  \nFancy fog  \nClouds dependence on day time  \nTorchflower's light  \n\n# Fixes:\nTrident loyality in void  \nLeader zombie max health  \nArmor attribute limit  \n\n# Used by:\n**[Wizard's Reborn](https://modrinth.com/mod/wizards-reborn)**  \n**[Purrfect](https://modrinth.com/mod/purrfect)**  \n**[Silly Oddities](https://modrinth.com/mod/very-silly-oddities)**  \n\nIf you need help connecting the library to your mod or you want to follow the development of my mods, you can join our **[Discord Server](https://discord.gg/cKf55qNugw)**.",
+          "published": "2024-08-31T13:43:09.731715Z",
+          "updated": "2026-03-22T14:17:08.023360Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-2.0-or-later",
+            "name": "GNU General Public License v2.0 or later"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "loaders": [
+            "forge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/srqzRpcV/8f4f59df04cda745d3250cc28a398acae16f1028.png",
+          "source_url": "https://github.com/MaxBogomol/FluffyFur",
+          "wiki_url": "https://github.com/MaxBogomol/FluffyFur/wiki",
+          "discord_url": "https://discord.gg/cKf55qNugw",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/srqzRpcV/images/535438bcbee00c80044ac6536511177e300c375d.png",
+              "raw_url": "https://cdn.modrinth.com/data/srqzRpcV/images/535438bcbee00c80044ac6536511177e300c375d.png",
+              "featured": true,
+              "title": "Fluffy Fur Logo",
+              "created": "2024-08-31T13:44:47.459036Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "XHQAcrNi",
+          "project_id": "srqzRpcV",
+          "author_id": "gPJY3xjG",
+          "name": "Fluffy Fur 1.20.1-0.2.9",
+          "version_number": "1.20.1-0.2.9",
+          "changelog": "Fixed crash with Legacy4J  ",
+          "date_published": "2026-03-22T14:17:08.023360Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "e979ae846f5bee1797ac6c81eeecde31d1fac55f",
+                "sha512": "578a7edc881c9b2c86eb3a5cd026e9f5c62b40447675069e0ccb403a2260432669e55d07c5052dc1501bdc9e0e6b2d669107ac5ada212dbc8a9f3ebfe7127196"
+              },
+              "url": "https://cdn.modrinth.com/data/srqzRpcV/versions/XHQAcrNi/fluffy_fur-1.20.1-0.2.9.jar",
+              "filename": "fluffy_fur-1.20.1-0.2.9.jar",
+              "primary": true,
+              "size": 17531254
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Wizard's Reborn",
+        "version": "wizards_reborn-1.20.1-0.2.9.jar",
+        "optional": true,
+        "file": "wizards_reborn-1.20.1-0.2.9.jar",
+        "type": "mods",
+        "description": "Adds magical things",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 913994,
+        "curseForgeFileId": 6480636,
+        "curseForgeProject": {
+          "id": 913994,
+          "name": "Wizard's Reborn",
+          "authors": [
+            {
+              "id": 100993484,
+              "name": "MaxBogomol",
+              "url": "https://www.curseforge.com/members/maxbogomol"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds magical things",
+          "categories": [
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "wizards-reborn",
+          "isFeatured": false,
+          "dateModified": "2026-01-31T20:10:51.627Z",
+          "dateCreated": "2023-09-18T07:35:42.117Z",
+          "dateReleased": "2025-04-30T16:07:23.94Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/wizards-reborn",
+            "sourceUrl": "https://github.com/MaxBogomol/WizardsReborn"
+          },
+          "socialLinks": [
+            {
+              "type": "13",
+              "url": "https://github.com/MaxBogomol/WizardsReborn"
+            },
+            {
+              "type": "2",
+              "url": "https://discord.gg/cKf55qNugw"
+            },
+            {
+              "type": "3",
+              "url": "https://fluffy-village.dev/pages/eng/creations/wizards_reborn.html"
+            }
+          ],
+          "logo": {
+            "id": 947053,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/947/53/256/256/638433294625142356.png",
+            "title": "638433294625142356.png",
+            "url": "https://media.forgecdn.net/avatars/947/53/638433294625142356.png",
+            "modId": 913994
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 818221,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/818/221/310/172/izobrazhenie_2024-03-03_163852946.png",
+              "title": "Wizard's Reborn Logo",
+              "url": "https://media.forgecdn.net/attachments/818/221/izobrazhenie_2024-03-03_163852946.png",
+              "modId": 913994
+            },
+            {
+              "id": 1128827,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1128/827/310/172/2025-03-16_22-21-14-png.png",
+              "title": "Magical Origins",
+              "url": "https://media.forgecdn.net/attachments/1128/827/2025-03-16_22-21-14-png.png",
+              "modId": 913994
+            },
+            {
+              "id": 1128809,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1128/809/310/172/2025-03-16_22-19-16-png.png",
+              "title": "Wissen Mechanisms",
+              "url": "https://media.forgecdn.net/attachments/1128/809/2025-03-16_22-19-16-png.png",
+              "modId": 913994
+            },
+            {
+              "id": 1128810,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1128/810/310/172/2025-03-16_22-19-31-png.png",
+              "title": "Arcane Iterator",
+              "url": "https://media.forgecdn.net/attachments/1128/810/2025-03-16_22-19-31-png.png",
+              "modId": 913994
+            },
+            {
+              "id": 1128811,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1128/811/310/172/2025-03-16_22-19-39-png.png",
+              "title": "Alchemy Machine",
+              "url": "https://media.forgecdn.net/attachments/1128/811/2025-03-16_22-19-39-png.png",
+              "modId": 913994
+            },
+            {
+              "id": 1128812,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1128/812/310/172/2025-03-16_22-19-43-png.png",
+              "title": "How NOT to build",
+              "url": "https://media.forgecdn.net/attachments/1128/812/2025-03-16_22-19-43-png.png",
+              "modId": 913994
+            },
+            {
+              "id": 1128813,
+              "description": "The Silly Council will decide your fate,",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1128/813/310/172/2025-03-16_22-20-39-png.png",
+              "title": "The Gang",
+              "url": "https://media.forgecdn.net/attachments/1128/813/2025-03-16_22-20-39-png.png",
+              "modId": 913994
+            }
+          ],
+          "mainFileId": 6480636
+        },
+        "curseForgeFile": {
+          "id": 6480636,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "wizards_reborn-1.20.1-0.2.9.jar",
+          "fileName": "wizards_reborn-1.20.1-0.2.9.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-04-30T16:07:23.94Z",
+          "fileLength": 37299940,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 1097456,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2988740861,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3095904179,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2532106064,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2878865958,
+              "name": "fusion"
+            },
+            {
+              "fingerprint": 2737895398,
+              "name": "mod"
+            },
+            {
+              "fingerprint": 412219117,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2889214447,
+              "name": "wizards_reborn.mixins.json"
+            },
+            {
+              "fingerprint": 2796936762,
+              "name": "wizards_reborn.png"
+            },
+            {
+              "fingerprint": 2628754251,
+              "name": "wizards_reborn.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "203c0f173e3e7c2862437e3bae4ec00979f99df9",
+              "algo": 1
+            },
+            {
+              "value": "6beb486e3f5d529b322052d27b9c4ab4",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3209381811,
+          "modId": 913994
+        },
+        "modrinthProject": {
+          "id": "axZDcOCH",
+          "slug": "wizards-reborn",
+          "project_type": "mod",
+          "team": "TPfh8en8",
+          "title": "Wizard's Reborn",
+          "description": "Adds magical things",
+          "body": "### Requires:\n[Fluffy Fur](https://modrinth.com/mod/fluffy-fur) and [CuriosApi](https://modrinth.com/mod/curios)\n\n### [The Fluffy Village](https://fluffy-village.dev/pages/eng/creations/wizards_reborn.html)\n\n# About:\n\n\"Wizard's Reborn\" - a mod about magic in the style of alternative 1930s.  \n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/logo.png)\n\nIn Earth's crust you can find odd blue crystals, which brings back memories about well-forgotten past.  \nIn search for knowledges you create different machines and research spells.  \n\nLooks like all answers is in this scuffed book, which fell on my head, because only it will show me the way.  \n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/magical_origins.png)\n\n#\n\nFrom these crystals I was able to obtain primordial energy, which my silly book calls \"Wissen\". This ether-like substance brings to life various magical mechanisms.  \n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/wissen_mechanisms.png)\n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/arcane_iterator.png)\n\n#\n\nTo fully reveal ancient potential, magic is not enough, so I've created this steam construction - Alchemy Machine!  \n\n**How to build!**  \n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/alchemy_machine.png)\n\n# **How NOT to build!!!**  \n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/how_not_to_build.png)\n\n#\n\n## But that's not all I wanted to tell you, so try to explore this perishable world by yourself!    \n\nThe mod is in very early alpha, with a lot of different content planned for the future!  \nYou can visit our **[Discord Server](https://discord.gg/cKf55qNugw)** to suggest your ideas or receive news about development.\n\n#\n\n![](https://fluffy-village.dev/assets/creations/wizards_reborn/the_gang.png)\n\n<details>\n<summary>The Silly Council will decide your fate,</summary>\n\nmeow\n\n</details>\n\n",
+          "published": "2023-09-17T10:03:22.446498Z",
+          "updated": "2025-04-30T16:06:34.181700Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-2.0-or-later",
+            "name": "GNU General Public License v2.0 or later"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "magic",
+            "management"
+          ],
+          "loaders": [
+            "forge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/axZDcOCH/d885b1be5fbee131484a1c34a444a98164c425f9.png",
+          "source_url": "https://github.com/MaxBogomol/WizardsReborn",
+          "discord_url": "https://discord.gg/cKf55qNugw",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/554f3b41f0eb5a5cd37c6d52319bcb1210162882.png",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/554f3b41f0eb5a5cd37c6d52319bcb1210162882.png",
+              "featured": true,
+              "title": "Wizard's Reborn Logo",
+              "created": "2024-02-22T21:24:22.478839Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/aec9a994b89d51b385d161960ed07cebacaaa7de_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/aec9a994b89d51b385d161960ed07cebacaaa7de.png",
+              "featured": false,
+              "title": "Magical Origins",
+              "created": "2025-03-16T17:24:47.270932Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/9e3e089a761f1a622417dd9365f8f39fb99066a3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/9e3e089a761f1a622417dd9365f8f39fb99066a3.png",
+              "featured": false,
+              "title": "Wissen Mechanisms",
+              "created": "2025-03-16T17:25:26.305746Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/64907bf766a6645a18db912d18a4858c1c3411b6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/64907bf766a6645a18db912d18a4858c1c3411b6.png",
+              "featured": false,
+              "title": "Arcane Iterator",
+              "created": "2025-03-16T17:25:42.100107Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/afe55f4a68f97e206664621f50f321c38fae2332_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/afe55f4a68f97e206664621f50f321c38fae2332.png",
+              "featured": false,
+              "title": "Alchemy Machine",
+              "created": "2025-03-16T17:28:31.089340Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/818d28307dab7b1503d86100aecf5f7801f97ab2_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/818d28307dab7b1503d86100aecf5f7801f97ab2.png",
+              "featured": false,
+              "title": "How NOT to build",
+              "created": "2025-03-16T17:26:29.252320Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/images/cc1897498c7d031252693c76fe625816282951df_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/axZDcOCH/images/cc1897498c7d031252693c76fe625816282951df.png",
+              "featured": false,
+              "title": "The Gang",
+              "description": "The Silly Council will decide your fate,",
+              "created": "2025-03-16T17:26:59.802660Z",
+              "ordering": 7.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "mPxHSZLi",
+          "project_id": "axZDcOCH",
+          "author_id": "gPJY3xjG",
+          "name": "Wizard's Reborn 1.20.1-0.2.9",
+          "version_number": "1.20.1-0.2.9",
+          "changelog": "Added recipes advancements  \nAdded Arcanemicon lore tooltip (furry language)  \nAdded repair item for Arcane Wood Bow  \nRetextured collar('s) and amulets  \nUpdated LOLCAT translation  \nOptimized knowledge obtaining  \nRemade and optimized Altar of Drought  \nFixed bug with Wissen Altar send wissen to item  \nFixed additional Arcane Enchantments attribute tooltip  \nFixed bug with use wissen from accessories  \nFixed small values in frames (like wissen, steam etc.)  \nFixed Salt Campfire smoke particles  \nFixed recipe categories in crafting table  ",
+          "date_published": "2025-04-30T16:06:34.181700Z",
+          "version_type": "alpha",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "203c0f173e3e7c2862437e3bae4ec00979f99df9",
+                "sha512": "047a29d2ca893b6b7c185c6f8f80394a26f6af83457938ac3400db1289771c0432b0ef1c9a9cf1d8507eed67998075e4368a39beef458324c203894e1c0ea250"
+              },
+              "url": "https://cdn.modrinth.com/data/axZDcOCH/versions/mPxHSZLi/wizards_reborn-1.20.1-0.2.9.jar",
+              "filename": "wizards_reborn-1.20.1-0.2.9.jar",
+              "primary": true,
+              "size": 37299940
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "vvuO3ImH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "srqzRpcV",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "PneumaticCraft: Repressurized",
+        "version": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+        "optional": true,
+        "file": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+        "type": "mods",
+        "description": "Doing cool stuff with pressurized air",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 281849,
+        "curseForgeFileId": 7307654,
+        "curseForgeProject": {
+          "id": 281849,
+          "name": "PneumaticCraft: Repressurized",
+          "authors": [
+            {
+              "id": 7446860,
+              "name": "desht_08",
+              "url": "https://www.curseforge.com/members/desht_08"
+            },
+            {
+              "id": 101919030,
+              "name": "Minemaarten",
+              "url": "https://www.curseforge.com/members/minemaarten"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Doing cool stuff with pressurized air",
+          "categories": [
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "pneumaticcraft-repressurized",
+          "isFeatured": false,
+          "dateModified": "2026-03-28T18:12:04.027Z",
+          "dateCreated": "2017-11-17T14:56:14.73Z",
+          "dateReleased": "2026-03-28T18:05:15.887Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized",
+            "wikiUrl": "https://github.com/TeamPneumatic/pnc-repressurized/wiki",
+            "issuesUrl": "https://github.com/TeamPneumatic/pnc-repressurized/issues",
+            "sourceUrl": "https://github.com/TeamPneumatic/pnc-repressurized"
+          },
+          "logo": {
+            "id": 478360,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/478/360/256/256/637774086636641462.png",
+            "title": "637774086636641462.png",
+            "url": "https://media.forgecdn.net/avatars/478/360/637774086636641462.png",
+            "modId": 281849
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 422033,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/422/33/310/172/pncr-items.png",
+              "title": "PNC:R items",
+              "url": "https://media.forgecdn.net/attachments/422/33/pncr-items.png",
+              "modId": 281849
+            },
+            {
+              "id": 422032,
+              "description": "Some of the new mod textures, courtesy of Ridanisaurus",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/422/32/310/172/pneumaticcraft.png",
+              "title": "PneumaticCraft new textures",
+              "url": "https://media.forgecdn.net/attachments/422/32/pneumaticcraft.png",
+              "modId": 281849
+            },
+            {
+              "id": 421832,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/421/832/310/172/pncr_logo.png",
+              "title": "PNCR Logo",
+              "url": "https://media.forgecdn.net/attachments/421/832/pncr_logo.png",
+              "modId": 281849
+            }
+          ],
+          "mainFileId": 7830507
+        },
+        "curseForgeFile": {
+          "id": 7307654,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+          "fileName": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-12-08T10:45:01.91Z",
+          "fileLength": 10790482,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1293883379,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3689464397,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3342952186,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2175575510,
+              "name": "data"
+            },
+            {
+              "fingerprint": 375728700,
+              "name": "me"
+            },
+            {
+              "fingerprint": 2826751621,
+              "name": "mixins.pneumaticcraft.json"
+            },
+            {
+              "fingerprint": 365294635,
+              "name": "mixins.pneumaticcraft.refmap.json"
+            },
+            {
+              "fingerprint": 2187553019,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2966846630,
+              "name": "pncr_logo.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cbe2d3c5df7c2770ac59eb6f02489d8917627c03",
+              "algo": 1
+            },
+            {
+              "value": "4806175f379220c76445596ea1bfbb94",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "NeoForge"
+          ],
+          "fileFingerprint": 2025326866,
+          "modId": 281849
+        },
+        "modrinthProject": {
+          "id": "ncAcdgk7",
+          "slug": "pneumaticcraft-repressurized",
+          "project_type": "mod",
+          "team": "1MLKsfK9",
+          "title": "PneumaticCraft: Repressurized",
+          "description": "Doing cool stuff with compressed air",
+          "body": "An industrial-themed tech mod with a unique power system, an original take on automation solutions, and a very powerful armor set.",
+          "published": "2022-05-23T09:33:34.488835Z",
+          "updated": "2026-03-28T18:05:16.830326Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-2.1-only",
+            "name": "GNU Lesser General Public License v2.1 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "technology"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ncAcdgk7/898bdd5a5051145c2190d029c16f352e0c7b8347.png",
+          "issues_url": "https://github.com/TeamPneumatic/pnc-repressurized/issues",
+          "source_url": "https://github.com/TeamPneumatic/pnc-repressurized/",
+          "wiki_url": "https://github.com/TeamPneumatic/pnc-repressurized/wiki",
+          "discord_url": "https://discord.gg/Zf5XwbfBRj",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ncAcdgk7/images/3f578322ab6460bdfcc855d4f79cced85f3bd745_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ncAcdgk7/images/d17279d860f7fc095ca9490ad46503023d3dd371.png",
+              "featured": false,
+              "title": "PneumaticCraft blocks, machines & entities",
+              "created": "2022-05-23T09:33:31.995117Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ncAcdgk7/images/afe6e51833057ae47cc0e985a4219b6a83efb261.png",
+              "raw_url": "https://cdn.modrinth.com/data/ncAcdgk7/images/afe6e51833057ae47cc0e985a4219b6a83efb261.png",
+              "featured": false,
+              "title": "PneumaticCraft items",
+              "created": "2022-05-23T09:33:31.995117Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "kjsVKEOw",
+          "project_id": "ncAcdgk7",
+          "author_id": "HlHns4vX",
+          "name": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+          "version_number": "6.0.22",
+          "changelog": "### Fixed\r\n* Fixed a Waila semiblock related crash\r\n* Fixed potential server crash when removing semiblock entities from the world\r\n  * Maybe related to other mods causing off-thread chunk unloading, cause is not entirely clear, but this change adds extra defensive checking",
+          "date_published": "2025-12-08T10:45:01.988593Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "cbe2d3c5df7c2770ac59eb6f02489d8917627c03",
+                "sha512": "1f4d5e3d20f19014819a8f7bec5b0a9a278975bc5607a3a3d3134ed8d5396040471957aed1c76833707715c17b7980df0b0f88899d17bd631043839021a38b85"
+              },
+              "url": "https://cdn.modrinth.com/data/ncAcdgk7/versions/kjsVKEOw/pneumaticcraft-repressurized-6.0.22%2Bmc1.20.1.jar",
+              "filename": "pneumaticcraft-repressurized-6.0.22+mc1.20.1.jar",
+              "primary": true,
+              "size": 10790482
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nU0bVIaL",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Compressed Creativity",
+        "version": "compressedcreativity-1.20.1-0.2.0-all.jar",
+        "optional": true,
+        "file": "compressedcreativity-1.20.1-0.2.0-all.jar",
+        "type": "mods",
+        "description": "Bridging Create and PneumaticCraft: Repressurized together",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 549381,
+        "curseForgeFileId": 6603441,
+        "curseForgeProject": {
+          "id": 549381,
+          "name": "Compressed Creativity",
+          "authors": [
+            {
+              "id": 53060715,
+              "name": "Lgmrszd",
+              "url": "https://www.curseforge.com/members/lgmrszd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Bridging Create and PneumaticCraft: Repressurized together",
+          "categories": [
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "compressedcreativity",
+          "isFeatured": false,
+          "dateModified": "2025-06-01T01:37:18.17Z",
+          "dateCreated": "2021-11-23T08:13:10.547Z",
+          "dateReleased": "2025-06-01T01:27:34.193Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/compressedcreativity",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Lgmrszd/CompressedCreativity/issues",
+            "sourceUrl": "https://github.com/Lgmrszd/CompressedCreativity"
+          },
+          "logo": {
+            "id": 536306,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/536/306/256/256/637858101070387819.png",
+            "title": "637858101070387819.png",
+            "url": "https://media.forgecdn.net/avatars/536/306/637858101070387819.png",
+            "modId": 549381
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 577827,
+              "description": "As of 0.1.4",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/577/827/310/172/2022-12-24_13.png",
+              "title": "All machines",
+              "url": "https://media.forgecdn.net/attachments/577/827/2022-12-24_13.png",
+              "modId": 549381
+            },
+            {
+              "id": 577823,
+              "description": "New Air Blowers and Copper Backtank compat!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/577/823/310/172/2022-12-24_12.png",
+              "title": "Things from 0.1.4",
+              "url": "https://media.forgecdn.net/attachments/577/823/2022-12-24_12.png",
+              "modId": 549381
+            },
+            {
+              "id": 577818,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/577/818/310/172/2022-09-15_04.png",
+              "title": "Plastic Bracket and Compressed Air Engine",
+              "url": "https://media.forgecdn.net/attachments/577/818/2022-09-15_04.png",
+              "modId": 549381
+            },
+            {
+              "id": 430417,
+              "description": "(old image)",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/430/417/310/172/2022-02-04_05.png",
+              "title": "Blocks from the mod",
+              "url": "https://media.forgecdn.net/attachments/430/417/2022-02-04_05.png",
+              "modId": 549381
+            },
+            {
+              "id": 410236,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/410/236/310/172/update_0.png",
+              "title": "Rotational Compressor as it is at 0.0.3",
+              "url": "https://media.forgecdn.net/attachments/410/236/update_0.png",
+              "modId": 549381
+            }
+          ],
+          "mainFileId": 6603441
+        },
+        "curseForgeFile": {
+          "id": 6603441,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "compressedcreativity-1.20.1-0.2.0-all.jar",
+          "fileName": "compressedcreativity-1.20.1-0.2.0-all.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2025-06-01T01:27:34.193Z",
+          "fileLength": 749383,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2300244666,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1043901662,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3328010930,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1377742626,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2527440632,
+              "name": "compcreat_logo.png"
+            },
+            {
+              "fingerprint": 596867328,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2790059203,
+              "name": "mixins.compressedcreativity.json"
+            },
+            {
+              "fingerprint": 895239713,
+              "name": "mixins.compressedcreativity.refmap.json"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0a87cacce547e6d96364b5376e0b415c90f17b59",
+              "algo": 1
+            },
+            {
+              "value": "19babf6b96a261c8ac0cae7362a8321d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 269814092,
+          "modId": 549381
+        },
+        "modrinthProject": {
+          "id": "Mt3rcQKj",
+          "slug": "compressedcreativity",
+          "project_type": "mod",
+          "team": "SHpJw0nj",
+          "title": "Compressed Creativity",
+          "description": "Bridging Create and PneumaticCraft: Repressurized together",
+          "body": "\n# This mod is in development!\n\n \n## Backup your world before testing it!\n\n___ \n\nThis mod adds various interactions and integrations between Create and PneumaticCraft: Repressurized.\n\n\nFor now, it adds following content:\n\nMachines:\n- Rotational Compressor: Use rotational to create pressure!\n- Compressed Air Engine: Opposite of compressor, use pressurized air to create rotation!\n- Air Blower: Use pressurized air to create Air Current that processes items twice as fast when under high pressure!\n- Industrial Air Blower: four times the processing speed! But short distance. Install Meshes to save up space!\n\n\nBlocks and Items:\n- Mechanical Visor Upgrade: When installed in helmet, allows displaying tooltip like Engineer's Goggles can, as well as shows it in Block Tracker Upgrade!\n- Plastic Brackets: Fancy alternative to wooden and metal ones!\n- Compressed Iron Casing: crafting ingredient.. and a fancy block!\n\nFeatures:\n- Charge Copper Backtank in Charging station!\n...Or just use it as compressor instead!\n- Use air from your Pneumatic Chestplate (requires Charging Upgrade) when firing that Potato Cannon (Or using Extendo Grip)!\n\nPlanned content:\n- Upgraded Potato Cannon that uses pressurized air.\n- And more, feel free to suggest on the GitHub page or in comments!\n\n\n![Machines added by mod](https://cdn-raw.modrinth.com/data/Mt3rcQKj/images/d8efc003d2b365203c10862400536167e0e232d0.png)\n",
+          "published": "2022-01-23T01:09:00.601749Z",
+          "updated": "2025-06-01T01:23:56.891260Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "technology",
+            "utility"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Mt3rcQKj/ef871f9083feb35e2a6e24f9659113c65018de32_96.webp",
+          "issues_url": "https://github.com/Lgmrszd/CompressedCreativity/issues",
+          "source_url": "https://github.com/Lgmrszd/CompressedCreativity",
+          "donation_urls": [
+            {
+              "id": "other",
+              "platform": "Other",
+              "url": "https://boosty.to/lgmrszd"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/Mt3rcQKj/images/d8efc003d2b365203c10862400536167e0e232d0.png",
+              "raw_url": "https://cdn.modrinth.com/data/Mt3rcQKj/images/d8efc003d2b365203c10862400536167e0e232d0.png",
+              "featured": false,
+              "title": "Machines",
+              "created": "2022-12-24T10:20:21.246054Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Mt3rcQKj/images/f23b7e2eb76d043b5436e11bf9c2aab5a0ebb662.png",
+              "raw_url": "https://cdn.modrinth.com/data/Mt3rcQKj/images/f23b7e2eb76d043b5436e11bf9c2aab5a0ebb662.png",
+              "featured": false,
+              "title": "New features in 0.1.4",
+              "created": "2022-12-24T10:20:17.680799Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Y54tJ85z",
+          "project_id": "Mt3rcQKj",
+          "author_id": "2HpIgKmC",
+          "name": "Compressed Creativity 1.20.1-0.2.0",
+          "version_number": "1.20.1-0.2.0",
+          "changelog": "**Full Changelog**: https://github.com/Lgmrszd/CompressedCreativity/compare/1.20.1/0.2.0-alpha...1.20.1/0.2.0\n\n## What's new\nThis is a maintenance update that does not add any features and is now marked as ready. See commit history for the technical changes and fixes.\n\nAgain, thanks to  @Sintinium for update to Create 6.0.4",
+          "date_published": "2025-06-01T01:23:56.891260Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0a87cacce547e6d96364b5376e0b415c90f17b59",
+                "sha512": "5d04a496a853d6b44e9ab4ff7a5507cd71f3c8bbfbf8ab0391804a3211cc54898cce7fabc069108e6d9e716096ada08e1386a5340ea9cfc57ea57a341895ef70"
+              },
+              "url": "https://cdn.modrinth.com/data/Mt3rcQKj/versions/Y54tJ85z/compressedcreativity-1.20.1-0.2.0-all.jar",
+              "filename": "compressedcreativity-1.20.1-0.2.0-all.jar",
+              "primary": true,
+              "size": 749383
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "ncAcdgk7",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "xoKzmnen",
+              "project_id": "LNytGWDc",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Framework",
+        "version": "Framework 0.8.0",
+        "optional": true,
+        "file": "framework-forge-1.20.1-0.8.0.jar",
+        "type": "mods",
+        "description": "A common library powering all of MrCrayfish's Mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 549225,
+        "curseForgeFileId": 7573740,
+        "curseForgeProject": {
+          "id": 549225,
+          "name": "Framework",
+          "authors": [
+            {
+              "id": 7244595,
+              "name": "MrCrayfish",
+              "url": "https://www.curseforge.com/members/mrcrayfish"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A common library powering all of MrCrayfish's Mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "framework",
+          "isFeatured": false,
+          "dateModified": "2026-04-18T03:51:06.85Z",
+          "dateCreated": "2021-12-05T09:16:04.003Z",
+          "dateReleased": "2026-04-18T03:34:47.887Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/framework",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/MrCrayfish/Framework/issues",
+            "sourceUrl": "https://github.com/MrCrayfish/Framework"
+          },
+          "logo": {
+            "id": 871312,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/871/312/256/256/638288810018379517.png",
+            "title": "638288810018379517.png",
+            "url": "https://media.forgecdn.net/avatars/871/312/638288810018379517.png",
+            "modId": 549225
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 670644,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/670/644/310/172/framework_banner.png",
+              "title": "Banner",
+              "url": "https://media.forgecdn.net/attachments/670/644/framework_banner.png",
+              "modId": 549225
+            },
+            {
+              "id": 503244,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/503/244/310/172/icon.png",
+              "title": "Icon",
+              "url": "https://media.forgecdn.net/attachments/503/244/icon.png",
+              "modId": 549225
+            },
+            {
+              "id": 416473,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/416/473/310/172/code1.png",
+              "title": "Synced entity key",
+              "url": "https://media.forgecdn.net/attachments/416/473/code1.png",
+              "modId": 549225
+            },
+            {
+              "id": 412277,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/412/277/310/172/code3.png",
+              "title": "Gradle code",
+              "url": "https://media.forgecdn.net/attachments/412/277/code3.png",
+              "modId": 549225
+            },
+            {
+              "id": 412276,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/412/276/310/172/cdoe2.png",
+              "title": "Login data code",
+              "url": "https://media.forgecdn.net/attachments/412/276/cdoe2.png",
+              "modId": 549225
+            },
+            {
+              "id": 410254,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/410/254/310/172/banner.png",
+              "title": "Banner",
+              "url": "https://media.forgecdn.net/attachments/410/254/banner.png",
+              "modId": 549225
+            }
+          ],
+          "mainFileId": 7943121
+        },
+        "curseForgeFile": {
+          "id": 7573740,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Framework 0.8.0",
+          "fileName": "framework-forge-1.20.1-0.8.0.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2026-02-04T03:42:20.04Z",
+          "fileLength": 383868,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 457570,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 459701,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3336363815,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2639778690,
+              "name": "LICENSE_Framework"
+            },
+            {
+              "fingerprint": 3372166439,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3719216043,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3685089485,
+              "name": "framework_icon.png"
+            },
+            {
+              "fingerprint": 2501093404,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "27347879f8760a7bc0b4bd71977abc50e498811c",
+              "algo": 1
+            },
+            {
+              "value": "6d9a54cd004b15028673b309243e07a2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 174485922,
+          "modId": 549225
+        }
+      },
+      {
+        "name": "~SCORCHED GUNS 2",
+        "version": "ScorchedGuns-0.5.5-1.20.1.jar",
+        "optional": true,
+        "file": "ScorchedGuns-0.5.5-1.20.1.jar",
+        "type": "mods",
+        "description": "A pack featuring a variety of guns, mobs, dungeons and more!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 802940,
+        "curseForgeFileId": 7232063,
+        "curseForgeProject": {
+          "id": 802940,
+          "name": "~SCORCHED GUNS 2",
+          "authors": [
+            {
+              "id": 101194562,
+              "name": "Ribs498",
+              "url": "https://www.curseforge.com/members/ribs498"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A pack featuring a variety of guns, mobs, dungeons and more!",
+          "categories": [
+            {
+              "name": "Redstone",
+              "slug": "redstone",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
+              "dateModified": "2016-01-19T22:21:51.64Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4558,
+              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "scorched-guns",
+          "isFeatured": false,
+          "dateModified": "2025-11-17T10:41:59.363Z",
+          "dateCreated": "2023-01-08T14:20:44.263Z",
+          "dateReleased": "2025-11-17T10:34:33.937Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/scorched-guns",
+            "wikiUrl": "https://github.com/ribs498/Scorched-Guns-1.20.1/wiki",
+            "sourceUrl": "https://github.com/ribs498/Scorched-Guns-1.20.1"
+          },
+          "logo": {
+            "id": 1039982,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1039/982/256/256/638565756146976499.png",
+            "title": "638565756146976499.png",
+            "url": "https://media.forgecdn.net/avatars/1039/982/638565756146976499.png",
+            "modId": 802940
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 1021406,
+              "description": "grandle.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1021/406/310/172/grandle.png",
+              "title": "grandle.png",
+              "url": "https://media.forgecdn.net/attachments/1021/406/grandle.png",
+              "modId": 802940
+            },
+            {
+              "id": 1021405,
+              "description": "flayed_god.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1021/405/310/172/flayed_god.png",
+              "title": "flayed_god.png",
+              "url": "https://media.forgecdn.net/attachments/1021/405/flayed_god.png",
+              "modId": 802940
+            },
+            {
+              "id": 1021404,
+              "description": "scratches.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1021/404/310/172/scratches.png",
+              "title": "scratches.png",
+              "url": "https://media.forgecdn.net/attachments/1021/404/scratches.png",
+              "modId": 802940
+            },
+            {
+              "id": 948841,
+              "description": "basic_turret.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/948/841/310/172/basic_turret.png",
+              "title": "basic_turret.png",
+              "url": "https://media.forgecdn.net/attachments/948/841/basic_turret.png",
+              "modId": 802940
+            },
+            {
+              "id": 920165,
+              "description": "sculk_resonator.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/920/165/310/172/sculk_resonator.png",
+              "title": "sculk_resonator.png",
+              "url": "https://media.forgecdn.net/attachments/920/165/sculk_resonator.png",
+              "modId": 802940
+            },
+            {
+              "id": 918481,
+              "description": "rat_king_and_queen.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/918/481/310/172/rat_king_and_queen.png",
+              "title": "rat_king_and_queen.png",
+              "url": "https://media.forgecdn.net/attachments/918/481/rat_king_and_queen.png",
+              "modId": 802940
+            },
+            {
+              "id": 918480,
+              "description": "earths_corpse.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/918/480/310/172/earths_corpse.png",
+              "title": "earths_corpse.png",
+              "url": "https://media.forgecdn.net/attachments/918/480/earths_corpse.png",
+              "modId": 802940
+            },
+            {
+              "id": 916134,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/134/310/172/niter_glass_transparent.png",
+              "title": "Niter Glass Transparent",
+              "url": "https://media.forgecdn.net/attachments/916/134/niter_glass_transparent.png",
+              "modId": 802940
+            },
+            {
+              "id": 916133,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/133/310/172/niter_glass_opaque.png",
+              "title": "Niter Glass Opaque",
+              "url": "https://media.forgecdn.net/attachments/916/133/niter_glass_opaque.png",
+              "modId": 802940
+            },
+            {
+              "id": 916033,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/33/310/172/auvtomag.png",
+              "title": "Auvtomag",
+              "url": "https://media.forgecdn.net/attachments/916/33/auvtomag.png",
+              "modId": 802940
+            },
+            {
+              "id": 916034,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/34/310/172/blasphemy.gif",
+              "title": "Blasphemy",
+              "url": "https://media.forgecdn.net/attachments/916/34/blasphemy.gif",
+              "modId": 802940
+            },
+            {
+              "id": 916035,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/35/310/172/bomb_lance.png",
+              "title": "Bomb Lance",
+              "url": "https://media.forgecdn.net/attachments/916/35/bomb_lance.png",
+              "modId": 802940
+            },
+            {
+              "id": 916036,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/36/310/172/bruiser.png",
+              "title": "Bruiser",
+              "url": "https://media.forgecdn.net/attachments/916/36/bruiser.png",
+              "modId": 802940
+            },
+            {
+              "id": 916037,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/37/310/172/cogloader.png",
+              "title": "Cogloader",
+              "url": "https://media.forgecdn.net/attachments/916/37/cogloader.png",
+              "modId": 802940
+            },
+            {
+              "id": 916038,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/38/310/172/combat_shotgun.png",
+              "title": "Combat Shotgun",
+              "url": "https://media.forgecdn.net/attachments/916/38/combat_shotgun.png",
+              "modId": 802940
+            },
+            {
+              "id": 916039,
+              "description": "\r\n",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/39/310/172/cyclone.png",
+              "title": "Cyclone",
+              "url": "https://media.forgecdn.net/attachments/916/39/cyclone.png",
+              "modId": 802940
+            },
+            {
+              "id": 916040,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/40/310/172/floundergat.png",
+              "title": "Floundergat",
+              "url": "https://media.forgecdn.net/attachments/916/40/floundergat.png",
+              "modId": 802940
+            },
+            {
+              "id": 916041,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/41/310/172/gattaler.png",
+              "title": "Gattaler",
+              "url": "https://media.forgecdn.net/attachments/916/41/gattaler.png",
+              "modId": 802940
+            },
+            {
+              "id": 916043,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/43/310/172/greaser_smg.png",
+              "title": "Greaser SMG",
+              "url": "https://media.forgecdn.net/attachments/916/43/greaser_smg.png",
+              "modId": 802940
+            },
+            {
+              "id": 916044,
+              "description": "\r\n",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/916/44/310/172/handcannon.png",
+              "title": "Handcannon",
+              "url": "https://media.forgecdn.net/attachments/916/44/handcannon.png",
+              "modId": 802940
+            }
+          ],
+          "mainFileId": 7232063
+        },
+        "curseForgeFile": {
+          "id": 7232063,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ScorchedGuns-0.5.5-1.20.1.jar",
+          "fileName": "ScorchedGuns-0.5.5-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2025-11-17T10:34:33.937Z",
+          "fileLength": 19173074,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 258371,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 439890,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 501766,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 352835,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 549225,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 328085,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 309927,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 231951,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 398521,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 905861,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 662413,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 388172,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 268560,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2238816985,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3791124161,
+              "name": "top"
+            },
+            {
+              "fingerprint": 1519645272,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2863521412,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1113342231,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2202291329,
+              "name": "scguns.mixins.json"
+            },
+            {
+              "fingerprint": 1957511910,
+              "name": "scguns.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a65d1a6fea7b44602c63175a8ea9a144d83a5de5",
+              "algo": 1
+            },
+            {
+              "value": "76d3368c69c070cb76adf761efaec622",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3640758992,
+          "modId": 802940
+        },
+        "modrinthProject": {
+          "id": "lDzXAiqs",
+          "slug": "scorched-guns-2",
+          "project_type": "mod",
+          "team": "9vLfJnAl",
+          "title": "Scorched Guns 2",
+          "description": "A pack featuring a variety of guns, mobs, dungeons and more!",
+          "body": "Now Requires [Curios](https://www.curseforge.com/minecraft/mc-mods/curios/files/5843594) and [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/5675221)\nand [Framework](https://www.curseforge.com/minecraft/mc-mods/framework/files/5911986)\n   SCORCHED GUNS V2 is a total standalone remake featuring a massive arsenal of over 40 guns, from muskets, to shotguns and machineguns, to automatic missile launchers, and rayguns. Discover new resources, battle formidable enemies, and explore treacherous dungeons in this expansive Minecraft mod.\n\n\n\nNew Weapons:\n\nProgress from blackpowder firearms to advanced copper, iron, treated brass, and diamond steel weaponry.\nUnique weapons crafted from blueprints found in buried treasure, bastions, ancient cities, and end cities.\n\n\n\nAttachments:\n\nScopes: Reflex, Medium, or Long scopes provide different magnefication, or go tactical with a Laser Sight.\nMagazines: Attach a Extended Mag to increase magazine capactity, or a Speed Mag to increase reload speed.\nUnderbarrel: Use different grips to provide stabilization, or attach different bayonets for melee strikes or Bayonet Charges, which increases damage based on player speed.\nStocks: Use different stocks to increase stability of weapon.\nBarrels: Attach Silencers to stealthily take out mobs, useful as some certain mobs dont appreciate loud gun shots. Or muzzle brakes to decrease spread. \n\n\n\nExplosives:\n\nMolotov Cocktail: Creates fire in a large area.\nGrenade: Explodes, dealing damage.\nChoke Bomb: Puts out fire and mobs.\nSwarm Bomb: Summons a swarm of bugs to attack your target.\n\n\n\nHealing Items:\n\nVarious tiers of healing items for survival\n\n\n\nEnemies:\n\nFace off against 10 new mobs including Zombie Redcoats, Illager Blunderers, Skycarriers, Cog Knights, Cog Minions, Hives, and more.\n\n\n\nResources:\n\nFind Anthralite and Sulfur ore in themines.\nNiter from ocean Geothermal Vents,collect using Vent Collectors.\nRare vehement coal in the Nether\nUse these materials to create the powerful Scorched ingot.\n\nDungeons:\n\nExplore new dungeons like Trenches, the Asgharian tower, and Osgood lab.\nFind blueprints in Dungeons, Bastions, The Ancient Cities and from the new Gunsmith Villager in villages or by using the new Gun Bench.\n\n\n\nCrafting Stations:\n\nMechanical Press: Used to make casings and press bullets.\nMacerator: Grind down materials to create mixtures like Gunpowder, Sheol dust, and More .\nGun Bench: Use blueprints to craft different tiers of weapons.\n\n\n\nUnique Features:\n\nSupply Scamp: Tame with ancient brass, this cowardly mobile storage unit can be customized with dyes to change its mask.\nGeothermal Vents: Structures in oceans emitting niter, which can be used to make gunpowder and niter glass. Niter glass changes transparency when powered by redstone.\nAmmo Boxes: Can be used to store ammunition, featuring a dynamic model that changes based off its contents.\n\nCompatabilities:\n\nFeatures Compatability with Create, allowing weapon creation with Mechanical Crafting, processing of the mods resources, and creating ammo with the Sequenced Assembly.\n\nImmersive engineering compatability, with this Press, and crusher.\n\nIf farmers delight is loaded, you can create an Anthralite Knife\n\n\nThanks to [MigaMi](https://legacy.curseforge.com/members/migami/followers) for Just Enough Guns, which helped immensely in the development of this mod, and to [zaeonNineZero](https://www.curseforge.com/members/zaeonninezero/projects), for his fork of CGM, which provided lots of wonderful UI aspects. ",
+          "published": "2024-07-25T17:56:07.740266Z",
+          "updated": "2025-11-17T10:42:37.871424Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-or-later",
+            "name": "GNU General Public License v3.0 or later"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "equipment",
+            "mobs"
+          ],
+          "loaders": [
+            "forge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/lDzXAiqs/429d1813e406bed672f76fd6579bb0a2fe97992b_96.webp",
+          "issues_url": "https://github.com/ribs498/Scorched-Guns-1.20.1/issues",
+          "source_url": "https://github.com/ribs498/Scorched-Guns-1.20.1",
+          "wiki_url": "https://github.com/ribs498/Scorched-Guns-1.20.1/wiki",
+          "discord_url": "https://discord.gg/c65f7yrsDa",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/0e77f04fb2673357e86895158a9a98efce5e3a6a.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/0e77f04fb2673357e86895158a9a98efce5e3a6a.png",
+              "featured": false,
+              "title": "Supply Scamp",
+              "description": "A friendly little mob",
+              "created": "2024-07-25T17:59:53.029584Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/1929ce3338f8cc71f3ab2b0bf85156de31d7bdc7.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/1929ce3338f8cc71f3ab2b0bf85156de31d7bdc7.png",
+              "featured": false,
+              "title": "Scratches",
+              "created": "2024-11-19T20:43:45.526937Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/1e4beac53a93795527c0eb436e6c1ccc65e52792_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/1e4beac53a93795527c0eb436e6c1ccc65e52792.png",
+              "featured": false,
+              "title": "Gauss Rifle",
+              "created": "2024-07-25T18:00:22.874890Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/2a8801cfca2e0ae28d4ef2b83be2c24ed043ffdd.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/2a8801cfca2e0ae28d4ef2b83be2c24ed043ffdd.png",
+              "featured": false,
+              "title": "M3 Carabine",
+              "created": "2024-07-25T18:00:54.591428Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/42c97a84c3ce0805ba046384acf1a021d1e9b763.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/42c97a84c3ce0805ba046384acf1a021d1e9b763.png",
+              "featured": false,
+              "title": "Bruiser",
+              "created": "2024-07-25T18:01:02.631238Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/6dd56d7d4cc514bb906e6f49f55dfb90f341034e.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/6dd56d7d4cc514bb906e6f49f55dfb90f341034e.png",
+              "featured": false,
+              "title": "Dissident",
+              "created": "2024-07-25T18:00:30.520618Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/9d6a47dcaa2ff33d9cd948ff53867d3269661f76.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/9d6a47dcaa2ff33d9cd948ff53867d3269661f76.png",
+              "featured": false,
+              "title": "Handcannon",
+              "created": "2024-07-25T18:00:39.595785Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/b1e4c534b2aa43edac36bbd2a33425caf8b0d031.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/b1e4c534b2aa43edac36bbd2a33425caf8b0d031.png",
+              "featured": false,
+              "title": "Flayed God",
+              "created": "2024-11-19T20:44:05.898351Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/c9b3cd8c9ea6af2f4698219cdfe7e7a286da8631.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/c9b3cd8c9ea6af2f4698219cdfe7e7a286da8631.png",
+              "featured": false,
+              "title": "Floundergat",
+              "created": "2024-07-25T18:00:15.585163Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/d1d35d0dfc57057249585c10037a55ed78b38bab.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/d1d35d0dfc57057249585c10037a55ed78b38bab.png",
+              "featured": false,
+              "title": "Grandle",
+              "created": "2024-11-19T20:43:54.012469Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/images/efdedad859eccf2f87f0c79763cadcfa99bce38b.png",
+              "raw_url": "https://cdn.modrinth.com/data/lDzXAiqs/images/efdedad859eccf2f87f0c79763cadcfa99bce38b.png",
+              "featured": false,
+              "title": "Cogloader",
+              "created": "2024-07-25T18:00:04.961912Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "A57yER99",
+          "project_id": "lDzXAiqs",
+          "author_id": "TRjIkvkd",
+          "name": "Scorched Guns 2 0.5.5",
+          "version_number": "0.5.5",
+          "changelog": "- Fixed Viventrum dupe bug\n- Fixed some raid issues on server\n- Nerfed Cog Mace damage slightly,\n- Fixed missing tagging\n- Added a few new animations ( Huge thanks to albatroz!)\n- Fixed Missing recipe for Hammer GL\n- Lowered blast radius for HE grenade and Bouncy Grenade\n- Thunderhead allows swapping to Krahg rounds\n- Fixed Custom melee animation guns failing to play\n- Reworked Turret Recipes so they can be obtained earlier\n- Added Mine Unit\n- Added Shock Coil\n- Added Metal Detector\n- Reduced Damage for Grenade\n- Decreased Geothermal Vent spawn rate\n- Lowered height for niter patches\n- Decreased spawn rates of all mobs\n- Slight decrease to default enemy gun damage",
+          "date_published": "2025-11-17T10:42:37.871424Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "d7fb829be196f3ca2d40ec8ce75bc3bafce61c727b5e73538efc1d14d6620571f969ee63935d34f101ac0e60190136fe3e7908e05b898687631cf2a3ee2a42e6",
+                "sha1": "a65d1a6fea7b44602c63175a8ea9a144d83a5de5"
+              },
+              "url": "https://cdn.modrinth.com/data/lDzXAiqs/versions/A57yER99/ScorchedGuns-0.5.5-1.20.1.jar",
+              "filename": "ScorchedGuns-0.5.5-1.20.1.jar",
+              "primary": true,
+              "size": 19173074
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776578644516,
-    "numPlays": 49,
+    "lastPlayed": 1776632874891,
+    "numPlays": 51,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",

@@ -1,6 +1,97 @@
 {
   "favorites": [],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "tfc_ie_addon:mineral/quartz_shard",
+      "amount": 4
+    },
+    "item:tfc_ie_addon:mineral/quartz_block",
+    {
+      "type": "item",
+      "id": "immersivepetroleum:hydrotreater",
+      "amount": 32
+    },
+    "item:tfc:small_scraped_hide",
+    "item:tfc:small_prepared_hide",
+    {
+      "type": "item",
+      "id": "minecraft:leather",
+      "amount": 2
+    },
+    "item:tfc:medium_prepared_hide",
+    "item:tfc:medium_scraped_hide",
+    "item:tfcambiental:insulated_leather_boots{Damage:0}",
+    "item:waterflasks:leather_side",
+    "item:tfcambiental:leather_apron{Damage:0}",
+    "item:tfc:small_raw_hide",
+    "item:tfc:small_soaked_hide",
+    "item:advancedtfctech:fleshing_machine",
+    {
+      "type": "item",
+      "id": "immersivepetroleum:coker_unit",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "immersivepetroleum:derrick",
+      "amount": 32
+    },
+    "item:compressedcreativity:mesh_haunted",
+    "item:compressedcreativity:mesh_woven",
+    "item:compressedcreativity:mesh_splashing",
+    "item:compressedcreativity:brass_gilded_lapis_lazuli",
+    "item:malum:soul_stained_steel_ingot",
+    {
+      "type": "item",
+      "id": "malum:soul_stained_steel_plating",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "malum:spirit_altar",
+      "amount": 32
+    },
+    "item:tfc:rock/smooth/chert",
+    "item:tfc:rock/raw/chert",
+    "item:tfc:gem/sapphire",
+    {
+      "type": "item",
+      "id": "tfc:sandpaper",
+      "nbt": "{Damage:0}",
+      "remainder": "item:tfc:sandpaper{Damage:1}"
+    },
+    {
+      "type": "item",
+      "id": "tfc:ore/amethyst",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "tfc:gem/amethyst",
+      "amount": 64
+    },
+    "item:minecraft:iron_block",
+    "item:immersiveengineering:storage_steel",
+    "item:tfc_ie_addon:mold_block",
+    "item:tfc_ie_addon:drillhead_black_steel",
+    "item:tfc:rock/hardened/dolomite",
+    "item:firmalife:compost_tumbler",
+    {
+      "type": "item",
+      "id": "tfc:composter",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:composter",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "tfc:groundcover/humus",
+      "amount": 3
+    },
     "item:malum:ether",
     "item:malum:ether_torch",
     "item:firmalife:sealed_bricks",
@@ -54,11 +145,6 @@
     "item:tfc:metal/pickaxe/black_bronze{Damage:0}",
     "item:tfc:powder/hematite",
     "item:tfc:ore/rich_hematite",
-    {
-      "type": "item",
-      "id": "tfc_ie_addon:mineral/quartz_shard",
-      "amount": 2
-    },
     "item:tfc:metal/propick_head/bronze",
     "item:tfc:metal/propick/bronze{Damage:0}",
     "item:precisionprospecting:metal/prospector_hammer_head/copper",
@@ -244,9 +330,6 @@
       "id": "tfcbetterbf:insulation",
       "amount": 64
     },
-    "item:tfc:medium_scraped_hide",
-    "item:advancedtfctech:fleshing_machine",
-    "item:immersiveengineering:storage_steel",
     "item:advancedtfctech:power_loom",
     "item:advancedtfctech:fleshing_blades{bladeDmg:0}",
     {
@@ -276,15 +359,8 @@
       "id": "tfc:ore/diamond",
       "amount": 6
     },
-    {
-      "type": "item",
-      "id": "tfc:sandpaper",
-      "nbt": "{Damage:0}",
-      "remainder": "item:tfc:sandpaper{Damage:1}"
-    },
     "item:vintageimprovements:redstone_module",
     "item:tfcambiental:straw_hat{Damage:0}",
-    "item:tfcambiental:leather_apron{Damage:0}",
     "item:immersivetechnology:cooling_tower",
     "item:create:fluid_tank",
     "item:create:copper_sheet",
