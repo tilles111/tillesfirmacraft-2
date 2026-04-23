@@ -1,17 +1,230 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:wizards_reborn:arcane_linen",
+    "item:wizards_reborn:arcane_linen_seeds",
+    "item:tfchotornot:tong_part/zinc",
+    "item:tfchotornot:tongs/zinc{Damage:0}",
+    "item:scguns:dragon_salve",
+    "item:botania:gaia_head",
+    "item:minecraft:scute",
+    "item:minecraft:fermented_spider_eye",
+    {
+      "type": "item",
+      "id": "minecraft:lodestone",
+      "amount": 32
+    },
+    "item:firmaciv:firmaciv_compass",
+    {
+      "type": "item",
+      "id": "minecraft:compass",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "kubejs:eldrite_chunk",
+      "amount": 64
+    },
+    "item:minecraft:leather_helmet{Damage:0}",
+    "item:firmalife:beekeeper_helmet{Damage:0}",
+    "item:firmalife:beekeeper_chestplate{Damage:0}",
+    "#item:forge:ingots/brass",
+    "item:compressedcreativity:brass_gilded_lapis_lazuli",
+    "item:tfc:ceramic/large_vessel",
+    "item:minecraft:furnace",
+    "item:tfc:ceramic/unfired_large_vessel",
+    "item:minecraft:hopper",
+    "item:pneumaticcraft:capacitor",
+    {
+      "type": "item",
+      "id": "wizards_reborn:cosmic_arcane_lumos",
+      "amount": 32
+    },
+    "item:wizards_reborn:pink_arcane_lumos",
+    "item:minecraft:player_head{SkullOwner:{Id:[I;-1176636689,-74432454,-2003584141,1476401073],Name:\"Fa1Aut\",Properties:{textures:[{Signature:\"MXFNtP4pelGwf29s0Pzy5gb5a16lz7tH1VlMaPk867GEUitkEBoIFXVXqWvSwoEv1UrY3eK3TYFb81ZrUv1IdYwosSBCcXnapEAz95CmHlezKHPUOOpHWtrskGOVe3giWK4Y7dwjaIqOgufQKA4qgRHKarpsXAmO/qUs4TgRVpZco7BBp/wfMlI0aJ/yaOuEWl4Pb27xmlfCZkjp/AQMT6eCLnEq9RRYf+yRvjtFh32xBH+51gSAUXVxmqjqLYOzU0I/mXquFjeUjzfHyDKR+NhrHjpp/8dhuPRVMNB4H4AS4Oz0/UFWwRd/OdMW2v6/aDbsktGU4XQZNFiLHzBoRhgNA54bxfv+4/m7ppgStYjKRQ/PLv9VFn6BkRi3A7YSQbI/s1KT/96mP/CAjA4Xy8BgC84ksH6bSXIrvk9PhJlrANYLuKjqktO4txhAVfcWdqWVDxddRxcHqApCC/a7gOe2lYiqRcOteK1CEI979Af2pt1AOW7f99/pvwnr5v1dq3LBPNptll8PZHYzpINLuiTadpUo5GYrPsxAJXZJEaH8aWqRVG25eX+OATFLclXE6G93j2uTjt6wCCjKKXUVW+9NOhZ5/1RHlYs3MF89y9o+H/gU199tDtf3HTl12IbXgAIeSMsidVECKfUu62uSatWf8ZljkqWU55WbJeY+swk\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3NjY3MTU3OTI0MywKICAicHJvZmlsZUlkIiA6ICJiOWRkZjJlZmZiOTA0MDNhODg5M2JiNzM1ODAwMTdiMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYTFBdXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmRjYzVmNjk4YjkzNGQ4NDkzMzBmZWYwODQxMTQ4NGQwYzdjNDAwODczN2Q3MjEzNTczZjMxNTE2NGZhMDA2NyIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY5YjdmMmExZDAwZDI2ZjMwZWZlM2Y5YWI5YWM4MTdiMWU2ZDM1ZjRmM2NmYjAzMjRlZjJkMzI4MjIzZDM1MCIKICAgIH0KICB9Cn0\u003d\"}]}}}",
+    {
+      "type": "item",
+      "id": "wizards_reborn:red_arcane_lumos",
+      "amount": 32
+    },
+    "item:wizards_reborn:white_arcane_lumos",
+    "#item:wizards_reborn:dyeable_arcane_lumos",
+    {
+      "type": "item",
+      "id": "malum:runewood_log",
+      "amount": 16
+    },
+    "item:malum:arcane_spirit",
+    {
+      "type": "item",
+      "id": "malum:wicked_spirit",
+      "amount": 64
+    },
+    "item:tfc:powder/graphite",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "forge:dusts/coal_coke",
+      "amount": 8
+    },
+    "item:immersiveengineering:dust_hop_graphite",
+    "item:immersiveengineering:ingot_hop_graphite",
+    "item:create:cut_calcite",
+    {
+      "type": "item",
+      "id": "firmaciv:copper_bolt",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/bricks/dolomite",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:brick/dolomite",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/dolomite",
+      "amount": 2
+    },
+    "item:immersiveengineering:ingot_aluminum",
+    {
+      "type": "item",
+      "id": "tfc_ie_addon:powder/bauxite",
+      "amount": 14
+    },
+    {
+      "type": "item",
+      "id": "tfc_ie_addon:ore/rich_bauxite",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc:straw",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:food/wheat",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "tfc:powder/diamond",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:ore/diamond",
+      "amount": 6
+    },
+    "item:tfc:rock/raw/granite",
+    "item:botania:thermalily",
+    {
+      "type": "item",
+      "id": "botania:endoflame",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "kubejs:ancient_scrap",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "malum:grim_talc",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:tripwire_hook",
+      "amount": 32
+    },
+    "item:theurgy:distiller",
+    "item:theurgy:incubator_mercury_vessel",
+    "item:theurgy:incubator_salt_vessel",
+    "item:theurgy:incubator_sulfur_vessel",
+    "item:theurgy:mercury_catalyst",
+    {
+      "type": "item",
+      "id": "minecraft:spider_eye",
+      "amount": 2
+    },
+    "item:minecraft:suspicious_stew{Effects:[{EffectDuration:180,EffectId:18,\"forge:effect_id\":\"minecraft:weakness\"}]}",
+    {
+      "type": "item",
+      "id": "minecraft:string",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:gunpowder",
+      "amount": 64
+    },
+    "item:tfc:powder/sulfur",
+    {
+      "type": "item",
+      "id": "minecraft:zombie_spawn_egg",
+      "amount": 64
+    },
+    "item:minecraft:rotten_flesh",
+    "item:createlowheated:basic_burner",
+    "item:immersiveengineering:dust_wood",
+    "item:minecraft:paper",
+    "item:tfc:unrefined_paper",
+    {
+      "type": "item",
+      "id": "tfcchannelcasting:food/milk_chocolate_knife",
+      "amount": 64
+    },
+    "item:create:cardboard",
+    "item:minecraft:book",
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:plastic",
+      "amount": 2000
+    },
+    {
+      "type": "fluid",
+      "id": "immersivepetroleum:petroleum_gas",
+      "amount": 100
+    },
+    {
+      "type": "item",
+      "id": "immersivepetroleum:hydrotreater",
+      "amount": 32
+    },
+    "item:tfc:wool",
+    "item:tfc:wool_yarn",
+    "#item:forge:string",
+    "item:minecraft:cobweb",
+    {
+      "type": "item",
+      "id": "scguns:repair_kit",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "malum:rotting_essence",
+      "amount": 6
+    },
+    "item:wizards_reborn:alchemy_vial_potion",
+    "#item:wizards_reborn:alchemy_potions",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/bronze",
+      "amount": 100
+    },
+    "item:tfc:metal/ingot/bronze",
     {
       "type": "item",
       "id": "tfc_ie_addon:mineral/quartz_shard",
       "amount": 4
     },
     "item:tfc_ie_addon:mineral/quartz_block",
-    {
-      "type": "item",
-      "id": "immersivepetroleum:hydrotreater",
-      "amount": 32
-    },
     "item:tfc:small_scraped_hide",
     "item:tfc:small_prepared_hide",
     {
@@ -40,7 +253,6 @@
     "item:compressedcreativity:mesh_haunted",
     "item:compressedcreativity:mesh_woven",
     "item:compressedcreativity:mesh_splashing",
-    "item:compressedcreativity:brass_gilded_lapis_lazuli",
     "item:malum:soul_stained_steel_ingot",
     {
       "type": "item",
@@ -127,12 +339,6 @@
     "item:tfc:metal/ingot/bismuth_bronze",
     "item:tfc:metal/pickaxe_head/bismuth_bronze",
     "item:tfc:metal/pickaxe/bismuth_bronze{Damage:0}",
-    {
-      "type": "fluid",
-      "id": "tfc:metal/bronze",
-      "amount": 100
-    },
-    "item:tfc:metal/ingot/bronze",
     "item:tfc:metal/pickaxe_head/bronze",
     "item:tfc:metal/pickaxe/bronze{Damage:0}",
     {
@@ -158,7 +364,6 @@
     "item:minecraft:bone",
     "item:tfc:bone_needle{Damage:0}",
     "item:minecraft:skeleton_skull",
-    "item:malum:grim_talc",
     "item:minecraft:bone_meal",
     "item:malum:alchemical_calx",
     {
@@ -166,14 +371,8 @@
       "id": "minecraft:drowned_spawn_egg",
       "amount": 64
     },
-    {
-      "type": "item",
-      "id": "minecraft:zombie_spawn_egg",
-      "amount": 64
-    },
     "item:tfc:metal/bucket/blue_steel",
     "item:minecraft:bucket",
-    "item:immersiveengineering:ingot_aluminum",
     {
       "type": "fluid",
       "id": "tfc_ie_addon:metal/aluminum",
@@ -186,15 +385,12 @@
       "id": "minecraft:light_blue_dye",
       "amount": 32
     },
-    "item:minecraft:gunpowder",
     {
       "type": "item",
       "id": "minecraft:firework_rocket",
       "nbt": "{Fireworks:{Flight:1b}}",
       "amount": 64
     },
-    "item:immersiveengineering:dust_wood",
-    "item:minecraft:paper",
     "item:theurgy:alchemical_sulfur_elytra{\"theurgy:sulfur.source.id\":\"minecraft:elytra\"}",
     "item:minecraft:elytra{Damage:0}",
     {
@@ -244,18 +440,8 @@
       "id": "minecraft:tnt",
       "amount": 32
     },
-    {
-      "type": "item",
-      "id": "malum:rotting_essence",
-      "amount": 8
-    },
     "item:malum:block_of_grim_talc",
     "item:minecraft:zombie_head",
-    {
-      "type": "item",
-      "id": "minecraft:rotten_flesh",
-      "amount": 3
-    },
     "item:minecraft:bow{Damage:0}",
     {
       "type": "fluid",
@@ -291,8 +477,8 @@
       "amount": 1000,
       "ingredients": [
         "#fluid:firmalife:mixable",
-        "#fluid:tfc:water",
-        "#fluid:tfcchannelcasting:mixable"
+        "#fluid:tfcchannelcasting:mixable",
+        "#fluid:tfc:water"
       ]
     },
     {
@@ -305,7 +491,6 @@
       "id": "minecraft:campfire",
       "amount": 32
     },
-    "item:createlowheated:basic_burner",
     "item:tfc:metal/tuyere/black_steel{Damage:827}",
     "item:tfc:metal/ingot/steel",
     "item:tfc:metal/ingot/high_carbon_steel",
@@ -354,11 +539,6 @@
     "item:waterflasks:unfinished_iron_flask",
     "item:waterflasks:red_steel_flask",
     "item:waterflasks:unfinished_red_steel_flask",
-    {
-      "type": "item",
-      "id": "tfc:ore/diamond",
-      "amount": 6
-    },
     "item:vintageimprovements:redstone_module",
     "item:tfcambiental:straw_hat{Damage:0}",
     "item:immersivetechnology:cooling_tower",
@@ -480,11 +660,6 @@
       "amount": 4
     },
     "item:create:pulp",
-    {
-      "type": "item",
-      "id": "create:cardboard",
-      "amount": 64
-    },
     "item:create:andesite_alloy",
     "item:create:andesite_casing",
     "item:create:mechanical_mixer",
@@ -516,7 +691,6 @@
     "item:minecraft:shroomlight",
     "item:tfc:ceramic/jug",
     "item:minecraft:acacia_fence_gate",
-    "item:minecraft:string",
     "item:minecraft:blue_wool",
     "item:minecraft:black_stained_glass",
     "item:minecraft:iron_bars",
@@ -528,6 +702,7 @@
     "item:tfc:wood/lumber/acacia"
   ],
   "craft_history": [
+    "tfc:crafting/rock/dolomite_brick",
     "tfc:crafting/stone/knife_sedimentary",
     "tfc:crafting/stone/axe_sedimentary"
   ],

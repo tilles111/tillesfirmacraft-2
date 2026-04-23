@@ -17437,280 +17437,6 @@
         }
       },
       {
-        "name": "Sound​s",
-        "version": "Sounds 2.2.1",
-        "optional": true,
-        "file": "Sounds-2.2.1+1.20.1+forge.jar",
-        "type": "mods",
-        "description": "Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 925889,
-        "curseForgeFileId": 5940443,
-        "curseForgeProject": {
-          "id": 925889,
-          "name": "Sound​s",
-          "authors": [
-            {
-              "id": 103105756,
-              "name": "IMB11",
-              "url": "https://www.curseforge.com/members/imb11"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.",
-          "categories": [
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 5191,
-          "classId": 6,
-          "slug": "sound",
-          "isFeatured": false,
-          "dateModified": "2026-03-24T19:48:59.487Z",
-          "dateCreated": "2023-10-22T08:18:39.78Z",
-          "dateReleased": "2026-03-24T19:34:39.227Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sound",
-            "wikiUrl": "https://IMB11.dev/",
-            "issuesUrl": "https://github.com/IMB11-Mods/Sounds/issues",
-            "sourceUrl": "https://github.com/mineblock11/Sonance"
-          },
-          "logo": {
-            "id": 1004039,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/39/256/256/638524938814296759.png",
-            "title": "638524938814296759.png",
-            "url": "https://media.forgecdn.net/avatars/1004/39/638524938814296759.png",
-            "modId": 925889
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 7806535
-        },
-        "curseForgeFile": {
-          "id": 5940443,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Sounds 2.2.1",
-          "fileName": "Sounds-2.2.1+1.20.1+forge.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-11-27T00:34:47.92Z",
-          "fileLength": 10974911,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 669659,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1241894097,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 4036884209,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 2672347008,
-              "name": "Sounds-1.20.1-forge-refmap.json"
-            },
-            {
-              "fingerprint": 3861778201,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3407099560,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3008042786,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 1348883489,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1217417175,
-              "name": "sounds.mixins.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "e75686799054958804d711b1b6ceef4d132764b8",
-              "algo": 1
-            },
-            {
-              "value": "ea8427a4988c1f5ad6b5ed7a38b8224d",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge",
-            "1.20"
-          ],
-          "fileFingerprint": 4148956969,
-          "modId": 925889
-        },
-        "modrinthProject": {
-          "id": "ZouiUX7t",
-          "slug": "sound",
-          "project_type": "mod",
-          "team": "FPYbXAXr",
-          "title": "Sounds",
-          "description": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
-          "body": "[![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.imb11.dev/)\n\n### **It's what it says on the tin.**\n\nSounds is a mod that adds a variety of new sound effects to the game, whilst improving existing ones that didn't quite fit. It's a game-changer, it makes vanilla feel incomplete in comparison.\n\nThe mod is also a spiritual continuation of ExtraSounds, Auditory and QualitySounds; the majority of features from these mods have been expanded upon to be highly configurable.\n\n**Requires [M.R.U](https://modrinth.com/mod/mru) & [Yet Another Config Lib](https://modrinth.com/mod/yacl)**\n\n## Features\n- **Includes over 170 SFX improvements** which span across the entire game, such as UI, chat messages, in-game actions and block sounds.\n- **High quality** sound effects sourced from [Zapsplat](https://www.zapsplat.com/) and hand-tweaked for the best SFX experience.\n- **Fully client-side only**, no need to install on the server!\n- **Highly customizable**, you can change the sounds events used, and even tweak the dynamic block and item sounds through resource packs, especially useful for creating addons for content mods.'\n\n<iframe width=\"100%\" height=\"520px\" src=\"https://www.youtube.com/embed/9H55Nxoc0uk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Configuration\nAs mentioned, Sounds is **highly customizable** - the simple effects can be edited either through the configuration found in the `config/sounds/` folder of your game instance, or though the configuration screen.\n\n*[Mod Menu](https://modrinth.com/mod/modmenu) is required to access the configuration screen for the Fabric version of the mod.*\n\n![](https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b.png)\n\n![](https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1.png)\n\n### Adding support for modded content\n\nRefer to the [Sounds Documentation](https://docs.imb11.dev/sounds/) for more information on creating dynamic sound definitions for items, screens and blocks.\n\n<small>\n\nCustom sound effects obtained from [Zapsplat](https://www.zapsplat.com) under ZapSplat Standard License for Gold Members.\n\nBy using my mods, you agree to the [End User License Agreement](https://legal.imb11.dev/mods/eula). You are free to use this mod within your Modrinth & CurseForge modpacks as long as the EULA is respected.\n\n</small>",
-          "published": "2023-10-21T20:53:31.897179Z",
-          "updated": "2026-03-24T19:01:50.814719Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": ""
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "game-mechanics",
-            "social",
-            "utility"
-          ],
-          "loaders": [
-            "fabric",
-            "forge",
-            "neoforge"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
-          "issues_url": "https://github.com/IMB11/Sounds/issues",
-          "source_url": "https://github.com/IMB11/Sounds",
-          "wiki_url": "https://docs.imb11.dev/",
-          "discord_url": "https://discord.imb11.dev/",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/mineblock11"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b.png",
-              "featured": false,
-              "title": "Configuration Screen",
-              "created": "2025-07-23T16:22:13.165278Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1.png",
-              "featured": true,
-              "title": "Example Configuration Screen",
-              "created": "2025-07-23T16:22:44.368687Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "6vE02T1J",
-          "project_id": "ZouiUX7t",
-          "author_id": "bOHH0P9Z",
-          "name": "Sounds 2.2.1",
-          "version_number": "2.2.1+1.20.1-forge",
-          "changelog": "- Fixed various crashes caused by Architectury API. Sounds now includes a newer version of Architectury API which solves this problem.\r\n- Internal buildscript fixes. Sorry for the wait to have 1.21.3 for NeoForge.",
-          "date_published": "2024-11-27T00:34:51.614938Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "f8195ec5f9611f9b96c5a23cfd81cb09bd1ea2721533aa768e550cf14c870b1dd384b6b04f012d0d5a09af1701d3cdc87ffad047e4ab5d2138094f60405b586c",
-                "sha1": "e75686799054958804d711b1b6ceef4d132764b8"
-              },
-              "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar",
-              "filename": "Sounds-2.2.1+1.20.1+forge.jar",
-              "primary": true,
-              "size": 10974911
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "SNVQ2c0g",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "TFC Hot or Not",
         "version": "TFCHotOrNot-1.20.1-1.0.13",
         "optional": true,
@@ -23206,445 +22932,6 @@
           "loaders": [
             "forge",
             "neoforge"
-          ]
-        }
-      },
-      {
-        "name": "TFC Ambiental - Second edition",
-        "version": "tfcambiental-1.20.1-3.5.0.jar",
-        "optional": true,
-        "file": "tfcambiental-1.20.1-3.5.0.jar",
-        "type": "mods",
-        "description": "A TerraFirmaCraft addon that implements a temperature system.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 940350,
-        "curseForgeFileId": 7660699,
-        "curseForgeProject": {
-          "id": 940350,
-          "name": "TFC Ambiental - Second edition",
-          "authors": [
-            {
-              "id": 101028709,
-              "name": "LobsterJonn",
-              "url": "https://www.curseforge.com/members/lobsterjonn"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A TerraFirmaCraft addon that implements a temperature system.",
-          "categories": [
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "tfc-ambiental-second-edition",
-          "isFeatured": false,
-          "dateModified": "2026-02-21T23:44:28.43Z",
-          "dateCreated": "2023-11-20T08:44:44.09Z",
-          "dateReleased": "2026-02-21T23:32:18.35Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tfc-ambiental-second-edition",
-            "issuesUrl": "https://github.com/JDKDigital/TFC-Ambiental/issues",
-            "sourceUrl": "https://github.com/JDKDigital/TFC-Ambiental"
-          },
-          "logo": {
-            "id": 908247,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/908/247/256/256/638360110297352628.png",
-            "title": "638360110297352628.png",
-            "url": "https://media.forgecdn.net/avatars/908/247/638360110297352628.png",
-            "modId": 940350
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 7660699
-        },
-        "curseForgeFile": {
-          "id": 7660699,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "tfcambiental-1.20.1-3.5.0.jar",
-          "fileName": "tfcambiental-1.20.1-3.5.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2026-02-21T23:32:18.35Z",
-          "fileLength": 646319,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1478303416,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1634875631,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3523238736,
-              "name": "com"
-            },
-            {
-              "fingerprint": 616263837,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2099006954,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "25634c21bb8ceff0ec53d24f38dde9c4a239c789",
-              "algo": 1
-            },
-            {
-              "value": "521a85cb64ec8122b50c9b3b8c681638",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 1763513816,
-          "modId": 940350
-        }
-      },
-      {
-        "name": "TFC Ambiental Refreshed",
-        "version": "TFC_Ambiental_Refreshed_1.18-1.21.1.zip",
-        "optional": true,
-        "file": "TFC_Ambiental_Refreshed_1.18-1.21.1.zip",
-        "type": "resourcepack",
-        "description": "Improves TerraFirmaCraft Ambiental textures in new vanilla style.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 1379694,
-        "curseForgeFileId": 7223628,
-        "curseForgeProject": {
-          "id": 1379694,
-          "name": "TFC Ambiental Refreshed",
-          "authors": [
-            {
-              "id": 101408080,
-              "name": "NoCube",
-              "url": "https://www.curseforge.com/members/nocube"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Improves TerraFirmaCraft Ambiental textures in new vanilla style.",
-          "categories": [
-            {
-              "name": "16x",
-              "slug": "sixteen-x",
-              "url": "https://www.curseforge.com/minecraft/texture-packs/sixteen-x",
-              "dateModified": "2020-06-30T17:54:39.077Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 393,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/75/635351598555753321.png",
-              "parentCategoryId": 12,
-              "classId": 12
-            },
-            {
-              "name": "Miscellaneous",
-              "slug": "miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
-              "dateModified": "2020-06-30T17:54:39.157Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 405,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
-              "parentCategoryId": 12,
-              "classId": 12
-            },
-            {
-              "name": "Mod Support",
-              "slug": "mod-support",
-              "url": "https://www.curseforge.com/minecraft/texture-packs/mod-support",
-              "dateModified": "2020-06-30T17:54:39.16Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4465,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/623/635363922411546592.png",
-              "parentCategoryId": 12,
-              "classId": 12
-            },
-            {
-              "name": "Traditional",
-              "slug": "traditional",
-              "url": "https://www.curseforge.com/minecraft/texture-packs/traditional",
-              "dateModified": "2020-06-30T17:54:39.14Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 403,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/57/635351500831419880.png",
-              "parentCategoryId": 12,
-              "classId": 12
-            },
-            {
-              "name": "Medieval",
-              "slug": "medieval",
-              "url": "https://www.curseforge.com/minecraft/texture-packs/medieval",
-              "dateModified": "2020-06-30T17:54:39.137Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 402,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/56/635351500686687873.png",
-              "parentCategoryId": 12,
-              "classId": 12
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 393,
-          "classId": 12,
-          "slug": "tfc-ambiental-refreshed",
-          "isFeatured": false,
-          "dateModified": "2025-11-15T06:28:51.017Z",
-          "dateCreated": "2025-11-07T07:39:13.013Z",
-          "dateReleased": "2025-11-15T06:25:33.587Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/tfc-ambiental-refreshed"
-          },
-          "logo": {
-            "id": 1516959,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1516/959/256/256/638985020165802581.png",
-            "title": "638985020165802581.png",
-            "url": "https://media.forgecdn.net/avatars/1516/959/638985020165802581.png",
-            "modId": 1379694
-          },
-          "allowModDistribution": false,
-          "screenshots": [
-            {
-              "id": 1392738,
-              "description": "Comparison",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1392/738/310/172/comparison-png.png",
-              "title": "Comparison",
-              "url": "https://media.forgecdn.net/attachments/1392/738/comparison-png.png",
-              "modId": 1379694
-            },
-            {
-              "id": 1389609,
-              "description": "Icon",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1389/609/310/172/tfc_amb-png.png",
-              "title": "Icon",
-              "url": "https://media.forgecdn.net/attachments/1389/609/tfc_amb-png.png",
-              "modId": 1379694
-            },
-            {
-              "id": 1383853,
-              "description": "Cold, Inside House",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1383/853/310/172/2025-11-06_19-56-06-min-png.png",
-              "title": "Cold, Inside House",
-              "url": "https://media.forgecdn.net/attachments/1383/853/2025-11-06_19-56-06-min-png.png",
-              "modId": 1379694
-            },
-            {
-              "id": 1383852,
-              "description": "Wet & Freezing",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1383/852/310/172/2025-11-06_19-59-25-min-png.png",
-              "title": "Wet & Freezing",
-              "url": "https://media.forgecdn.net/attachments/1383/852/2025-11-06_19-59-25-min-png.png",
-              "modId": 1379694
-            },
-            {
-              "id": 1383851,
-              "description": "Warming, Inside House",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/1383/851/310/172/2025-11-06_20-00-13-min-png.png",
-              "title": "Warming, Inside House",
-              "url": "https://media.forgecdn.net/attachments/1383/851/2025-11-06_20-00-13-min-png.png",
-              "modId": 1379694
-            }
-          ],
-          "mainFileId": 7223628
-        },
-        "curseForgeFile": {
-          "id": 7223628,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "TFC_Ambiental_Refreshed_1.18-1.21.1.zip",
-          "fileName": "TFC_Ambiental_Refreshed_1.18-1.21.1.zip",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2025-11-15T06:25:33.587Z",
-          "fileLength": 458406,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3265208822,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3639116458,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1115162988,
-              "name": "pack.png"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "73561b96df5b4ead380bdca8f01db3ae11f63daf",
-              "algo": 1
-            },
-            {
-              "value": "df3d1a50ea8f109f29939a722fb084a3",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000021",
-              "gameVersion": "1.21",
-              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
-              "gameVersionName": "1.21"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000021.0000000001",
-              "gameVersion": "1.21.1",
-              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
-              "gameVersionName": "1.21.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "1.21",
-            "1.20.1",
-            "1.21.1",
-            "1.18.2"
-          ],
-          "fileFingerprint": 1666682937,
-          "modId": 1379694
-        },
-        "modrinthProject": {
-          "id": "RVuHApuv",
-          "slug": "tfc-ambiental-refreshed",
-          "project_type": "resourcepack",
-          "team": "snxhz3Uy",
-          "title": "TFC Ambiental Refreshed",
-          "description": "Updates textures of TFC Ambiental.",
-          "body": "![https://cdn.modrinth.com/data/RVuHApuv/images/8b5aae25d7e4f4a0de9c84eca90e4faf9284481b.png](https://cdn.modrinth.com/data/RVuHApuv/images/8b5aae25d7e4f4a0de9c84eca90e4faf9284481b.png)\n\nAvailable on [Curseforge](https://www.curseforge.com/minecraft/texture-packs/tfc-ambiental-refreshed) & [Modrinth](https://modrinth.com/resourcepack/tfc-ambiental-refreshed)\n\nRequires: [TFC Ambiental](https://modrinth.com/mod/tfc-ambiental)\n\n### 📖About\n\n\n\nTFC Ambiental Refreshed is a Resource Pack, that updates the visuals of TFC Ambiental, so that they are closer to the modern minecraft art style. This resource pack is made in style of Vexxed Visuals TFC, so the color palettes match well (I highly recommend playing with it for better overall experience).\n\nWhile this resourcepack is made specifically for the Terra Draconis modpack, you can use it even outside it for any of your TFC adventures!\n\n\n\n### 💬 Permissions\n\n✔️ You are allowed to include this resource pack in modpacks and use it in your videos. A link to the mod page in the description is highly appreciated.\n\n❌ You are not allowed to reupload this resource pack to any other websites/launchers/apps, use textures in other projects, put this mod behind any adfly-like links, sell this resource pack in any way or include in paid modpacks - this resource pack is free for all players.",
-          "published": "2025-11-14T23:16:29.877189Z",
-          "updated": "2025-11-15T06:27:57.385Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": ""
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "16x",
-            "modded",
-            "vanilla-like"
-          ],
-          "loaders": [
-            "minecraft"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/RVuHApuv/eff3e4e4bf53e79e2e78d6d99efe0162dc60e3f5.png",
-          "issues_url": "https://legacy.curseforge.com/minecraft/texture-packs/tfc-ambiental-refreshed/issues",
-          "wiki_url": "https://www.curseforge.com/minecraft/texture-packs/tfc-ambiental-refreshed",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/RVuHApuv/images/8b5aae25d7e4f4a0de9c84eca90e4faf9284481b_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/RVuHApuv/images/8b5aae25d7e4f4a0de9c84eca90e4faf9284481b.png",
-              "featured": false,
-              "title": "Comparison",
-              "description": "Comparison",
-              "created": "2025-11-14T23:37:10.672360Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "SAxnWzwK",
-          "project_id": "RVuHApuv",
-          "author_id": "9JYgURw1",
-          "name": "TFC Ambiental Refreshed 1.18.2-1.21.1",
-          "version_number": "1.18.2-1.21.1",
-          "changelog": "",
-          "date_published": "2025-11-15T06:27:57.385Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "f272ba3bc3c97bc0156b61a3a44d36b7e0bcbd2d85479fa4182fb85c858745737266ca63215490198c125a6e5b626baf449c07eb9d1d5e0bb2a72ab60e209fb9",
-                "sha1": "73561b96df5b4ead380bdca8f01db3ae11f63daf"
-              },
-              "url": "https://cdn.modrinth.com/data/RVuHApuv/versions/SAxnWzwK/TFC_Ambiental_Refreshed_1.18-1.21.1.zip",
-              "filename": "TFC_Ambiental_Refreshed_1.18-1.21.1.zip",
-              "primary": true,
-              "size": 458406
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.18.2",
-            "1.20.1",
-            "1.21.1"
-          ],
-          "loaders": [
-            "minecraft"
           ]
         }
       },
@@ -39633,13 +38920,291 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Sound​s",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Sounds-2.0.4+1.20.1+forge.jar",
+        "type": "mods",
+        "description": "Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 925889,
+        "curseForgeFileId": 5643512,
+        "curseForgeProject": {
+          "id": 925889,
+          "name": "Sound​s",
+          "authors": [
+            {
+              "id": 103105756,
+              "name": "IMB11",
+              "url": "https://www.curseforge.com/members/imb11"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "sound",
+          "isFeatured": false,
+          "dateModified": "2026-03-24T19:48:59.487Z",
+          "dateCreated": "2023-10-22T08:18:39.78Z",
+          "dateReleased": "2026-03-24T19:34:39.227Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sound",
+            "wikiUrl": "https://IMB11.dev/",
+            "issuesUrl": "https://github.com/IMB11-Mods/Sounds/issues",
+            "sourceUrl": "https://github.com/mineblock11/Sonance"
+          },
+          "logo": {
+            "id": 1004039,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/39/256/256/638524938814296759.png",
+            "title": "638524938814296759.png",
+            "url": "https://media.forgecdn.net/avatars/1004/39/638524938814296759.png",
+            "modId": 925889
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7806535
+        },
+        "curseForgeFile": {
+          "id": 5643512,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Sounds 2.0.4",
+          "fileName": "Sounds-2.0.4+1.20.1+forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-19T11:18:02.753Z",
+          "fileLength": 10975478,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 669659,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 380586592,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3496128601,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3352826121,
+              "name": "Sounds-1.20.1-forge-refmap.json"
+            },
+            {
+              "fingerprint": 1633648828,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3407099560,
+              "name": "data"
+            },
+            {
+              "fingerprint": 425082487,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 1348883489,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2485332445,
+              "name": "packed"
+            },
+            {
+              "fingerprint": 1269078982,
+              "name": "sounds.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "244c3dddf48189817bb155dc15522b3722953ef6",
+              "algo": 1
+            },
+            {
+              "value": "19e24d6881db43d6f09ab1aaabb092f0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 1682228538,
+          "modId": 925889
+        },
+        "modrinthProject": {
+          "id": "ZouiUX7t",
+          "slug": "sound",
+          "project_type": "mod",
+          "team": "FPYbXAXr",
+          "title": "Sounds",
+          "description": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
+          "body": "[![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.imb11.dev/)\n\n### **It's what it says on the tin.**\n\nSounds is a mod that adds a variety of new sound effects to the game, whilst improving existing ones that didn't quite fit. It's a game-changer, it makes vanilla feel incomplete in comparison.\n\nThe mod is also a spiritual continuation of ExtraSounds, Auditory and QualitySounds; the majority of features from these mods have been expanded upon to be highly configurable.\n\n**Requires [M.R.U](https://modrinth.com/mod/mru) & [Yet Another Config Lib](https://modrinth.com/mod/yacl)**\n\n## Features\n- **Includes over 170 SFX improvements** which span across the entire game, such as UI, chat messages, in-game actions and block sounds.\n- **High quality** sound effects sourced from [Zapsplat](https://www.zapsplat.com/) and hand-tweaked for the best SFX experience.\n- **Fully client-side only**, no need to install on the server!\n- **Highly customizable**, you can change the sounds events used, and even tweak the dynamic block and item sounds through resource packs, especially useful for creating addons for content mods.'\n\n<iframe width=\"100%\" height=\"520px\" src=\"https://www.youtube.com/embed/9H55Nxoc0uk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Configuration\nAs mentioned, Sounds is **highly customizable** - the simple effects can be edited either through the configuration found in the `config/sounds/` folder of your game instance, or though the configuration screen.\n\n*[Mod Menu](https://modrinth.com/mod/modmenu) is required to access the configuration screen for the Fabric version of the mod.*\n\n![](https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b.png)\n\n![](https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1.png)\n\n### Adding support for modded content\n\nRefer to the [Sounds Documentation](https://docs.imb11.dev/sounds/) for more information on creating dynamic sound definitions for items, screens and blocks.\n\n<small>\n\nCustom sound effects obtained from [Zapsplat](https://www.zapsplat.com) under ZapSplat Standard License for Gold Members.\n\nBy using my mods, you agree to the [End User License Agreement](https://legal.imb11.dev/mods/eula). You are free to use this mod within your Modrinth & CurseForge modpacks as long as the EULA is respected.\n\n</small>",
+          "published": "2023-10-21T20:53:31.897179Z",
+          "updated": "2026-03-24T19:01:50.814719Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "game-mechanics",
+            "social",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
+          "issues_url": "https://github.com/IMB11/Sounds/issues",
+          "source_url": "https://github.com/IMB11/Sounds",
+          "wiki_url": "https://docs.imb11.dev/",
+          "discord_url": "https://discord.imb11.dev/",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/mineblock11"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b.png",
+              "featured": false,
+              "title": "Configuration Screen",
+              "created": "2025-07-23T16:22:13.165278Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1.png",
+              "featured": true,
+              "title": "Example Configuration Screen",
+              "created": "2025-07-23T16:22:44.368687Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "fIGsYhRw",
+          "project_id": "ZouiUX7t",
+          "author_id": "bOHH0P9Z",
+          "name": "Sounds 2.0.4",
+          "version_number": "2.0.4+1.20.1-forge",
+          "changelog": "- Fixes issue with Forge.",
+          "date_published": "2024-08-19T11:18:07.768182Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "60fe79210b769f760a5e42cc03c27d3127e41015c91180ec2fdac151e9a2924ce20b326d5514aa1a49c5208686cdd58e2d9f09cad4c1991087f4fb817a0e003c",
+                "sha1": "244c3dddf48189817bb155dc15522b3722953ef6"
+              },
+              "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/fIGsYhRw/Sounds-2.0.4%2B1.20.1%2Bforge.jar",
+              "filename": "Sounds-2.0.4+1.20.1+forge.jar",
+              "primary": true,
+              "size": 10975478
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "SNVQ2c0g",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776632874891,
-    "numPlays": 51,
+    "lastPlayed": 1776986216381,
+    "numPlays": 60,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",

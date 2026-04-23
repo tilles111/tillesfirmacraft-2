@@ -17,6 +17,8 @@
   "subtitles.entity.skeleton.shoot": "Sentinel shoots",
   "entity.minecraft.spider": "Crawler",
   "item.minecraft.spider_spawn_egg": "Crawler Spawn Egg",
+  "item.minecraft.spider_eye": "Crawler Eye",
+  "item.minecraft.fermented_spider_eye": "Fermented Crawler Eye",
   "subtitles.entity.spider.ambient": "Crawler screeches",
   "subtitles.entity.spider.death": "Crawler dies",
   "subtitles.entity.spider.hurt": "Crawler hurts",
