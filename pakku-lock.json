@@ -1622,120 +1622,6 @@
             ]
         },
         {
-            "pakku_id": "bz7D3uAbIXOS8Mm7",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "dynamictrees"
-            },
-            "name": {
-                "curseforge": "Dynamic Trees"
-            },
-            "id": {
-                "curseforge": "252818"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "DynamicTrees-1.20.1-1.4.10.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7502/488/DynamicTrees-1.20.1-1.4.10.jar",
-                    "id": "7502488",
-                    "parent_id": "252818",
-                    "hashes": {
-                        "sha1": "6fdd23dfdbdf0fa88c468b1cae6a2dbefa019923",
-                        "md5": "8e07943262bd8c95712ac3820d9e08a7"
-                    },
-                    "required_dependencies": [],
-                    "size": 3754640,
-                    "date_published": "2026-01-21T19:36:22.373Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "WJr2muWZpJla173C",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "dynamictreesplus"
-            },
-            "name": {
-                "curseforge": "Dynamic Trees Plus"
-            },
-            "id": {
-                "curseforge": "478155"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "DynamicTreesPlus-1.20.1-1.2.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7502/535/DynamicTreesPlus-1.20.1-1.2.2.jar",
-                    "id": "7502535",
-                    "parent_id": "478155",
-                    "hashes": {
-                        "sha1": "73bc0e0f9f4b7dd5ed037bbc256626321fb9c19f",
-                        "md5": "e4b644ce3ef052c82ed2c609417321a0"
-                    },
-                    "required_dependencies": [
-                        "252818"
-                    ],
-                    "size": 534711,
-                    "date_published": "2026-01-21T19:45:32.963Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "NNLIHQLavT2Mi3W7",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "dynamictreestfc"
-            },
-            "name": {
-                "curseforge": "Dynamic Trees TFC"
-            },
-            "id": {
-                "curseforge": "362368"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "DynamicTreesTFC-1.20.1-2.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6681/697/DynamicTreesTFC-1.20.1-2.0.2.jar",
-                    "id": "6681697",
-                    "parent_id": "362368",
-                    "hashes": {
-                        "sha1": "59c337f8a9cfdbb86b307ab677e9c2067dfb4112",
-                        "md5": "68440d3759f13c56b05c050e1306012a"
-                    },
-                    "required_dependencies": [
-                        "252818",
-                        "302973"
-                    ],
-                    "size": 419824,
-                    "date_published": "2025-06-22T06:35:59.340Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "Pt7sdKmyLduyK8hT",
             "type": "MOD",
             "slug": {
@@ -3842,6 +3728,94 @@
                     "required_dependencies": [],
                     "size": 530268,
                     "date_published": "2026-02-26T20:18:24.953Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nmzeF6qMLslGBpuL",
+            "pakku_links": [
+                "MLWlrhyhopmTHQWa"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pandas-falling-trees"
+            },
+            "name": {
+                "curseforge": "Panda's Falling Trees"
+            },
+            "id": {
+                "curseforge": "880630"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6231/30/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+                    "id": "6231030",
+                    "parent_id": "880630",
+                    "hashes": {
+                        "sha1": "e787f81ddc9e8afea8d859d57776e212ab2b6ff4",
+                        "md5": "542bd503ba871bb74f3ce229ebc45048"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "975460"
+                    ],
+                    "size": 4025908,
+                    "date_published": "2025-02-24T19:38:27.470Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "MLWlrhyhopmTHQWa",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pandalib"
+            },
+            "name": {
+                "curseforge": "PandaLib"
+            },
+            "id": {
+                "curseforge": "975460"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6245/108/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+                    "id": "6245108",
+                    "parent_id": "975460",
+                    "hashes": {
+                        "sha1": "1e8d8e9688a04df5177a46036d6f34c83194686c",
+                        "md5": "019a3540059282663ce2ed634dbfd09c"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 864398,
+                    "date_published": "2025-02-27T21:20:03.207Z"
                 }
             ]
         },

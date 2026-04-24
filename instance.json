@@ -21662,586 +21662,6 @@
         }
       },
       {
-        "name": "Dynamic Trees",
-        "version": "DynamicTrees-1.20.1-1.4.10.jar",
-        "optional": true,
-        "file": "DynamicTrees-1.20.1-1.4.10.jar",
-        "type": "mods",
-        "description": "Trees that grow... Forests that spread.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 252818,
-        "curseForgeFileId": 7502488,
-        "curseForgeProject": {
-          "id": 252818,
-          "name": "Dynamic Trees",
-          "authors": [
-            {
-              "id": 100034728,
-              "name": "MaxHyper",
-              "url": "https://www.curseforge.com/members/maxhyper"
-            },
-            {
-              "id": 19257089,
-              "name": "ferreusveritas",
-              "url": "https://www.curseforge.com/members/ferreusveritas"
-            },
-            {
-              "id": 17921349,
-              "name": "HarleyOConnor",
-              "url": "https://www.curseforge.com/members/harleyoconnor"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Trees that grow... Forests that spread.",
-          "categories": [
-            {
-              "name": "Farming",
-              "slug": "technology-farming",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
-              "dateModified": "2014-05-08T17:39:21.57Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 416,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Biomes",
-              "slug": "world-biomes",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
-              "dateModified": "2014-05-08T17:34:59.587Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 407,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 416,
-          "classId": 6,
-          "slug": "dynamictrees",
-          "isFeatured": false,
-          "dateModified": "2026-02-22T02:18:17.317Z",
-          "dateCreated": "2016-10-26T22:25:05.927Z",
-          "dateReleased": "2026-02-22T02:09:04.363Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamictrees",
-            "wikiUrl": "https://github.com/DynamicTreesTeam/DynamicTrees/wiki",
-            "issuesUrl": "https://github.com/ferreusveritas/Dynamic-Trees/issues",
-            "sourceUrl": "https://github.com/ferreusveritas/DynamicTrees"
-          },
-          "logo": {
-            "id": 111638,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/111/638/256/256/636389419656399314.png",
-            "title": "636389419656399314.png",
-            "url": "https://media.forgecdn.net/avatars/111/638/636389419656399314.png",
-            "modId": 252818
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 216052,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/52/310/172/birch.png",
-              "title": "birch",
-              "url": "https://media.forgecdn.net/attachments/216/52/birch.png",
-              "modId": 252818
-            },
-            {
-              "id": 216044,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/44/310/172/oakforest.png",
-              "title": "oak forest",
-              "url": "https://media.forgecdn.net/attachments/216/44/oakforest.png",
-              "modId": 252818
-            },
-            {
-              "id": 216042,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/42/310/172/oak.png",
-              "title": "oak",
-              "url": "https://media.forgecdn.net/attachments/216/42/oak.png",
-              "modId": 252818
-            },
-            {
-              "id": 216046,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/46/310/172/oakforestplains.png",
-              "title": "oak forest plains",
-              "url": "https://media.forgecdn.net/attachments/216/46/oakforestplains.png",
-              "modId": 252818
-            },
-            {
-              "id": 216048,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/48/310/172/savanna.png",
-              "title": "savanna",
-              "url": "https://media.forgecdn.net/attachments/216/48/savanna.png",
-              "modId": 252818
-            },
-            {
-              "id": 360736,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/736/310/172/taiga.png",
-              "title": "spruce new",
-              "url": "https://media.forgecdn.net/attachments/360/736/taiga.png",
-              "modId": 252818
-            },
-            {
-              "id": 216050,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/50/310/172/spruce.png",
-              "title": "spruce",
-              "url": "https://media.forgecdn.net/attachments/216/50/spruce.png",
-              "modId": 252818
-            },
-            {
-              "id": 216054,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/54/310/172/jungle.png",
-              "title": "jungle",
-              "url": "https://media.forgecdn.net/attachments/216/54/jungle.png",
-              "modId": 252818
-            },
-            {
-              "id": 360726,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/726/310/172/crimson-forest.png",
-              "title": "crimson forest",
-              "url": "https://media.forgecdn.net/attachments/360/726/crimson-forest.png",
-              "modId": 252818
-            },
-            {
-              "id": 360718,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/718/310/172/saplings.png",
-              "title": "saplings new",
-              "url": "https://media.forgecdn.net/attachments/360/718/saplings.png",
-              "modId": 252818
-            },
-            {
-              "id": 360737,
-              "description": "not part of this mod, this is a feature of Dynamic Trees Plus",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/737/310/172/badlands2.png",
-              "title": "dynamic trees plus badlands",
-              "url": "https://media.forgecdn.net/attachments/360/737/badlands2.png",
-              "modId": 252818
-            },
-            {
-              "id": 216051,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/51/310/172/spruce-thumb.png",
-              "title": "spruce thumb",
-              "url": "https://media.forgecdn.net/attachments/216/51/spruce-thumb.png",
-              "modId": 252818
-            },
-            {
-              "id": 216053,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/53/310/172/birch-thumb.png",
-              "title": "birch thumb",
-              "url": "https://media.forgecdn.net/attachments/216/53/birch-thumb.png",
-              "modId": 252818
-            },
-            {
-              "id": 215903,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/215/903/310/172/header.png",
-              "title": "header",
-              "url": "https://media.forgecdn.net/attachments/215/903/header.png",
-              "modId": 252818
-            },
-            {
-              "id": 216008,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/8/310/172/saplings.png",
-              "title": "saplings",
-              "url": "https://media.forgecdn.net/attachments/216/8/saplings.png",
-              "modId": 252818
-            },
-            {
-              "id": 216010,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/10/310/172/saplings-thumb.png",
-              "title": "saplings-thumb",
-              "url": "https://media.forgecdn.net/attachments/216/10/saplings-thumb.png",
-              "modId": 252818
-            },
-            {
-              "id": 216043,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/43/310/172/oak-thumb.png",
-              "title": "oak thumb",
-              "url": "https://media.forgecdn.net/attachments/216/43/oak-thumb.png",
-              "modId": 252818
-            },
-            {
-              "id": 216045,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/45/310/172/oakforest-thumb.png",
-              "title": "oak forest thumb",
-              "url": "https://media.forgecdn.net/attachments/216/45/oakforest-thumb.png",
-              "modId": 252818
-            },
-            {
-              "id": 216047,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/47/310/172/oakforestplains-thumb.png",
-              "title": "oak forest plains thumb",
-              "url": "https://media.forgecdn.net/attachments/216/47/oakforestplains-thumb.png",
-              "modId": 252818
-            },
-            {
-              "id": 216049,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/216/49/310/172/savanna-thumb.png",
-              "title": "savanna thumb",
-              "url": "https://media.forgecdn.net/attachments/216/49/savanna-thumb.png",
-              "modId": 252818
-            }
-          ],
-          "mainFileId": 7661136
-        },
-        "curseForgeFile": {
-          "id": 7502488,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "DynamicTrees-1.20.1-1.4.10.jar",
-          "fileName": "DynamicTrees-1.20.1-1.4.10.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2026-01-21T19:36:22.373Z",
-          "fileLength": 3754640,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 478155,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 7502489,
-          "modules": [
-            {
-              "fingerprint": 3551787048,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3939288879,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 1290494752,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2406909189,
-              "name": "com"
-            },
-            {
-              "fingerprint": 2273261344,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1222552354,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 3375258237,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3237814180,
-              "name": "trees"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "6fdd23dfdbdf0fa88c468b1cae6a2dbefa019923",
-              "algo": 1
-            },
-            {
-              "value": "8e07943262bd8c95712ac3820d9e08a7",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 1353798319,
-          "modId": 252818
-        }
-      },
-      {
-        "name": "Dynamic Trees TFC",
-        "version": "DynamicTreesTFC-1.20.1-2.0.2.jar",
-        "optional": true,
-        "file": "DynamicTreesTFC-1.20.1-2.0.2.jar",
-        "type": "mods",
-        "description": "Dynamic Trees TerraFirmaCraft Compatibility",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 362368,
-        "curseForgeFileId": 6681697,
-        "curseForgeProject": {
-          "id": 362368,
-          "name": "Dynamic Trees TFC",
-          "authors": [
-            {
-              "id": 100647207,
-              "name": "gaelmare",
-              "url": "https://www.curseforge.com/members/gaelmare"
-            },
-            {
-              "id": 100768859,
-              "name": "EERussianguy",
-              "url": "https://www.curseforge.com/members/eerussianguy"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Dynamic Trees TerraFirmaCraft Compatibility",
-          "categories": [
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 406,
-          "classId": 6,
-          "slug": "dynamictreestfc",
-          "isFeatured": false,
-          "dateModified": "2025-06-22T06:39:41.39Z",
-          "dateCreated": "2020-02-11T18:00:36.14Z",
-          "dateReleased": "2025-06-22T06:35:59.34Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamictreestfc",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/Gaelmare/dynamictreestfc/issues",
-            "sourceUrl": "https://github.com/Gaelmare/dynamictreestfc"
-          },
-          "logo": {
-            "id": 248782,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/248/782/256/256/637170059389793500.jpeg",
-            "title": "637170059389793500.jpeg",
-            "url": "https://media.forgecdn.net/avatars/248/782/637170059389793500.jpeg",
-            "modId": 362368
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 6681697
-        },
-        "curseForgeFile": {
-          "id": 6681697,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "DynamicTreesTFC-1.20.1-2.0.2.jar",
-          "fileName": "DynamicTreesTFC-1.20.1-2.0.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2025-06-22T06:35:59.34Z",
-          "fileLength": 419824,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 252818,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 302973,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1060162235,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1059027205,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3062838799,
-              "name": "data"
-            },
-            {
-              "fingerprint": 4077027130,
-              "name": "dttfc.mixins.json"
-            },
-            {
-              "fingerprint": 2239654644,
-              "name": "org"
-            },
-            {
-              "fingerprint": 818343850,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 791224285,
-              "name": "trees"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "59c337f8a9cfdbb86b307ab677e9c2067dfb4112",
-              "algo": 1
-            },
-            {
-              "value": "68440d3759f13c56b05c050e1306012a",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 1806011795,
-          "modId": 362368
-        },
-        "modrinthProject": {
-          "id": "8u5EZQJb",
-          "slug": "dynamictreestfc",
-          "project_type": "mod",
-          "team": "vKhOljTe",
-          "title": "Dynamic Trees - TFC",
-          "description": "Compatibility mod between TerraFirmaCraft and Dynamic Trees. Both worldgen and planted trees are dynamic.",
-          "body": "This is a simple compat mod that converts all of the trees during the TerraFirmaCraft world generation into Dynamic Trees.\n\n## Changes:\n- Drops are also changed to seeds instead of saplings.\n- Sequoia, kapok, and acacia drop seeds now.\n- Sequoia/other worldgen 2x2 trees don't grow as large as vanilla TFC.\n- Palm trees may not drop seeds as they have so few leaves.\n \n## Support:\nPlease see the TFC:TNG  [https://invite.gg/terrafirmacraft](discord) in forum #content>Dynamic Trees TFC! for support.\n \n## Configuration:\nThis mod changes the Dynamic Trees defaults to match TFC expectations by setting Passable Leaves, Tree Harvest Yield to 1.5x, seed drop chance to 0.02, and axe damage mode to volume. These changes can be turned off by setting tweakDTConfigs to false in the dttfc-common.toml file. This applies to both 1.20.1 and 1.18.2\n\n## Dependencies:\nThis mod requires Dynamic Trees, Dynamic Trees Plus, and TFC for 1.20.1.\n\n## 1.18 \n### Dependencies:\nThis mod requires Dynamic Trees 1.0.2+, Dynamic Trees Plus 1.0.0+, and TFC 2.2.23+ for 1.18.2.\n\n## 1.12\n### Configuration:\n\nThis mod does not have it's own configuration file but respects the Dynamic Trees configuration file. I recommend setting \"isLeavesPassable\" to true in order to match normal TFC behavior. To balance the more sparse trees generated by this mod needing more space, I recommend changing \"harvestMultiplier=1.5\" to more closely match TFC wood production. I also recommend setting maxTreeHardness to at least 50 to roughly reproduce TFC tree chopping times.\n\n### Dependencies:\nThis mod requires Dynamic Trees 0.9.19+ and TFC 1.7.6.164+ for 1.12.2.\n\n## Modpacks:\nThis project is licensed under the MIT License, so no need to ask permission, you may include it in any modpack.",
-          "published": "2024-12-22T22:06:15.834629Z",
-          "updated": "2025-08-27T05:54:37.987141Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "adventure",
-            "decoration",
-            "worldgen"
-          ],
-          "loaders": [
-            "forge"
-          ],
-          "issues_url": "https://github.com/Gaelmare/dynamictreestfc/issues",
-          "source_url": "https://github.com/Gaelmare/dynamictreestfc",
-          "discord_url": "https://invite.gg/terrafirmacraft",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "w4NtkPUN",
-          "project_id": "8u5EZQJb",
-          "author_id": "3vC0UYnD",
-          "name": "Dynamic Trees - TFC 2.0.2",
-          "version_number": "2.0.2",
-          "changelog": "Palm tree crash fixed, thanks to embeddeddt!\n\nNew Japanese translation.",
-          "date_published": "2025-08-27T05:54:37.987141Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "59c337f8a9cfdbb86b307ab677e9c2067dfb4112",
-                "sha512": "8c36138e84c751d9f3b5ba34cff6476c87b8341c81b91b7da9f38416302ef1d70e1a3c37953e4a21d7c8a91374c2cefbf9bd7d85830606ed9bbfcfab5727cc88"
-              },
-              "url": "https://cdn.modrinth.com/data/8u5EZQJb/versions/w4NtkPUN/DynamicTreesTFC-1.20.1-2.0.2.jar",
-              "filename": "DynamicTreesTFC-1.20.1-2.0.2.jar",
-              "primary": true,
-              "size": 419824
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Caelum",
         "version": "caelum-1.20.1-2.0.0.0.jar",
         "optional": true,
@@ -24428,303 +23848,6 @@
           "loaders": [
             "forge"
           ]
-        }
-      },
-      {
-        "name": "Dynamic Trees Plus",
-        "version": "DynamicTreesPlus-1.20.1-1.2.2.jar",
-        "optional": true,
-        "file": "DynamicTreesPlus-1.20.1-1.2.2.jar",
-        "type": "mods",
-        "description": "More than just trees!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 478155,
-        "curseForgeFileId": 7502535,
-        "curseForgeProject": {
-          "id": 478155,
-          "name": "Dynamic Trees Plus",
-          "authors": [
-            {
-              "id": 100034728,
-              "name": "MaxHyper",
-              "url": "https://www.curseforge.com/members/maxhyper"
-            },
-            {
-              "id": 19257089,
-              "name": "ferreusveritas",
-              "url": "https://www.curseforge.com/members/ferreusveritas"
-            },
-            {
-              "id": 17921349,
-              "name": "HarleyOConnor",
-              "url": "https://www.curseforge.com/members/harleyoconnor"
-            }
-          ],
-          "gameId": 432,
-          "summary": "More than just trees!",
-          "categories": [
-            {
-              "name": "Farming",
-              "slug": "technology-farming",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
-              "dateModified": "2014-05-08T17:39:21.57Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 416,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "World Gen",
-              "slug": "world-gen",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
-              "dateModified": "2017-10-16T21:40:11.473Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 406,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Biomes",
-              "slug": "world-biomes",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
-              "dateModified": "2014-05-08T17:34:59.587Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 407,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 416,
-          "classId": 6,
-          "slug": "dynamictreesplus",
-          "isFeatured": false,
-          "dateModified": "2026-03-02T04:53:20.777Z",
-          "dateCreated": "2021-05-03T07:32:17.627Z",
-          "dateReleased": "2026-03-01T23:29:11.747Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamictreesplus",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/supermassimo/DynamicTreesPlus/issues",
-            "sourceUrl": "https://github.com/supermassimo/DynamicTreesPlus"
-          },
-          "logo": {
-            "id": 377679,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/377/679/256/256/637555901044597945.png",
-            "title": "637555901044597945.png",
-            "url": "https://media.forgecdn.net/avatars/377/679/637555901044597945.png",
-            "modId": 478155
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 657374,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/657/374/310/172/image-1.png",
-              "title": "Saguaro cactus fruit",
-              "url": "https://media.forgecdn.net/attachments/657/374/image-1.png",
-              "modId": 478155
-            },
-            {
-              "id": 657367,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/657/367/310/172/red_mushroom_seed.png",
-              "title": "red mushroom cap",
-              "url": "https://media.forgecdn.net/attachments/657/367/red_mushroom_seed.png",
-              "modId": 478155
-            },
-            {
-              "id": 657366,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/657/366/310/172/dt-seeds.png",
-              "title": "Seed items of cacti and mushrooms",
-              "url": "https://media.forgecdn.net/attachments/657/366/dt-seeds.png",
-              "modId": 478155
-            },
-            {
-              "id": 657365,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/657/365/310/172/mushblock.png",
-              "title": "red mushroom block",
-              "url": "https://media.forgecdn.net/attachments/657/365/mushblock.png",
-              "modId": 478155
-            },
-            {
-              "id": 657363,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/657/363/310/172/mushies2.png",
-              "title": "Mushrooms in Dark forest",
-              "url": "https://media.forgecdn.net/attachments/657/363/mushies2.png",
-              "modId": 478155
-            },
-            {
-              "id": 657362,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/657/362/310/172/mushies1.png",
-              "title": "Mushrooms in Mushroom field",
-              "url": "https://media.forgecdn.net/attachments/657/362/mushies1.png",
-              "modId": 478155
-            },
-            {
-              "id": 360708,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/708/310/172/red_sand_je3_be2.png",
-              "title": "red sand",
-              "url": "https://media.forgecdn.net/attachments/360/708/red_sand_je3_be2.png",
-              "modId": 478155
-            },
-            {
-              "id": 360707,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/707/310/172/cactus.png",
-              "title": "cactus",
-              "url": "https://media.forgecdn.net/attachments/360/707/cactus.png",
-              "modId": 478155
-            },
-            {
-              "id": 360701,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/701/310/172/desert.png",
-              "title": "desert",
-              "url": "https://media.forgecdn.net/attachments/360/701/desert.png",
-              "modId": 478155
-            },
-            {
-              "id": 360700,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/700/310/172/badlands.png",
-              "title": "badlands",
-              "url": "https://media.forgecdn.net/attachments/360/700/badlands.png",
-              "modId": 478155
-            },
-            {
-              "id": 360696,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/360/696/310/172/header.png",
-              "title": "Header",
-              "url": "https://media.forgecdn.net/attachments/360/696/header.png",
-              "modId": 478155
-            }
-          ],
-          "mainFileId": 7698617
-        },
-        "curseForgeFile": {
-          "id": 7502535,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "DynamicTreesPlus-1.20.1-1.2.2.jar",
-          "fileName": "DynamicTreesPlus-1.20.1-1.2.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2026-01-21T19:45:32.963Z",
-          "fileLength": 534711,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 252818,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 7502536,
-          "modules": [
-            {
-              "fingerprint": 205096600,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 995404546,
-              "name": "com"
-            },
-            {
-              "fingerprint": 4043602838,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 2102341964,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3718328810,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1486103622,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 1438559181,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 824492293,
-              "name": "trees"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "73bc0e0f9f4b7dd5ed037bbc256626321fb9c19f",
-              "algo": 1
-            },
-            {
-              "value": "e4b644ce3ef052c82ed2c609417321a0",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 2760117669,
-          "modId": 478155
         }
       },
       {
@@ -39198,13 +38321,568 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "PandaLib",
+        "version": "[Forge 1.20-1.20.4] v0.5.2",
+        "optional": true,
+        "file": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+        "type": "mods",
+        "description": "A Library mod used by The Panda Oliver",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 975460,
+        "curseForgeFileId": 6245108,
+        "curseForgeProject": {
+          "id": 975460,
+          "name": "PandaLib",
+          "authors": [
+            {
+              "id": 33098021,
+              "name": "ThePandaOliver",
+              "url": "https://www.curseforge.com/members/thepandaoliver"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Library mod used by The Panda Oliver",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "pandalib",
+          "isFeatured": false,
+          "dateModified": "2026-04-03T16:19:14.537Z",
+          "dateCreated": "2024-02-18T09:44:18.483Z",
+          "dateReleased": "2026-04-03T16:09:30.77Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pandalib",
+            "issuesUrl": "https://github.com/ThePandaOliver/PandaLib/issues",
+            "sourceUrl": "https://github.com/ThePandaOliver/PandaLib"
+          },
+          "logo": {
+            "id": 949039,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/949/39/256/256/638436860735539267.png",
+            "title": "638436860735539267.png",
+            "url": "https://media.forgecdn.net/avatars/949/39/638436860735539267.png",
+            "modId": 975460
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7868443
+        },
+        "curseForgeFile": {
+          "id": 6245108,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge 1.20-1.20.4] v0.5.2",
+          "fileName": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2025-02-27T21:20:03.207Z",
+          "fileLength": 864398,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2977260401,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2148937825,
+              "name": "architectury_inject_PandaLib_common_9144e5c67cc34778b52577aacdf3f054_cfc05af0242cfe77a32bba48e21f95360e5099fcd3904f4c2ce2011a32c569f6pandalibcommonmc120052SNAPSHOTdevjar"
+            },
+            {
+              "fingerprint": 900579947,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1586228609,
+              "name": "me"
+            },
+            {
+              "fingerprint": 4187907323,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3055806459,
+              "name": "pandalib-common.mixins.json"
+            },
+            {
+              "fingerprint": 2846061636,
+              "name": "pandalib-forge-forge-refmap.json"
+            },
+            {
+              "fingerprint": 1514330463,
+              "name": "pandalib.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1e8d8e9688a04df5177a46036d6f34c83194686c",
+              "algo": 1
+            },
+            {
+              "value": "019a3540059282663ce2ed634dbfd09c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Client",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 3972045722,
+          "modId": 975460
+        },
+        "modrinthProject": {
+          "id": "mEEGbEIu",
+          "slug": "pandalib",
+          "project_type": "mod",
+          "team": "4hHQ0oTX",
+          "title": "PandaLib",
+          "description": "A Library mod used by The Panda Oliver",
+          "body": "![banner.png](https://github.com/ThePandaOliver/PandaLib/raw/main/assets/banner.png?raw=true)\n\n> [![Discord](https://img.shields.io/discord/1021703635178115122?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/wjPt4vEfXb)\n> [![Modrinth](https://img.shields.io/modrinth/dt/mEEGbEIu?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/mod/pandalib)\n> [![Curseforge](https://img.shields.io/curseforge/dt/975460?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=black&color=red)](https://www.curseforge.com/minecraft/mc-mods/pandalib)\n> [![GitHub](https://img.shields.io/github/downloads/PandaDap2006/PandaLib/total?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)](https://github.com/PandaDap2006/PandaLib)\n>\n> [![Fabric API](https://img.shields.io/badge/Fabric%20API-REQUIRED%20for%20Fabric-1?style=for-the-badge&labelColor=black&color=gold)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n## About:\n\nPandaLib is a library mod for Minecraft that provides various APIs and utilities to simplify mod development.\n\nThe library is written in Kotlin, and some APIs might not be fully supported by Java.\n\n### Current Features:\n\n- Multi-Loader Framework (WIP)\n- Config API\n  - Synchronization API\n  - Premade formats: JSON\n- Event/Listener API\n- Deferred registration API\n- Networking API\n  - Play phase support\n  - Configuration phase support\n- Embedded libraries\n  - [Universal Serializer](https://github.com/ThePandaOliver/universal-serializer)\n  - Embedded Kotlin libraries\n    - Kotlin Standard Library\n    - Reflect\n    - Coroutines\n    - Serialization\n    - IO\n    - DateTime\n\n### Future Features:\n\n| Planned                                          | In development         |\n|--------------------------------------------------|------------------------|\n| Config Serializers (TOML, YAML, XML, Properties) | Multi-Loader Framework |\n| Config Menu API                                  |                        |\n| Wiki / Docs                                      |                        |\n\n### Supported versions and mod loaders:\n\n| Mod loader | Versions          |\n|------------|-------------------|\n| Fabric     | 1.20 – 1.21.10    |\n| NeoForge   | 1.20.5 – 1.21.10  |\n| Forge      | Support has ended |\n\nDevelopment is targeted 1.21.10\n\n---\n\n### Development:\n\n#### Looking for a specific version's codebase\n\n- **1.21**\n  - [1.21.10](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.10)\n  - [1.21.9](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.9)\n  - [1.21.8](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.8)\n  - [1.21.7](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.7)\n  - [1.21.6](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.6)\n  - [1.21.5](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.5)\n  - [1.21.4](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.4)\n  - [1.21.3](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.3)\n  - [1.21.2](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.2)\n  - [1.21.1](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21.1)\n  - [1.21.0](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.21)\n- **1.20**\n  - [1.20.6](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20.6)\n  - [1.20.5](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20.5)\n  - [1.20.4](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20.4)\n  - [1.20.3](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20.3)\n  - [1.20.2](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20.2)\n  - [1.20.1](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20.1)\n  - [1.20.0](https://github.com/ThePandaOliver/PandaLib/tree/versions/1.20)\n\n#### Kotlin DSL\n\n```kotlin\nrepositories {\n\tmavenCentral()\n\tmaven(\"https://repo.pandasystems.dev/repository/maven-public/\")\n}\n\ndependencies {\n\tmodApi(\"dev.pandasystems:pandalib-common-<game version>:<version>\") // Common\n\tapi(\"dev.pandasystems:pandalib-neoforge-<game version>:<version>\")  // NeoForge\n\tmodApi(\"dev.pandasystems:pandalib-fabric-<game version>:<version>\") // Fabric\n\n\t// Only needed if you want to use the embedded Kotlin libraries in NeoForge environments.\n\tadditionalRuntimeClasspath(kotlin(\"stdlib\"))\n\tadditionalRuntimeClasspath(kotlin(\"stdlib-jdk8\"))\n\tadditionalRuntimeClasspath(kotlin(\"stdlib-jdk7\"))\n\tadditionalRuntimeClasspath(kotlin(\"reflect\", version = \"2.2.0\"))\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.10.2\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-serialization-core:1.8.1\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.1\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-serialization-cbor:1.8.1\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-datetime:0.6.2\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-io-core:0.7.0\")\n\tadditionalRuntimeClasspath(\"org.jetbrains.kotlinx:kotlinx-io-bytestring:0.7.0\")\n}\n```\n\n---\n\n## Advertisement:\n\n> ### Thanks to **Kinetic Hosting** for supporting this project\n> [![Partner Banner](https://github.com/ThePandaOliver/ThePandaOliver/blob/main/assets_for_readme/Support/kinetic_hosting_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=476)\n>\n> Every purchased server via my [affiliate link](https://billing.kinetichosting.com/aff.php?aff=476) will help support me and my work.\n\n## License\n\nThe project is licensed under the GNU LGPLv3",
+          "published": "2024-02-16T13:16:42.991448Z",
+          "updated": "2026-04-03T16:09:32.357023Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only",
+            "url": "https://github.com/ThePandaOliver/PandaLib/blob/main/LICENSE"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/mEEGbEIu/bd63e50c5d1649c10f31f0eefd3f7da3e88f4660_96.webp",
+          "issues_url": "https://github.com/ThePandaOliver/PandaLib/issues",
+          "source_url": "https://github.com/ThePandaOliver/PandaLib",
+          "discord_url": "https://discord.gg/wjPt4vEfXb",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "W9C2CFxo",
+          "project_id": "mEEGbEIu",
+          "author_id": "eQudRSDI",
+          "name": "[Forge 1.20-1.20.4] v0.5.2",
+          "version_number": "0.5.2",
+          "changelog": "# Version 0.5.2 Beta\r\n\r\n## Developer Changelog\r\n### Notes\r\n* Added RunUtil with a method to run something only once.",
+          "date_published": "2025-02-27T21:20:03.973189Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "94d8744dc8fac0b68508eb398ba3c16ef83750b6bb21a917e112df43058a4a9cc4aefc798d2e2f9e0ca81755812a0b2e422c1631a60f651cee514c03e9a4fe60",
+                "sha1": "1e8d8e9688a04df5177a46036d6f34c83194686c"
+              },
+              "url": "https://cdn.modrinth.com/data/mEEGbEIu/versions/W9C2CFxo/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+              "filename": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+              "primary": true,
+              "size": 864398
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "lhGA9TYQ",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Panda's Falling Trees",
+        "version": "[Forge 1.20-1.20.4] v0.13.2",
+        "optional": true,
+        "file": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+        "type": "mods",
+        "description": "Make trees fall when cut down ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 880630,
+        "curseForgeFileId": 6231030,
+        "curseForgeProject": {
+          "id": 880630,
+          "name": "Panda's Falling Trees",
+          "authors": [
+            {
+              "id": 33098021,
+              "name": "ThePandaOliver",
+              "url": "https://www.curseforge.com/members/thepandaoliver"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Make trees fall when cut down ",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "pandas-falling-trees",
+          "isFeatured": false,
+          "dateModified": "2026-04-01T23:48:34.103Z",
+          "dateCreated": "2023-06-26T08:28:22.45Z",
+          "dateReleased": "2026-04-01T23:43:33.207Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pandas-falling-trees",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/PandaDap2006/Pandas-Falling-Trees/issues",
+            "sourceUrl": "https://github.com/ThePandaOliver/Pandas-Falling-Trees"
+          },
+          "logo": {
+            "id": 843222,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/843/222/256/256/638239257809194368.png",
+            "title": "638239257809194368.png",
+            "url": "https://media.forgecdn.net/avatars/843/222/638239257809194368.png",
+            "modId": 880630
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7858947
+        },
+        "curseForgeFile": {
+          "id": 6231030,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge 1.20-1.20.4] v0.13.2",
+          "fileName": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2025-02-24T19:38:27.47Z",
+          "fileLength": 4025908,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 975460,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3604085308,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3557666903,
+              "name": "architectury_inject_PandasFallingTrees_common_d21b3f66aaac4c5d88aa465806c2fd87_1a1582680fdae2110178ff5106eb1738bf831568a49a73bea6194ddf5eadf3fdfallingtreescommonmc1200132SNAPSHOTdevjar"
+            },
+            {
+              "fingerprint": 929174962,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1968861807,
+              "name": "fallingtrees-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 3205943791,
+              "name": "fallingtrees-common.mixins.json"
+            },
+            {
+              "fingerprint": 158025645,
+              "name": "fallingtrees.mixins.json"
+            },
+            {
+              "fingerprint": 1653920704,
+              "name": "me"
+            },
+            {
+              "fingerprint": 3543053561,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e787f81ddc9e8afea8d859d57776e212ab2b6ff4",
+              "algo": 1
+            },
+            {
+              "value": "542bd503ba871bb74f3ce229ebc45048",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Client",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 2456325457,
+          "modId": 880630
+        },
+        "modrinthProject": {
+          "id": "i2kUe4lq",
+          "slug": "pandas-falling-trees",
+          "project_type": "mod",
+          "team": "SyMXh8Q5",
+          "title": "Panda's Falling Trees",
+          "description": "Make trees fall when cut down",
+          "body": "![Panda's Falling Tree's Banner](https://github.com/ThePandaOliver/Pandas-Falling-Trees/blob/39450623ab70513b8b5320f3e006b9af02ad453e/assets/banner.png?raw=true)\n\n> [![Discord](https://img.shields.io/discord/1021703635178115122?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=lightblue)](https://discord.gg/wjPt4vEfXb)\n> [![Modrinth](https://img.shields.io/modrinth/dt/i2kUe4lq?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=green)](https://modrinth.com/mod/pandas-falling-trees)\n> [![Curseforge](https://img.shields.io/curseforge/dt/880630?style=for-the-badge&logo=curseforge&label=Curseforge&labelColor=black&color=red)](https://www.curseforge.com/minecraft/mc-mods/pandas-falling-trees)\n> [![GitHub](https://img.shields.io/github/downloads/PandaDap2006/Pandas-Falling-Trees/total?style=for-the-badge&logo=github&label=Github&labelColor=black&color=white)](https://github.com/PandaDap2006/Pandas-Falling-Trees)\n>\n> [![PandaLib](https://img.shields.io/badge/PandaLib-REQUIRED-1?style=for-the-badge&labelColor=black&color=gold)](https://www.curseforge.com/minecraft/mc-mods/pandalib)\n> [![Fabric API](https://img.shields.io/badge/Fabric%20API-REQUIRED%20for%20Fabric-1?style=for-the-badge&labelColor=black&color=gold)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n## About:\n\nPanda's Falling Trees makes every tree fall like trees from [Dynamic trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees), while still maintaining\nthe original trees from Vanilla Minecraft.\n\nThe mod should support other mods if log and leaves blocks are a part of the log and leaves Block Tag\n\n### Supported versions and mod loaders:\n\n| Mod loader | Versions          |\n|------------|-------------------|\n| Fabric     | 1.20 – 1.21.10    |\n| NeoForge   | 1.20.5 – 1.21.10  |\n| Forge      | Support has ended |\n\nDevelopment is targeted 1.21.10\n\n## Showcase:\n\n![Tree falling showcase](https://github.com/ThePandaOliver/Pandas-Falling-Trees/blob/39450623ab70513b8b5320f3e006b9af02ad453e/assets/showcase_falling_tree_large.gif?raw=true)\n\n---\n\n### Development:\n\n#### Looking for a specific version's codebase\n\n- **1.21**\n  - [1.21.10](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.10)\n  - [1.21.9](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.9)\n  - [1.21.8](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.8)\n  - [1.21.7](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.7)\n  - [1.21.6](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.6)\n  - [1.21.5](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.5)\n  - [1.21.4](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.4)\n  - [1.21.3](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.3)\n  - [1.21.2](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.2)\n  - [1.21.1](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21.1)\n  - [1.21.0](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.21)\n- **1.20**\n  - [1.20.6](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20.6)\n  - [1.20.5](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20.5)\n  - [1.20.4](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20.4)\n  - [1.20.3](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20.3)\n  - [1.20.2](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20.2)\n  - [1.20.1](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20.1)\n  - [1.20.0](https://github.com/ThePandaOliver/Pandas-Falling-Trees/tree/versions/1.20)\n\n#### Kotlin DSL\n\n```kotlin\nrepositories {\n\tmavenCentral()\n\tmaven(\"https://repo.pandasystems.dev/repository/maven-public/\")\n}\n\ndependencies {\n\tmodApi(\"dev.pandasystems:fallingtrees-common-<game version>:<version>\") // Common\n\tapi(\"dev.pandasystems:fallingtrees-neoforge-<game version>:<version>\")  // NeoForge\n\tmodApi(\"dev.pandasystems:fallingtrees-fabric-<game version>:<version>\") // Fabric\n}\n```\n\n---\n\n## Advertisement:\n\n> ### Thanks to **Kinetic Hosting** for supporting this project\n> [![Partner Banner](https://github.com/ThePandaOliver/ThePandaOliver/blob/main/assets_for_readme/Support/kinetic_hosting_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=476)\n>\n> Every purchased server via my [affiliate link](https://billing.kinetichosting.com/aff.php?aff=476) will help support me and my work.\n\n## License\n\nThe project is licensed under the GNU GPLv3",
+          "published": "2023-06-25T12:47:34.041434Z",
+          "updated": "2026-04-01T23:43:34.003117Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only",
+            "url": "https://github.com/ThePandaOliver/Pandas-Falling-Trees/blob/master/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/i2kUe4lq/e378cb21110ccc7e693f3d37f2bf5f9021759e2b_96.webp",
+          "issues_url": "https://github.com/ThePandaOliver/Pandas-Falling-Trees/issues",
+          "source_url": "https://github.com/ThePandaOliver/Pandas-Falling-Trees",
+          "discord_url": "https://discord.gg/wjPt4vEfXb",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/i2kUe4lq/images/4cd491eb24fbf10e9ea729e2c12ed362d678e11d.gif",
+              "raw_url": "https://cdn.modrinth.com/data/i2kUe4lq/images/4cd491eb24fbf10e9ea729e2c12ed362d678e11d.gif",
+              "featured": true,
+              "title": "Tree falling",
+              "created": "2023-07-02T20:22:31.243820Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "om4AFhqW",
+          "project_id": "i2kUe4lq",
+          "author_id": "eQudRSDI",
+          "name": "[Forge 1.20-1.20.4] v0.13.2",
+          "version_number": "0.13.2",
+          "changelog": "# Version 0.13.1 Beta\r\n\r\n## Bug Fix\r\n* Fixed crash when starting to mine trees that are too big to be processed\r\n",
+          "date_published": "2025-02-24T19:38:27.460116Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "fe473f1cf369ca7d75dfea0bacafc55692b2b56fe4b352a501536cb757be5da572d8423baec5cb32906a73ee40c667b599209b0e540237ce2a584df657296b37",
+                "sha1": "e787f81ddc9e8afea8d859d57776e212ab2b6ff4"
+              },
+              "url": "https://cdn.modrinth.com/data/i2kUe4lq/versions/om4AFhqW/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+              "filename": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+              "primary": true,
+              "size": 4025908
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "lhGA9TYQ",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mEEGbEIu",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776986216381,
-    "numPlays": 60,
+    "lastPlayed": 1776987537448,
+    "numPlays": 62,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",

@@ -11,7 +11,8 @@
         "tfc:mechanics/blast_furnace",
         "tfc:waterflasks/recipes",
         "tfc:firmalife/cellar",
-        "tfc:firmalife/climate_station"
+        "tfc:firmalife/climate_station",
+        "tfc:mechanics/papermaking"
       ],
       "bookmarks": [],
       "completedManualQuests": []

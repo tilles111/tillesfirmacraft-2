@@ -1,6 +1,140 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:minecraft:iron_chestplate{Damage:0}"
+    }
+  ],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "vintageimprovements:belt_grinder",
+      "amount": 32
+    },
+    "item:vintageimprovements:grinder_belt",
+    "item:create:sand_paper{Damage:0}",
+    {
+      "type": "item",
+      "id": "tfc:sandpaper",
+      "nbt": "{Damage:0}",
+      "remainder": "item:tfc:sandpaper{Damage:1}"
+    },
+    "item:tfc:ore/opal",
+    "item:tfc:gem/topaz",
+    "item:tfc:ore/topaz",
+    "item:tfc:ore/pyrite",
+    "item:tfc:ore/emerald",
+    "item:tfc:ore/lapis_lazuli",
+    "item:tfc:ore/amethyst",
+    "item:tfc:ore/ruby",
+    "item:tfc:ore/sapphire",
+    "item:tfc:ore/diamond",
+    {
+      "type": "item",
+      "id": "tfc:ore/small_native_copper",
+      "amount": 32
+    },
+    "item:tfc:gem/ruby",
+    "item:tfc:lens",
+    {
+      "type": "item",
+      "id": "tfc:deposit/native_copper/chert",
+      "amount": 32
+    },
+    "item:tfc:wood/planks/palm",
+    "item:tfc:wood/planks/palm_slab",
+    {
+      "type": "item",
+      "id": "tfcbarrels:wood/barrel/palm",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "firmalife:cured_oven_hopper",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "theurgy:pyromantic_brazier",
+      "amount": 32
+    },
+    "item:tfc:gem/diamond",
+    "item:tfc:gem/emerald",
+    "item:tfc:powder/flux",
+    "item:tfc:powder/graphite",
+    "item:kubejs:ancient_vessel_seeds",
+    "item:tfc:rotten_compost",
+    "item:tfc:gem/lapis_lazuli",
+    "item:theurgy:crystallized_water",
+    {
+      "type": "item",
+      "id": "theurgy:alchemical_salt_mineral",
+      "amount": 2
+    },
+    "item:tfc:gem/opal",
+    "item:tfc:gem_saw{Damage:0}",
+    {
+      "type": "item",
+      "id": "tfc:powder/amethyst",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "tfc:powder/ruby",
+      "amount": 4
+    },
+    "#item:tfc:gem_powders",
+    "item:kubejs:ancient_vessel_ore",
+    {
+      "type": "item",
+      "id": "tfc:ore/rich_native_copper",
+      "amount": 8
+    },
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "amount": 8
+    },
+    "item:botania:dreamwood_wand{color1:6,color2:3}",
+    "item:minecraft:map",
+    "item:minecraft:paper",
+    {
+      "type": "item",
+      "id": "tfc:powder/charcoal",
+      "amount": 4
+    },
+    "item:minecraft:charcoal",
+    "item:malum:charcoal_fragment",
+    "item:minecraft:tnt",
+    "item:minecraft:gunpowder",
+    "item:tfc:fire_clay",
+    "item:tfc:powder/kaolinite",
+    "item:tfc:seeds/garlic",
+    "item:tfc:seeds/sugarcane",
+    "item:tfc:food/wheat",
+    "item:tfc:seeds/wheat",
+    "item:tfc:unrefined_paper",
+    "item:tfc:soaked_papyrus_strip",
+    {
+      "type": "item",
+      "id": "tfc:papyrus_strip",
+      "amount": 4
+    },
+    "item:tfc:papyrus",
+    "item:tfc:seeds/papyrus",
+    {
+      "type": "item",
+      "id": "kubejs:ancient_scrap",
+      "amount": 15
+    },
+    "item:scguns:cog_heart",
+    "item:scguns:treated_brass_blueprint",
+    "item:scguns:osgood_50{AmmoCount:6,Damage:0,GeckoLibID:2L,WasHeldLastTick:0b}",
+    "item:scguns:cog_locator{Damage:0}",
+    "item:scguns:ancient_brass",
+    "item:minecraft:cooked_beef",
+    "item:minecraft:bone",
+    "item:tfc:compost",
+    "item:firmalife:jar/rotten_compost",
     "item:wizards_reborn:arcane_linen",
     "item:wizards_reborn:arcane_linen_seeds",
     "item:tfchotornot:tong_part/zinc",
@@ -60,7 +194,6 @@
       "id": "malum:wicked_spirit",
       "amount": 64
     },
-    "item:tfc:powder/graphite",
     {
       "type": "tag",
       "registry": "minecraft:item",
@@ -108,18 +241,8 @@
     },
     {
       "type": "item",
-      "id": "tfc:food/wheat",
-      "amount": 3
-    },
-    {
-      "type": "item",
       "id": "tfc:powder/diamond",
       "amount": 4
-    },
-    {
-      "type": "item",
-      "id": "tfc:ore/diamond",
-      "amount": 6
     },
     "item:tfc:rock/raw/granite",
     "item:botania:thermalily",
@@ -127,11 +250,6 @@
       "type": "item",
       "id": "botania:endoflame",
       "amount": 32
-    },
-    {
-      "type": "item",
-      "id": "kubejs:ancient_scrap",
-      "amount": 5
     },
     {
       "type": "item",
@@ -159,11 +277,6 @@
       "id": "minecraft:string",
       "amount": 32
     },
-    {
-      "type": "item",
-      "id": "minecraft:gunpowder",
-      "amount": 64
-    },
     "item:tfc:powder/sulfur",
     {
       "type": "item",
@@ -173,8 +286,6 @@
     "item:minecraft:rotten_flesh",
     "item:createlowheated:basic_burner",
     "item:immersiveengineering:dust_wood",
-    "item:minecraft:paper",
-    "item:tfc:unrefined_paper",
     {
       "type": "item",
       "id": "tfcchannelcasting:food/milk_chocolate_knife",
@@ -234,9 +345,7 @@
     },
     "item:tfc:medium_prepared_hide",
     "item:tfc:medium_scraped_hide",
-    "item:tfcambiental:insulated_leather_boots{Damage:0}",
     "item:waterflasks:leather_side",
-    "item:tfcambiental:leather_apron{Damage:0}",
     "item:tfc:small_raw_hide",
     "item:tfc:small_soaked_hide",
     "item:advancedtfctech:fleshing_machine",
@@ -267,17 +376,6 @@
     "item:tfc:rock/smooth/chert",
     "item:tfc:rock/raw/chert",
     "item:tfc:gem/sapphire",
-    {
-      "type": "item",
-      "id": "tfc:sandpaper",
-      "nbt": "{Damage:0}",
-      "remainder": "item:tfc:sandpaper{Damage:1}"
-    },
-    {
-      "type": "item",
-      "id": "tfc:ore/amethyst",
-      "amount": 16
-    },
     {
       "type": "item",
       "id": "tfc:gem/amethyst",
@@ -361,7 +459,6 @@
     "item:precisionprospecting:metal/prospector_drill_head/wrought_iron",
     "item:precisionprospecting:metal/prospector_drill/wrought_iron{Damage:0}",
     "item:tfc:stone/knife_head/sedimentary",
-    "item:minecraft:bone",
     "item:tfc:bone_needle{Damage:0}",
     "item:minecraft:skeleton_skull",
     "item:minecraft:bone_meal",
@@ -434,11 +531,6 @@
       "type": "fluid",
       "id": "tfc:metal/gold",
       "amount": 35
-    },
-    {
-      "type": "item",
-      "id": "minecraft:tnt",
-      "amount": 32
     },
     "item:malum:block_of_grim_talc",
     "item:minecraft:zombie_head",
@@ -540,7 +632,6 @@
     "item:waterflasks:red_steel_flask",
     "item:waterflasks:unfinished_red_steel_flask",
     "item:vintageimprovements:redstone_module",
-    "item:tfcambiental:straw_hat{Damage:0}",
     "item:immersivetechnology:cooling_tower",
     "item:create:fluid_tank",
     "item:create:copper_sheet",

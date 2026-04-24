@@ -8,7 +8,27 @@ StartupEvents.registry('item', event => {
 })
 
 StartupEvents.registry('block', (event) => {
-  event.create('ancient_vessel')
+  event.create('ancient_vessel_ore')
+    .displayName('Ancient Vessel')
+    .soundType('decorated_pot')
+    .hardness(0.5)
+    .resistance(0.25)
+    .tagBlock('minecraft:mineable/pickaxe')
+    .fullBlock(false)
+    .waterlogged()
+    .box(2, 0, 2, 14, 14, 14, true)
+
+  event.create('ancient_vessel_seeds')
+    .displayName('Ancient Vessel')
+    .soundType('decorated_pot')
+    .hardness(0.5)
+    .resistance(0.25)
+    .tagBlock('minecraft:mineable/pickaxe')
+    .fullBlock(false)
+    .waterlogged()
+    .box(2, 0, 2, 14, 14, 14, true)
+
+  event.create('ancient_vessel_misc')
     .displayName('Ancient Vessel')
     .soundType('decorated_pot')
     .hardness(0.5)
