@@ -3732,10 +3732,7 @@
             ]
         },
         {
-            "pakku_id": "nmzeF6qMLslGBpuL",
-            "pakku_links": [
-                "MLWlrhyhopmTHQWa"
-            ],
+            "pakku_id": "nuN5mQToDxwmWX9n",
             "type": "MOD",
             "slug": {
                 "curseforge": "pandas-falling-trees"
@@ -3749,7 +3746,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+                    "file_name": "fallingtrees-0.10-forge-1.20.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -3761,24 +3758,25 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6231/30/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
-                    "id": "6231030",
+                    "url": "https://edge.forgecdn.net/files/5117/433/fallingtrees-0.10-forge-1.20.jar",
+                    "id": "5117433",
                     "parent_id": "880630",
                     "hashes": {
-                        "sha1": "e787f81ddc9e8afea8d859d57776e212ab2b6ff4",
-                        "md5": "542bd503ba871bb74f3ce229ebc45048"
+                        "sha1": "29c4fe3c88048c91d7942665038c44ce9c94b27a",
+                        "md5": "ad447b465a48230d8fa433bdfc2e2c54"
                     },
                     "required_dependencies": [
-                        "419699",
-                        "975460"
+                        "975460",
+                        "306612",
+                        "419699"
                     ],
-                    "size": 4025908,
-                    "date_published": "2025-02-24T19:38:27.470Z"
+                    "size": 3998520,
+                    "date_published": "2024-02-18T13:16:33.560Z"
                 }
             ]
         },
         {
-            "pakku_id": "MLWlrhyhopmTHQWa",
+            "pakku_id": "5F7n070Mj92bn8FM",
             "type": "MOD",
             "slug": {
                 "curseforge": "pandalib"
@@ -3792,7 +3790,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+                    "file_name": "pandalib-0.1-forge-1.20.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.3",
@@ -3804,18 +3802,19 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6245/108/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
-                    "id": "6245108",
+                    "url": "https://edge.forgecdn.net/files/5112/634/pandalib-0.1-forge-1.20.jar",
+                    "id": "5112634",
                     "parent_id": "975460",
                     "hashes": {
-                        "sha1": "1e8d8e9688a04df5177a46036d6f34c83194686c",
-                        "md5": "019a3540059282663ce2ed634dbfd09c"
+                        "sha1": "9f70dfa1b5fd5757271cfb8472eb9187ea8893b9",
+                        "md5": "1ab108736605eb91de807ac782c8ebdb"
                     },
                     "required_dependencies": [
+                        "306612",
                         "419699"
                     ],
-                    "size": 864398,
-                    "date_published": "2025-02-27T21:20:03.207Z"
+                    "size": 69226,
+                    "date_published": "2024-02-16T13:29:20.207Z"
                 }
             ]
         },

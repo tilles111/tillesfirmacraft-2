@@ -12,7 +12,9 @@
         "tfc:waterflasks/recipes",
         "tfc:firmalife/cellar",
         "tfc:firmalife/climate_station",
-        "tfc:mechanics/papermaking"
+        "tfc:mechanics/papermaking",
+        "tfc:mechanics/gems",
+        "tfc:mechanics/glassworking_applications"
       ],
       "bookmarks": [],
       "completedManualQuests": []

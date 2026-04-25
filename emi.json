@@ -5,6 +5,44 @@
     }
   ],
   "lookup_history": [
+    "#item:tfc:gem_powders",
+    "item:tfc:powder/emerald",
+    "item:tfc:powder/diamond",
+    "item:tfc:sandpaper{Damage:0}",
+    "item:tfc:sand/black",
+    "item:minecraft:fermented_spider_eye",
+    "item:minecraft:spider_eye",
+    {
+      "type": "item",
+      "id": "theurgy:alchemical_sulfur_spider_eye",
+      "nbt": "{\"theurgy:sulfur.source.id\":\"minecraft:spider_eye\"}",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "wizards_reborn:alchemy_calx",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "malum:block_of_grim_talc",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "malum:alchemical_calx",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "wizards_reborn:enchanted_calx",
+      "amount": 64
+    },
+    "item:tfc:goat_horn",
+    "item:tfc:ore/ruby",
+    "item:kubejs:ancient_vessel_misc",
+    "item:kubejs:ancient_vessel_seeds",
+    "item:kubejs:ancient_vessel_ore",
     {
       "type": "item",
       "id": "vintageimprovements:belt_grinder",
@@ -12,12 +50,6 @@
     },
     "item:vintageimprovements:grinder_belt",
     "item:create:sand_paper{Damage:0}",
-    {
-      "type": "item",
-      "id": "tfc:sandpaper",
-      "nbt": "{Damage:0}",
-      "remainder": "item:tfc:sandpaper{Damage:1}"
-    },
     "item:tfc:ore/opal",
     "item:tfc:gem/topaz",
     "item:tfc:ore/topaz",
@@ -25,7 +57,6 @@
     "item:tfc:ore/emerald",
     "item:tfc:ore/lapis_lazuli",
     "item:tfc:ore/amethyst",
-    "item:tfc:ore/ruby",
     "item:tfc:ore/sapphire",
     "item:tfc:ore/diamond",
     {
@@ -61,7 +92,6 @@
     "item:tfc:gem/emerald",
     "item:tfc:powder/flux",
     "item:tfc:powder/graphite",
-    "item:kubejs:ancient_vessel_seeds",
     "item:tfc:rotten_compost",
     "item:tfc:gem/lapis_lazuli",
     "item:theurgy:crystallized_water",
@@ -82,8 +112,6 @@
       "id": "tfc:powder/ruby",
       "amount": 4
     },
-    "#item:tfc:gem_powders",
-    "item:kubejs:ancient_vessel_ore",
     {
       "type": "item",
       "id": "tfc:ore/rich_native_copper",
@@ -142,7 +170,6 @@
     "item:scguns:dragon_salve",
     "item:botania:gaia_head",
     "item:minecraft:scute",
-    "item:minecraft:fermented_spider_eye",
     {
       "type": "item",
       "id": "minecraft:lodestone",
@@ -239,11 +266,6 @@
       "id": "tfc:straw",
       "amount": 4
     },
-    {
-      "type": "item",
-      "id": "tfc:powder/diamond",
-      "amount": 4
-    },
     "item:tfc:rock/raw/granite",
     "item:botania:thermalily",
     {
@@ -266,11 +288,6 @@
     "item:theurgy:incubator_salt_vessel",
     "item:theurgy:incubator_sulfur_vessel",
     "item:theurgy:mercury_catalyst",
-    {
-      "type": "item",
-      "id": "minecraft:spider_eye",
-      "amount": 2
-    },
     "item:minecraft:suspicious_stew{Effects:[{EffectDuration:180,EffectId:18,\"forge:effect_id\":\"minecraft:weakness\"}]}",
     {
       "type": "item",
@@ -462,7 +479,6 @@
     "item:tfc:bone_needle{Damage:0}",
     "item:minecraft:skeleton_skull",
     "item:minecraft:bone_meal",
-    "item:malum:alchemical_calx",
     {
       "type": "item",
       "id": "minecraft:drowned_spawn_egg",
@@ -532,7 +548,6 @@
       "id": "tfc:metal/gold",
       "amount": 35
     },
-    "item:malum:block_of_grim_talc",
     "item:minecraft:zombie_head",
     "item:minecraft:bow{Damage:0}",
     {

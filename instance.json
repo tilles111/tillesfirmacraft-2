@@ -38324,9 +38324,9 @@
       },
       {
         "name": "PandaLib",
-        "version": "[Forge 1.20-1.20.4] v0.5.2",
+        "version": "pandalib-0.1-forge-1.20.jar",
         "optional": true,
-        "file": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+        "file": "pandalib-0.1-forge-1.20.jar",
         "type": "mods",
         "description": "A Library mod used by The Panda Oliver",
         "disabled": false,
@@ -38334,7 +38334,7 @@
         "wasSelected": true,
         "skipped": false,
         "curseForgeProjectId": 975460,
-        "curseForgeFileId": 6245108,
+        "curseForgeFileId": 5112634,
         "curseForgeProject": {
           "id": 975460,
           "name": "PandaLib",
@@ -38387,16 +38387,21 @@
           "mainFileId": 7868443
         },
         "curseForgeFile": {
-          "id": 6245108,
+          "id": 5112634,
           "gameId": 432,
           "isAvailable": true,
-          "displayName": "[Forge 1.20-1.20.4] v0.5.2",
-          "fileName": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+          "displayName": "pandalib-0.1-forge-1.20.jar",
+          "fileName": "pandalib-0.1-forge-1.20.jar",
           "releaseType": 2,
           "fileStatus": 4,
-          "fileDate": "2025-02-27T21:20:03.207Z",
-          "fileLength": 864398,
+          "fileDate": "2024-02-16T13:29:20.207Z",
+          "fileLength": 69226,
           "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
             {
               "fileId": 0,
               "modId": 419699,
@@ -38406,46 +38411,46 @@
           "alternateFileId": 0,
           "modules": [
             {
-              "fingerprint": 2977260401,
+              "fingerprint": 3528684279,
               "name": "META-INF"
             },
             {
-              "fingerprint": 2148937825,
-              "name": "architectury_inject_PandaLib_common_9144e5c67cc34778b52577aacdf3f054_cfc05af0242cfe77a32bba48e21f95360e5099fcd3904f4c2ce2011a32c569f6pandalibcommonmc120052SNAPSHOTdevjar"
+              "fingerprint": 2629519557,
+              "name": "architectury_inject_PandaLib_common_825af2fe5cb64dcb8c0c44a1413eeca5_54adfda095e0a90974317e7c1c9aea9f7481f74cd4290e9e919041a2fe1a9875pandalib01devjar"
             },
             {
-              "fingerprint": 900579947,
+              "fingerprint": 1906789793,
               "name": "assets"
             },
             {
-              "fingerprint": 1586228609,
+              "fingerprint": 1207925526,
               "name": "me"
             },
             {
-              "fingerprint": 4187907323,
+              "fingerprint": 1645035582,
               "name": "pack.mcmeta"
             },
             {
-              "fingerprint": 3055806459,
+              "fingerprint": 289790881,
+              "name": "pandalib-common-refmap.json"
+            },
+            {
+              "fingerprint": 306554438,
               "name": "pandalib-common.mixins.json"
             },
             {
-              "fingerprint": 2846061636,
-              "name": "pandalib-forge-forge-refmap.json"
-            },
-            {
-              "fingerprint": 1514330463,
+              "fingerprint": 506527724,
               "name": "pandalib.mixins.json"
             }
           ],
           "isServerPack": false,
           "hashes": [
             {
-              "value": "1e8d8e9688a04df5177a46036d6f34c83194686c",
+              "value": "9f70dfa1b5fd5757271cfb8472eb9187ea8893b9",
               "algo": 1
             },
             {
-              "value": "019a3540059282663ce2ed634dbfd09c",
+              "value": "1ab108736605eb91de807ac782c8ebdb",
               "algo": 2
             }
           ],
@@ -38509,7 +38514,7 @@
             "1.20.4",
             "Server"
           ],
-          "fileFingerprint": 3972045722,
+          "fileFingerprint": 3152446005,
           "modId": 975460
         },
         "modrinthProject": {
@@ -38546,24 +38551,24 @@
           "gallery": []
         },
         "modrinthVersion": {
-          "id": "W9C2CFxo",
+          "id": "GtgAOwVx",
           "project_id": "mEEGbEIu",
           "author_id": "eQudRSDI",
-          "name": "[Forge 1.20-1.20.4] v0.5.2",
-          "version_number": "0.5.2",
-          "changelog": "# Version 0.5.2 Beta\r\n\r\n## Developer Changelog\r\n### Notes\r\n* Added RunUtil with a method to run something only once.",
-          "date_published": "2025-02-27T21:20:03.973189Z",
+          "name": "PandaLib 0.1",
+          "version_number": "0.1",
+          "changelog": "",
+          "date_published": "2024-02-16T13:32:05.792548Z",
           "version_type": "beta",
           "files": [
             {
               "hashes": {
-                "sha512": "94d8744dc8fac0b68508eb398ba3c16ef83750b6bb21a917e112df43058a4a9cc4aefc798d2e2f9e0ca81755812a0b2e422c1631a60f651cee514c03e9a4fe60",
-                "sha1": "1e8d8e9688a04df5177a46036d6f34c83194686c"
+                "sha512": "786d2b33d50a4356be88941eb4162ee1442a32d4345f5a81689850f8df5c489ecea8cdf9bfc2bfa0b0c843841eb424009802a95ee15c0c23b1645f9ee5a097da",
+                "sha1": "9f70dfa1b5fd5757271cfb8472eb9187ea8893b9"
               },
-              "url": "https://cdn.modrinth.com/data/mEEGbEIu/versions/W9C2CFxo/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
-              "filename": "pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar",
+              "url": "https://cdn.modrinth.com/data/mEEGbEIu/versions/GtgAOwVx/pandalib-0.1-forge-1.20.jar",
+              "filename": "pandalib-0.1-forge-1.20.jar",
               "primary": true,
-              "size": 864398
+              "size": 69226
             }
           ],
           "dependencies": [
@@ -38586,9 +38591,9 @@
       },
       {
         "name": "Panda's Falling Trees",
-        "version": "[Forge 1.20-1.20.4] v0.13.2",
+        "version": "fallingtrees-0.10-forge-1.20.jar",
         "optional": true,
-        "file": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+        "file": "fallingtrees-0.10-forge-1.20.jar",
         "type": "mods",
         "description": "Make trees fall when cut down ",
         "disabled": false,
@@ -38596,7 +38601,7 @@
         "wasSelected": true,
         "skipped": false,
         "curseForgeProjectId": 880630,
-        "curseForgeFileId": 6231030,
+        "curseForgeFileId": 5117433,
         "curseForgeProject": {
           "id": 880630,
           "name": "Panda's Falling Trees",
@@ -38662,70 +38667,79 @@
           "mainFileId": 7858947
         },
         "curseForgeFile": {
-          "id": 6231030,
+          "id": 5117433,
           "gameId": 432,
           "isAvailable": true,
-          "displayName": "[Forge 1.20-1.20.4] v0.13.2",
-          "fileName": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+          "displayName": "fallingtrees-0.10-forge-1.20.jar",
+          "fileName": "fallingtrees-0.10-forge-1.20.jar",
           "releaseType": 2,
           "fileStatus": 4,
-          "fileDate": "2025-02-24T19:38:27.47Z",
-          "fileLength": 4025908,
+          "fileDate": "2024-02-18T13:16:33.56Z",
+          "fileLength": 3998520,
           "dependencies": [
             {
               "fileId": 0,
-              "modId": 419699,
+              "modId": 975460,
               "relationType": 3
             },
             {
               "fileId": 0,
-              "modId": 975460,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
               "relationType": 3
             }
           ],
           "alternateFileId": 0,
           "modules": [
             {
-              "fingerprint": 3604085308,
+              "fingerprint": 278445241,
               "name": "META-INF"
             },
             {
-              "fingerprint": 3557666903,
-              "name": "architectury_inject_PandasFallingTrees_common_d21b3f66aaac4c5d88aa465806c2fd87_1a1582680fdae2110178ff5106eb1738bf831568a49a73bea6194ddf5eadf3fdfallingtreescommonmc1200132SNAPSHOTdevjar"
+              "fingerprint": 100636657,
+              "name": "architectury_inject_FallingTrees_common_714ba023a590442c93b77e8bc86571d1_cc87c5efcfa8ab8b8dc0071b7015aef93de2a634d54f164221b6872dd2f02089fallingtrees010devjar"
             },
             {
-              "fingerprint": 929174962,
+              "fingerprint": 1039576677,
               "name": "assets"
             },
             {
-              "fingerprint": 1968861807,
-              "name": "fallingtrees-common-common-refmap.json"
+              "fingerprint": 2521942588,
+              "name": "fallingtrees-common-refmap.json"
             },
             {
-              "fingerprint": 3205943791,
+              "fingerprint": 2116170130,
               "name": "fallingtrees-common.mixins.json"
             },
             {
-              "fingerprint": 158025645,
+              "fingerprint": 2028490235,
               "name": "fallingtrees.mixins.json"
             },
             {
-              "fingerprint": 1653920704,
+              "fingerprint": 4065438247,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 959931036,
               "name": "me"
             },
             {
-              "fingerprint": 3543053561,
+              "fingerprint": 149478688,
               "name": "pack.mcmeta"
             }
           ],
           "isServerPack": false,
           "hashes": [
             {
-              "value": "e787f81ddc9e8afea8d859d57776e212ab2b6ff4",
+              "value": "29c4fe3c88048c91d7942665038c44ce9c94b27a",
               "algo": 1
             },
             {
-              "value": "542bd503ba871bb74f3ce229ebc45048",
+              "value": "ad447b465a48230d8fa433bdfc2e2c54",
               "algo": 2
             }
           ],
@@ -38789,7 +38803,7 @@
             "1.20.4",
             "Server"
           ],
-          "fileFingerprint": 2456325457,
+          "fileFingerprint": 3451006489,
           "modId": 880630
         },
         "modrinthProject": {
@@ -38835,24 +38849,24 @@
           ]
         },
         "modrinthVersion": {
-          "id": "om4AFhqW",
+          "id": "NAOPX5Pl",
           "project_id": "i2kUe4lq",
           "author_id": "eQudRSDI",
-          "name": "[Forge 1.20-1.20.4] v0.13.2",
-          "version_number": "0.13.2",
-          "changelog": "# Version 0.13.1 Beta\r\n\r\n## Bug Fix\r\n* Fixed crash when starting to mine trees that are too big to be processed\r\n",
-          "date_published": "2025-02-24T19:38:27.460116Z",
+          "name": "Panda's Falling Tree's 0.10",
+          "version_number": "0.10",
+          "changelog": "## Version 0.10 Changelog\n* **What's been recoded**\n\t* API\n\n\n* **What's been fixed**\n  * Block filter not validating correctly\n\n\n* **What's been changed**\n\t* Falling Trees now require PandaLib\n\t* Falling Trees no longer require Cloth Config\n    * Made some improvements to the algorithm together with the API recode\n    * Removed the tree entity name popping up on screen when using Jade\n    * Config menu is temporarily gone (Will be added back when I have created an automatic config menu for Pandalib)\n\n\n* **What's been added**\n  * Config settings for each tree type\n  * Dynamic Mining Speed\n  * HT's Treechop support",
+          "date_published": "2024-02-23T21:30:21.382400Z",
           "version_type": "beta",
           "files": [
             {
               "hashes": {
-                "sha512": "fe473f1cf369ca7d75dfea0bacafc55692b2b56fe4b352a501536cb757be5da572d8423baec5cb32906a73ee40c667b599209b0e540237ce2a584df657296b37",
-                "sha1": "e787f81ddc9e8afea8d859d57776e212ab2b6ff4"
+                "sha1": "29c4fe3c88048c91d7942665038c44ce9c94b27a",
+                "sha512": "d3d2d1652b97072274f80524669284c65ad78a495532e44f9a125d13b0e805d3f0f824d6aa09651e9b6ed889084bef0ecf754fe223fccd521a8dde31eea6c692"
               },
-              "url": "https://cdn.modrinth.com/data/i2kUe4lq/versions/om4AFhqW/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
-              "filename": "fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar",
+              "url": "https://cdn.modrinth.com/data/i2kUe4lq/versions/NAOPX5Pl/fallingtrees-0.10-forge-1.20.jar",
+              "filename": "fallingtrees-0.10-forge-1.20.jar",
               "primary": true,
-              "size": 4025908
+              "size": 3998520
             }
           ],
           "dependencies": [
@@ -38881,8 +38895,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1776987537448,
-    "numPlays": 62,
+    "lastPlayed": 1777018697492,
+    "numPlays": 68,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",
