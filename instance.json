@@ -17201,242 +17201,6 @@
         }
       },
       {
-        "name": "M.R.U",
-        "version": "MRU 1.0.4",
-        "optional": true,
-        "file": "MRU-1.0.4+1.20.1+forge.jar",
-        "type": "mods",
-        "description": "Mineblock's Repeated Utilities ",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 669659,
-        "curseForgeFileId": 5848512,
-        "curseForgeProject": {
-          "id": 669659,
-          "name": "M.R.U",
-          "authors": [
-            {
-              "id": 103105756,
-              "name": "IMB11",
-              "url": "https://www.curseforge.com/members/imb11"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Mineblock's Repeated Utilities ",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 421,
-          "classId": 6,
-          "slug": "mru",
-          "isFeatured": false,
-          "dateModified": "2026-03-24T19:53:18.03Z",
-          "dateCreated": "2022-09-06T13:16:37.333Z",
-          "dateReleased": "2026-03-24T19:37:21.84Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mru",
-            "wikiUrl": "https://docs.mineblock11.dev/",
-            "issuesUrl": "https://github.com/IMB11-Mods/MRU"
-          },
-          "logo": {
-            "id": 1004055,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/55/256/256/638524951476571994.png",
-            "title": "638524951476571994.png",
-            "url": "https://media.forgecdn.net/avatars/1004/55/638524951476571994.png",
-            "modId": 669659
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 7806560
-        },
-        "curseForgeFile": {
-          "id": 5848512,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "MRU 1.0.4",
-          "fileName": "MRU-1.0.4+1.20.1+forge.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-10-26T18:57:06.013Z",
-          "fileLength": 287393,
-          "dependencies": [],
-          "alternateFileId": 5848515,
-          "modules": [
-            {
-              "fingerprint": 268351829,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1493072104,
-              "name": "MRU-1.20.1-forge-refmap.json"
-            },
-            {
-              "fingerprint": 3215181083,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3186884282,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 1553795407,
-              "name": "mru.mixins.json"
-            },
-            {
-              "fingerprint": 2316470319,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3428536821,
-              "name": "packed"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "c92d6d7cf2ffa333d64752edcde2b3c5a3e6edab",
-              "algo": 1
-            },
-            {
-              "value": "4485788a466877a0ddd42d3df84ea913",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge",
-            "1.20"
-          ],
-          "fileFingerprint": 2891672819,
-          "modId": 669659
-        },
-        "modrinthProject": {
-          "id": "SNVQ2c0g",
-          "slug": "mru",
-          "project_type": "mod",
-          "team": "9ZLYshTe",
-          "title": "M.R.U",
-          "description": "A library mod used by IMB11's mods to function.",
-          "body": "[![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.gg/UzHtJKqHny)\n\n# M.R.U\n\n**M.R.U** is an essential library mod designed to streamline and enhance the development process for my mods. MRU significantly reduces the time and effort needed to create and maintain mods across multiple versions of Minecraft.\n\n<small>\n\nBy using my mods, you agree to the [End User License Agreement](https://legal.imb11.dev/mods/eula). You are free to use this mod within your Modrinth & CurseForge modpacks as long as the EULA is respected.\n\n</small>",
-          "published": "2022-09-05T18:55:40.797934Z",
-          "updated": "2026-03-24T18:21:49.158170Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": ""
-          },
-          "client_side": "optional",
-          "server_side": "optional",
-          "categories": [
-            "library",
-            "utility"
-          ],
-          "loaders": [
-            "fabric",
-            "forge",
-            "neoforge"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
-          "issues_url": "https://github.com/IMB11-Mods/MRU/issues",
-          "source_url": "https://github.com/IMB11-Mods/MRU",
-          "wiki_url": "https://docs.imb11.dev/",
-          "discord_url": "https://discord.imb11.dev/",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/mineblock11"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/SNVQ2c0g/images/4fdb11505132aa9a50cb4ca340aa98848963df0c.gif",
-              "raw_url": "https://cdn.modrinth.com/data/SNVQ2c0g/images/4fdb11505132aa9a50cb4ca340aa98848963df0c.gif",
-              "featured": false,
-              "title": "I know what you're thinking...",
-              "description": "It's for a good cause though! MRU massively helps me to maintain a lot of mods across many versions!",
-              "created": "2025-02-13T21:09:42.131590Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "nKL4LKzM",
-          "project_id": "SNVQ2c0g",
-          "author_id": "bOHH0P9Z",
-          "name": "MRU 1.0.4",
-          "version_number": "1.0.4+1.20.1-forge",
-          "changelog": "- Add support for 1.21.3\r\n- Removed support for 1.20.4\r\n- Removed support for 1.20.6",
-          "date_published": "2024-10-26T18:57:09.217782Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "c92d6d7cf2ffa333d64752edcde2b3c5a3e6edab",
-                "sha512": "be202bfeb3724ff4433b51e02764c2498c36ed01229306492260c0bc2f3c62b9f8a3f500baf083210fc683723a60793db8c3e384b28e7da599806cf3c489fdac"
-              },
-              "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar",
-              "filename": "MRU-1.0.4+1.20.1+forge.jar",
-              "primary": true,
-              "size": 287393
-            },
-            {
-              "hashes": {
-                "sha1": "5faf836a0c1299a509b5e339f215c8640b9cb61c",
-                "sha512": "47b50c5768a6c130d0f816061f9add8ee78ae31ea823d79059205e54026d361a17308ff01627ffa5f587db734d1453762914576ba6f991151d8f227ffeb88770"
-              },
-              "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge-sources.jar",
-              "filename": "MRU-1.0.4+1.20.1+forge-sources.jar",
-              "primary": false,
-              "size": 95282
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "TFC Hot or Not",
         "version": "TFCHotOrNot-1.20.1-1.0.13",
         "optional": true,
@@ -38045,284 +37809,6 @@
         }
       },
       {
-        "name": "Sound​s",
-        "version": "Unknown",
-        "optional": true,
-        "file": "Sounds-2.0.4+1.20.1+forge.jar",
-        "type": "mods",
-        "description": "Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 925889,
-        "curseForgeFileId": 5643512,
-        "curseForgeProject": {
-          "id": 925889,
-          "name": "Sound​s",
-          "authors": [
-            {
-              "id": 103105756,
-              "name": "IMB11",
-              "url": "https://www.curseforge.com/members/imb11"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.",
-          "categories": [
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 5191,
-          "classId": 6,
-          "slug": "sound",
-          "isFeatured": false,
-          "dateModified": "2026-03-24T19:48:59.487Z",
-          "dateCreated": "2023-10-22T08:18:39.78Z",
-          "dateReleased": "2026-03-24T19:34:39.227Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sound",
-            "wikiUrl": "https://IMB11.dev/",
-            "issuesUrl": "https://github.com/IMB11-Mods/Sounds/issues",
-            "sourceUrl": "https://github.com/mineblock11/Sonance"
-          },
-          "logo": {
-            "id": 1004039,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1004/39/256/256/638524938814296759.png",
-            "title": "638524938814296759.png",
-            "url": "https://media.forgecdn.net/avatars/1004/39/638524938814296759.png",
-            "modId": 925889
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 7806535
-        },
-        "curseForgeFile": {
-          "id": 5643512,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Sounds 2.0.4",
-          "fileName": "Sounds-2.0.4+1.20.1+forge.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-08-19T11:18:02.753Z",
-          "fileLength": 10975478,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 669659,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 380586592,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3496128601,
-              "name": ".cache"
-            },
-            {
-              "fingerprint": 3352826121,
-              "name": "Sounds-1.20.1-forge-refmap.json"
-            },
-            {
-              "fingerprint": 1633648828,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3407099560,
-              "name": "data"
-            },
-            {
-              "fingerprint": 425082487,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 1348883489,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 2485332445,
-              "name": "packed"
-            },
-            {
-              "fingerprint": 1269078982,
-              "name": "sounds.mixins.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "244c3dddf48189817bb155dc15522b3722953ef6",
-              "algo": 1
-            },
-            {
-              "value": "19e24d6881db43d6f09ab1aaabb092f0",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge",
-            "1.20"
-          ],
-          "fileFingerprint": 1682228538,
-          "modId": 925889
-        },
-        "modrinthProject": {
-          "id": "ZouiUX7t",
-          "slug": "sound",
-          "project_type": "mod",
-          "team": "FPYbXAXr",
-          "title": "Sounds",
-          "description": "It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.",
-          "body": "[![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.imb11.dev/)\n\n### **It's what it says on the tin.**\n\nSounds is a mod that adds a variety of new sound effects to the game, whilst improving existing ones that didn't quite fit. It's a game-changer, it makes vanilla feel incomplete in comparison.\n\nThe mod is also a spiritual continuation of ExtraSounds, Auditory and QualitySounds; the majority of features from these mods have been expanded upon to be highly configurable.\n\n**Requires [M.R.U](https://modrinth.com/mod/mru) & [Yet Another Config Lib](https://modrinth.com/mod/yacl)**\n\n## Features\n- **Includes over 170 SFX improvements** which span across the entire game, such as UI, chat messages, in-game actions and block sounds.\n- **High quality** sound effects sourced from [Zapsplat](https://www.zapsplat.com/) and hand-tweaked for the best SFX experience.\n- **Fully client-side only**, no need to install on the server!\n- **Highly customizable**, you can change the sounds events used, and even tweak the dynamic block and item sounds through resource packs, especially useful for creating addons for content mods.'\n\n<iframe width=\"100%\" height=\"520px\" src=\"https://www.youtube.com/embed/9H55Nxoc0uk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Configuration\nAs mentioned, Sounds is **highly customizable** - the simple effects can be edited either through the configuration found in the `config/sounds/` folder of your game instance, or though the configuration screen.\n\n*[Mod Menu](https://modrinth.com/mod/modmenu) is required to access the configuration screen for the Fabric version of the mod.*\n\n![](https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b.png)\n\n![](https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1.png)\n\n### Adding support for modded content\n\nRefer to the [Sounds Documentation](https://docs.imb11.dev/sounds/) for more information on creating dynamic sound definitions for items, screens and blocks.\n\n<small>\n\nCustom sound effects obtained from [Zapsplat](https://www.zapsplat.com) under ZapSplat Standard License for Gold Members.\n\nBy using my mods, you agree to the [End User License Agreement](https://legal.imb11.dev/mods/eula). You are free to use this mod within your Modrinth & CurseForge modpacks as long as the EULA is respected.\n\n</small>",
-          "published": "2023-10-21T20:53:31.897179Z",
-          "updated": "2026-03-24T19:01:50.814719Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": ""
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "game-mechanics",
-            "social",
-            "utility"
-          ],
-          "loaders": [
-            "fabric",
-            "forge",
-            "neoforge"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
-          "issues_url": "https://github.com/IMB11/Sounds/issues",
-          "source_url": "https://github.com/IMB11/Sounds",
-          "wiki_url": "https://docs.imb11.dev/",
-          "discord_url": "https://discord.imb11.dev/",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/mineblock11"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/ZouiUX7t/images/1e6b01c27e463a9ab8c4ec1306a9820eece3cd3b.png",
-              "featured": false,
-              "title": "Configuration Screen",
-              "created": "2025-07-23T16:22:13.165278Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/ZouiUX7t/images/a5b5f083b86a662bda4031e00778933fc1cbc8c1.png",
-              "featured": true,
-              "title": "Example Configuration Screen",
-              "created": "2025-07-23T16:22:44.368687Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "fIGsYhRw",
-          "project_id": "ZouiUX7t",
-          "author_id": "bOHH0P9Z",
-          "name": "Sounds 2.0.4",
-          "version_number": "2.0.4+1.20.1-forge",
-          "changelog": "- Fixes issue with Forge.",
-          "date_published": "2024-08-19T11:18:07.768182Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "60fe79210b769f760a5e42cc03c27d3127e41015c91180ec2fdac151e9a2924ce20b326d5514aa1a49c5208686cdd58e2d9f09cad4c1991087f4fb817a0e003c",
-                "sha1": "244c3dddf48189817bb155dc15522b3722953ef6"
-              },
-              "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/fIGsYhRw/Sounds-2.0.4%2B1.20.1%2Bforge.jar",
-              "filename": "Sounds-2.0.4+1.20.1+forge.jar",
-              "primary": true,
-              "size": 10975478
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "SNVQ2c0g",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "PandaLib",
         "version": "pandalib-0.1-forge-1.20.jar",
         "optional": true,
@@ -39171,13 +38657,252 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "ExtraSounds Next",
+        "version": "ExtraSounds Next 1.5.4 Forge 1.20.1",
+        "optional": true,
+        "file": "extrasounds-1.5.4+1.20.1-forge.jar",
+        "type": "mods",
+        "description": "UI sounds & more.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 946784,
+        "curseForgeFileId": 7815334,
+        "curseForgeProject": {
+          "id": 946784,
+          "name": "ExtraSounds Next",
+          "authors": [
+            {
+              "id": 106640151,
+              "name": "Arborsm",
+              "url": "https://www.curseforge.com/members/arborsm"
+            }
+          ],
+          "gameId": 432,
+          "summary": "UI sounds & more.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "extrasounds-forge",
+          "isFeatured": false,
+          "dateModified": "2026-03-26T05:10:28.497Z",
+          "dateCreated": "2023-12-05T13:17:28.507Z",
+          "dateReleased": "2026-03-26T05:02:38.27Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/extrasounds-forge",
+            "issuesUrl": "https://github.com/Arborsm/ExtraSoundsForge/issues",
+            "sourceUrl": "https://github.com/Arborsm/ExtraSoundsForge"
+          },
+          "logo": {
+            "id": 915603,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/915/603/256/256/638373740617344566.png",
+            "title": "638373740617344566.png",
+            "url": "https://media.forgecdn.net/avatars/915/603/638373740617344566.png",
+            "modId": 946784
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 7815338
+        },
+        "curseForgeFile": {
+          "id": 7815334,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ExtraSounds Next 1.5.4 Forge 1.20.1",
+          "fileName": "extrasounds-1.5.4+1.20.1-forge.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-03-26T05:02:31.343Z",
+          "fileLength": 534488,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 580555,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 422301,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 7815335,
+          "modules": [
+            {
+              "fingerprint": 1319615955,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 266522750,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3382581756,
+              "name": "aw"
+            },
+            {
+              "fingerprint": 1547701457,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 1465019049,
+              "name": "extrasounds.mixins.json"
+            },
+            {
+              "fingerprint": 103738561,
+              "name": "extrasounds.refmap.json"
+            },
+            {
+              "fingerprint": 2639552663,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 678648710,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "40373e800760010970e100a5f546abe1cb532416",
+              "algo": 1
+            },
+            {
+              "value": "0af1bd4548a43541b0db69ee5f03df06",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 240276606,
+          "modId": 946784
+        },
+        "modrinthProject": {
+          "id": "jv7tzVE4",
+          "slug": "extrasoundsforge",
+          "project_type": "mod",
+          "team": "jiIWRmBu",
+          "title": "ExtraSounds Next",
+          "description": "UI sounds & more.",
+          "body": "# ExtraSounds Next\n\nAdds more sounds to Minecraft, like sounds when you scroll the hotbar, the creative inventory, pick up or place items in inventories, and more!\n\n## Features\n* Hotbar scroll sounds\n* Inventory click sounds (based on clicked item)\n* Drop sound (based on amount of items dropped)\n* Creative inventory scroll sound (based on scroll speed)\n* Chat message sound\n* Chat @mention sound\n* Every sound is configurable!\n* Add compatibility with JEI, REI, EMI after `1.3`\n\n## [Demonstration video](https://youtu.be/PG3VZ_DmbRk)\n\n### Porting From:[Extra Sounds](https://modrinth.com/mod/extrasounds)",
+          "published": "2023-12-03T09:59:06.990826Z",
+          "updated": "2026-03-26T05:02:38.961482Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/jv7tzVE4/aac60640bfd4a44890f075aea150fac41e698da4_96.webp",
+          "issues_url": "https://github.com/Arborsm/ExtraSoundsForge/issues",
+          "source_url": "https://github.com/Arborsm/ExtraSoundsForge",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "h3MWENr2",
+          "project_id": "jv7tzVE4",
+          "author_id": "REhLdPc0",
+          "name": "ExtraSounds Next 1.5.4 Forge 1.20.1",
+          "version_number": "1.5.4+1.20.1-forge",
+          "changelog": "# ExtraSounds Next - Changelog\n\n## [1.5.0 - 1.5.3]\n\n**New Features**\n- Added sound support for popular mods:\n  - AE2 (Applied Energistics 2)\n- Redesigned sound settings screen with better compatibility(**WIP**)\n\n**Improvements**\n- Better volume control and sound management\n- Improved sound mixing and playback\n- Fixed JEI (Just Enough Items) compatibility\n\n**Technical Changes**\n- Migrated to Stonecutter architecture for better multi-version support\n\n**Fixes**\n- Sound switches not working properly\n- Correct mixin refmap configuration\n- Fixed Forge jar used development version instead of release version\n\n## [1.5.4]\n**Fixes**\n- Make DEBUG flag via system property\n- Fixed ae2 compatibility\n",
+          "date_published": "2026-03-26T05:02:33.066037Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "599a3ecde5610e6ec3e2e6a83938114e35c268488f419b755c77c94bcf634449b8a306b0d7a2c88d0d6651448e79f642d0adb95a0c32eacca06d975f3ee814e2",
+                "sha1": "40373e800760010970e100a5f546abe1cb532416"
+              },
+              "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/h3MWENr2/extrasounds-1.5.4%2B1.20.1-forge.jar",
+              "filename": "extrasounds-1.5.4+1.20.1-forge.jar",
+              "primary": true,
+              "size": 534488
+            },
+            {
+              "hashes": {
+                "sha512": "22c789426fd5e130b23b6be59679af6f4538285235d7670ddc2d54dbbf6307be7cb55d761746ae03c8ca1ba94fdca55d986f2c1d01ac69590240a883b37e1e3f",
+                "sha1": "bdfa3dfe5a92c5b833c52879345cc3efc392bbc0"
+              },
+              "url": "https://cdn.modrinth.com/data/jv7tzVE4/versions/h3MWENr2/extrasounds-1.5.4%2B1.20.1-forge-sources.jar",
+              "filename": "extrasounds-1.5.4+1.20.1-forge-sources.jar",
+              "primary": false,
+              "size": 295616
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1777173442321,
-    "numPlays": 72,
+    "lastPlayed": 1777236466460,
+    "numPlays": 73,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",
