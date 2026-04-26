@@ -5,6 +5,51 @@
     }
   ],
   "lookup_history": [
+    "item:tfc:deposit/native_copper/basalt",
+    "item:tfc:metal/chestplate/copper{Damage:0}",
+    "item:tfc:metal/double_sheet/copper",
+    "item:tfc:metal/tuyere/copper{Damage:0}",
+    {
+      "type": "item",
+      "id": "kubejs:ancient_vessel_misc",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "kubejs:ancient_vessel_seeds",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "kubejs:ancient_vessel_ore",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:sheetmetal_electrum",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:plate_electrum",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "tfc_ie_addon:metal/sheet/electrum",
+      "amount": 16
+    },
+    {
+      "type": "item",
+      "id": "tfc:metal/sheet/bismuth_bronze",
+      "amount": 16
+    },
+    "item:tfc_ie_addon:metal/double_ingot/electrum",
+    {
+      "type": "item",
+      "id": "tfc:powder/kaolinite",
+      "amount": 3
+    },
     "#item:tfc:gem_powders",
     "item:tfc:powder/emerald",
     "item:tfc:powder/diamond",
@@ -40,9 +85,6 @@
     },
     "item:tfc:goat_horn",
     "item:tfc:ore/ruby",
-    "item:kubejs:ancient_vessel_misc",
-    "item:kubejs:ancient_vessel_seeds",
-    "item:kubejs:ancient_vessel_ore",
     {
       "type": "item",
       "id": "vintageimprovements:belt_grinder",
@@ -135,7 +177,6 @@
     "item:minecraft:tnt",
     "item:minecraft:gunpowder",
     "item:tfc:fire_clay",
-    "item:tfc:powder/kaolinite",
     "item:tfc:seeds/garlic",
     "item:tfc:seeds/sugarcane",
     "item:tfc:food/wheat",
