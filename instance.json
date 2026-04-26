@@ -38890,6 +38890,287 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Cherished Worlds",
+        "version": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+        "optional": true,
+        "file": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+        "type": "mods",
+        "description": "Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 308240,
+        "curseForgeFileId": 5955879,
+        "curseForgeProject": {
+          "id": 308240,
+          "name": "Cherished Worlds",
+          "authors": [
+            {
+              "id": 34683772,
+              "name": "TheIllusiveC4",
+              "url": "https://www.curseforge.com/members/theillusivec4"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "cherished-worlds",
+          "isFeatured": false,
+          "dateModified": "2026-03-06T23:57:56.67Z",
+          "dateCreated": "2018-12-03T06:11:15.913Z",
+          "dateReleased": "2026-03-06T23:48:30.54Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cherished-worlds",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TheIllusiveC4/CherishedWorlds/issues",
+            "sourceUrl": "https://github.com/TheIllusiveC4/CherishedWorlds"
+          },
+          "logo": {
+            "id": 180595,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/180/595/256/256/636793993834717165.png",
+            "title": "636793993834717165.png",
+            "url": "https://media.forgecdn.net/avatars/180/595/636793993834717165.png",
+            "modId": 308240
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 819772,
+              "description": "World Select",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/819/772/310/172/813f6ec6a2187f450fe96df63e73ac379f22aabc.png",
+              "title": "World Select",
+              "url": "https://media.forgecdn.net/attachments/819/772/813f6ec6a2187f450fe96df63e73ac379f22aabc.png",
+              "modId": 308240
+            },
+            {
+              "id": 819771,
+              "description": "Server Select",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/819/771/310/172/9401cfb07e0fcd8d66e9fd127d5eebc13e92e873.png",
+              "title": "Server Select",
+              "url": "https://media.forgecdn.net/attachments/819/771/9401cfb07e0fcd8d66e9fd127d5eebc13e92e873.png",
+              "modId": 308240
+            }
+          ],
+          "mainFileId": 7721759
+        },
+        "curseForgeFile": {
+          "id": 5955879,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+          "fileName": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-12-02T08:22:35.773Z",
+          "fileLength": 60956,
+          "dependencies": [],
+          "alternateFileId": 5955880,
+          "modules": [
+            {
+              "fingerprint": 3269123151,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3373089374,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "COPYING"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "COPYING.LESSER"
+            },
+            {
+              "fingerprint": 785297658,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 172819838,
+              "name": "README.md"
+            },
+            {
+              "fingerprint": 765147616,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1370252848,
+              "name": "cherishedworlds.mixins.json"
+            },
+            {
+              "fingerprint": 2634455738,
+              "name": "cherishedworlds.refmap.json"
+            },
+            {
+              "fingerprint": 1157943607,
+              "name": "cherishedworlds_icon.png"
+            },
+            {
+              "fingerprint": 3276828187,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3916898619,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d3eb588c64691c9da83460e3b2e783401d337a34",
+              "algo": 1
+            },
+            {
+              "value": "f05683884add93d912932c601dff8ef5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 2374033839,
+          "modId": 308240
+        },
+        "modrinthProject": {
+          "id": "3azQ6p0W",
+          "slug": "cherished-worlds",
+          "project_type": "mod",
+          "team": "dzIBwCp9",
+          "title": "Cherished Worlds",
+          "description": "Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.",
+          "body": "Cherished Worlds is a mod that adds the ability to favorite/pin/bookmark certain worlds.\n\nWhen installed, empty star icons will appear next to every world on the select screen. Players can bookmark worlds by clicking on the star next to the world icon.\n\nBookmarking worlds will force them to always show up at the top of the world selection list and removes the ability to delete them until they are unmarked. Players can bookmark as many worlds as they want. If there are multiple bookmarked worlds, they will internally be ordered by last played date.\n\n**This mod is client-side only.**\n\n## Features\n\n### Single Player Worlds\n\n![World Select Screen with Favorites](https://i.ibb.co/23MxVBp/selectworld.png)\n\n### Multiplayer Worlds\n\n![Multiplayer Select Screen with Favorites](https://i.ibb.co/C6Qjwp9/selectserver.png)\n\n## Support\n\nPlease report all bugs, issues, and feature requests to the [issue tracker](https://github.com/TheIllusiveC4/CherishedWorlds/issues).\n\nFor non-technical support and questions, join the developer's [Discord](https://discord.gg/JWgrdwt).\n\n## License\n\nAll source code and assets are licensed under LGPL 3.0.\n\n## Donations\n\nDonations to the developer can be sent through [Ko-fi](https://ko-fi.com/C0C1NL4O).\n\n## Affiliates\n\n[![BisectHosting](https://i.ibb.co/5Tw6mh2/bisect-illusive.webp)](https://illusivesoulworks.com/affiliate)\n",
+          "published": "2023-02-03T05:22:43.157297Z",
+          "updated": "2026-03-06T23:48:29.474577Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-or-later",
+            "name": "GNU Lesser General Public License v3.0 or later"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "management",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3azQ6p0W/14d3a7430f4e834fc0a86d228c6e17e5b9b33a0a.png",
+          "issues_url": "https://github.com/illusivesoulworks/cherishedworlds/issues",
+          "source_url": "https://github.com/illusivesoulworks/cherishedworlds/",
+          "discord_url": "https://discord.gg/JWgrdwt",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/C0C1NL4O"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/3azQ6p0W/images/813f6ec6a2187f450fe96df63e73ac379f22aabc.png",
+              "raw_url": "https://cdn.modrinth.com/data/3azQ6p0W/images/813f6ec6a2187f450fe96df63e73ac379f22aabc.png",
+              "featured": true,
+              "title": "World Select",
+              "created": "2023-02-03T05:26:25.331205Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3azQ6p0W/images/9401cfb07e0fcd8d66e9fd127d5eebc13e92e873.png",
+              "raw_url": "https://cdn.modrinth.com/data/3azQ6p0W/images/9401cfb07e0fcd8d66e9fd127d5eebc13e92e873.png",
+              "featured": false,
+              "title": "Server Select",
+              "created": "2023-02-03T05:26:37.319607Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Uwaq5LPL",
+          "project_id": "3azQ6p0W",
+          "author_id": "zbpHS3ry",
+          "name": "cherishedworlds-forge-6.1.7+1.20.1",
+          "version_number": "6.1.7+1.20.1",
+          "changelog": "The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).\n\nThis is a copy of the changelog for the most recent version. For the full version history, go [here](https://github.com/illusivesoulworks/cherishedworlds/blob/1.20.x/CHANGELOG.md).\n\n## [6.1.7+1.20.1] - 2024.12.02\n### Fixed\n- Fixed server list overriding [#33](https://github.com/illusivesoulworks/cherishedworlds/issues/36)\n",
+          "date_published": "2024-12-02T08:22:34.314734Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d3eb588c64691c9da83460e3b2e783401d337a34",
+                "sha512": "473b066a5765b9205c453669e43437ac5d440d7de8a42dd4b50d97a917575740a725f825cada865ecfc02914012e78295e2e67e3161dffb8254a0e22061d65e1"
+              },
+              "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/Uwaq5LPL/cherishedworlds-forge-6.1.7%2B1.20.1.jar",
+              "filename": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+              "primary": true,
+              "size": 60956
+            },
+            {
+              "hashes": {
+                "sha512": "73083b3900215d4a9278b606ddee6e0c67837f0df25bd7ad5974dc1d8d853f9534e67e2d489fa4a79317d86173ccfb6dee6e2fd20280a0b4c2dd9b44fa8072a2",
+                "sha1": "02d693b0a81cb365dccf40f08997397253d4f9d6"
+              },
+              "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/Uwaq5LPL/cherishedworlds-forge-6.1.7%2B1.20.1-sources.jar",
+              "filename": "cherishedworlds-forge-6.1.7+1.20.1-sources.jar",
+              "primary": false,
+              "size": 23422
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],

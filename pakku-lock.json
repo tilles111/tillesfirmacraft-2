@@ -860,6 +860,43 @@
             ]
         },
         {
+            "pakku_id": "4iA4Kckra2u1pzAq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cherished-worlds"
+            },
+            "name": {
+                "curseforge": "Cherished Worlds"
+            },
+            "id": {
+                "curseforge": "308240"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5955/879/cherishedworlds-forge-6.1.7+1.20.1.jar",
+                    "id": "5955879",
+                    "parent_id": "308240",
+                    "hashes": {
+                        "sha1": "d3eb588c64691c9da83460e3b2e783401d337a34",
+                        "md5": "f05683884add93d912932c601dff8ef5"
+                    },
+                    "required_dependencies": [],
+                    "size": 60956,
+                    "date_published": "2024-12-02T08:22:35.773Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sBNh2BekxD4PKVpN",
             "type": "MOD",
             "slug": {
