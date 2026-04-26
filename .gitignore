@@ -22,3 +22,6 @@ config/woodencog-common-2.toml.bak
 config/oculus.properties
 emi.json
 patchouli_data.json
+cherishedworlds-favorites.dat
+config/oculus.properties
+instance.json
