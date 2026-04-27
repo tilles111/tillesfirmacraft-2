@@ -5,6 +5,140 @@
     }
   ],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "tfc:metal/ingot/bismuth_bronze",
+      "amount": 3
+    },
+    "item:kubejs:eldrite_chunk",
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "amount": 2
+    },
+    "item:tfc:ore/opal",
+    {
+      "type": "item",
+      "id": "minecraft:compass",
+      "amount": 5
+    },
+    "item:kubejs:ancient_scrap",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/dacite",
+      "amount": 2
+    },
+    "item:minecraft:paper",
+    "item:minecraft:map",
+    "item:wizards_reborn:arcanum",
+    "item:wizards_reborn:arcane_workbench",
+    "item:tfc:metal/ingot/black_bronze",
+    "item:tfc:powder/kaolinite",
+    "#item:minecraft:planks",
+    "item:minecraft:stick",
+    {
+      "type": "item",
+      "id": "tfc:wool_yarn",
+      "amount": 16
+    },
+    "item:tfc:wool_cloth",
+    "item:tfc:metal/ingot/bismuth",
+    "item:vintageimprovements:spring_coiling_machine_wheel",
+    "item:vintageimprovements:grinder_belt",
+    "item:vintageimprovements:v_shaped_curving_head{Damage:0}",
+    "item:vintageimprovements:belt_grinder",
+    "item:vintageimprovements:curving_press",
+    "item:vintageimprovements:helve_hammer",
+    "item:vintageimprovements:lathe",
+    "item:vintageimprovements:laser",
+    "item:vintageimprovements:centrifuge",
+    "item:vintageimprovements:vibrating_table",
+    "item:vintageimprovements:vacuum_chamber",
+    "item:immersiveengineering:component_steel",
+    "item:immersivetechnology:technology_engineering",
+    {
+      "type": "item",
+      "id": "compressedcreativity:engine_rotor",
+      "amount": 64
+    },
+    "item:minecraft:oak_button",
+    "item:minecraft:iron_chestplate{Damage:0}",
+    "item:minecraft:white_wool",
+    [
+      "item:minecraft:black_wool",
+      "item:minecraft:blue_wool",
+      "item:minecraft:brown_wool",
+      "item:minecraft:cyan_wool",
+      "item:minecraft:gray_wool",
+      "item:minecraft:green_wool",
+      "item:minecraft:light_blue_wool",
+      "item:minecraft:light_gray_wool",
+      "item:minecraft:lime_wool",
+      "item:minecraft:magenta_wool",
+      "item:minecraft:orange_wool",
+      "item:minecraft:pink_wool",
+      "item:minecraft:purple_wool",
+      "item:minecraft:yellow_wool",
+      "item:minecraft:white_wool"
+    ],
+    {
+      "type": "item",
+      "id": "minecraft:red_wool",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sticky_piston",
+      "amount": 32
+    },
+    "item:scguns:exo_suit_blueprint",
+    "item:scguns:exo_suit_helmet{Damage:0,ExoSuitUpgrades:{Upgrades:[]}}",
+    "item:scguns:treated_brass_chestplate{Damage:0}",
+    "#item:minecraft:trim_materials",
+    "item:tfc:gem/topaz",
+    "item:tfc:ore/topaz",
+    "item:tfc:wood/planks/palm_slab",
+    "item:tfcbarrels:wood/barrel/palm",
+    {
+      "type": "item",
+      "id": "tfc:rock/cobble/basalt",
+      "amount": 10
+    },
+    "item:tfc:metal/pickaxe/blue_steel{Damage:108,Enchantments:[{id:\"minecraft:efficiency\",lvl:5s}]}",
+    {
+      "type": "fluid",
+      "id": "tfc:metal/copper",
+      "amount": 276
+    },
+    {
+      "type": "item",
+      "id": "tfc:ore/rich_native_copper",
+      "amount": 3
+    },
+    "item:tfc:metal/axe/blue_steel{Damage:58,Enchantments:[{id:\"minecraft:efficiency\",lvl:5s}]}",
+    "item:botania:manasteel_ingot",
+    "item:botania:manasteel_pick{Damage:0}",
+    {
+      "type": "item",
+      "id": "tfc:powder/diamond",
+      "amount": 4
+    },
+    "item:tfc:gem/diamond",
+    "item:malum:astral_weave",
+    "item:malum:block_of_astral_weave",
+    {
+      "type": "item",
+      "id": "malum:cursed_sap",
+      "remainder": "item:minecraft:glass_bottle"
+    },
+    "item:malum:cursed_sap_block",
+    "item:tfc:ore/small_sphalerite",
+    "item:firmaciv:kayak",
+    {
+      "type": "item",
+      "id": "firmaciv:large_waterproof_hide",
+      "amount": 64
+    },
     "item:tfc:deposit/native_copper/basalt",
     "item:tfc:metal/chestplate/copper{Damage:0}",
     "item:tfc:metal/double_sheet/copper",
@@ -45,14 +179,8 @@
       "amount": 16
     },
     "item:tfc_ie_addon:metal/double_ingot/electrum",
-    {
-      "type": "item",
-      "id": "tfc:powder/kaolinite",
-      "amount": 3
-    },
     "#item:tfc:gem_powders",
     "item:tfc:powder/emerald",
-    "item:tfc:powder/diamond",
     "item:tfc:sandpaper{Damage:0}",
     "item:tfc:sand/black",
     "item:minecraft:fermented_spider_eye",
@@ -85,16 +213,7 @@
     },
     "item:tfc:goat_horn",
     "item:tfc:ore/ruby",
-    {
-      "type": "item",
-      "id": "vintageimprovements:belt_grinder",
-      "amount": 32
-    },
-    "item:vintageimprovements:grinder_belt",
     "item:create:sand_paper{Damage:0}",
-    "item:tfc:ore/opal",
-    "item:tfc:gem/topaz",
-    "item:tfc:ore/topaz",
     "item:tfc:ore/pyrite",
     "item:tfc:ore/emerald",
     "item:tfc:ore/lapis_lazuli",
@@ -114,12 +233,6 @@
       "amount": 32
     },
     "item:tfc:wood/planks/palm",
-    "item:tfc:wood/planks/palm_slab",
-    {
-      "type": "item",
-      "id": "tfcbarrels:wood/barrel/palm",
-      "amount": 32
-    },
     {
       "type": "item",
       "id": "firmalife:cured_oven_hopper",
@@ -130,7 +243,6 @@
       "id": "theurgy:pyromantic_brazier",
       "amount": 32
     },
-    "item:tfc:gem/diamond",
     "item:tfc:gem/emerald",
     "item:tfc:powder/flux",
     "item:tfc:powder/graphite",
@@ -154,19 +266,7 @@
       "id": "tfc:powder/ruby",
       "amount": 4
     },
-    {
-      "type": "item",
-      "id": "tfc:ore/rich_native_copper",
-      "amount": 8
-    },
-    {
-      "type": "item",
-      "id": "minecraft:clay_ball",
-      "amount": 8
-    },
     "item:botania:dreamwood_wand{color1:6,color2:3}",
-    "item:minecraft:map",
-    "item:minecraft:paper",
     {
       "type": "item",
       "id": "tfc:powder/charcoal",
@@ -190,11 +290,6 @@
     },
     "item:tfc:papyrus",
     "item:tfc:seeds/papyrus",
-    {
-      "type": "item",
-      "id": "kubejs:ancient_scrap",
-      "amount": 15
-    },
     "item:scguns:cog_heart",
     "item:scguns:treated_brass_blueprint",
     "item:scguns:osgood_50{AmmoCount:6,Damage:0,GeckoLibID:2L,WasHeldLastTick:0b}",
@@ -217,16 +312,6 @@
       "amount": 32
     },
     "item:firmaciv:firmaciv_compass",
-    {
-      "type": "item",
-      "id": "minecraft:compass",
-      "amount": 64
-    },
-    {
-      "type": "item",
-      "id": "kubejs:eldrite_chunk",
-      "amount": 64
-    },
     "item:minecraft:leather_helmet{Damage:0}",
     "item:firmalife:beekeeper_helmet{Damage:0}",
     "item:firmalife:beekeeper_chestplate{Damage:0}",
@@ -367,7 +452,6 @@
       "amount": 32
     },
     "item:tfc:wool",
-    "item:tfc:wool_yarn",
     "#item:forge:string",
     "item:minecraft:cobweb",
     {
@@ -492,7 +576,6 @@
       "id": "tfc:metal/bismuth_bronze",
       "amount": 100
     },
-    "item:tfc:metal/ingot/bismuth_bronze",
     "item:tfc:metal/pickaxe_head/bismuth_bronze",
     "item:tfc:metal/pickaxe/bismuth_bronze{Damage:0}",
     "item:tfc:metal/pickaxe_head/bronze",
@@ -502,7 +585,6 @@
       "id": "tfc:metal/black_bronze",
       "amount": 100
     },
-    "item:tfc:metal/ingot/black_bronze",
     "item:tfc:metal/pickaxe_head/black_bronze",
     "item:tfc:metal/pickaxe/black_bronze{Damage:0}",
     "item:tfc:powder/hematite",
@@ -625,8 +707,8 @@
       "amount": 1000,
       "ingredients": [
         "#fluid:firmalife:mixable",
-        "#fluid:tfcchannelcasting:mixable",
-        "#fluid:tfc:water"
+        "#fluid:tfc:water",
+        "#fluid:tfcchannelcasting:mixable"
       ]
     },
     {
@@ -824,11 +906,6 @@
     "item:sns:metal/horseshoes/red_steel{Damage:0}",
     "item:sns:metal/horseshoe/red_steel",
     "item:sns:frame_pack",
-    {
-      "type": "fluid",
-      "id": "tfc:metal/copper",
-      "amount": 100
-    },
     "item:tfc:metal/ingot/copper",
     "#item:forge:ingots/copper",
     "item:tfc:metal/double_ingot/copper",

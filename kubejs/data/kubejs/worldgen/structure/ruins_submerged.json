@@ -1,10 +1,10 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#kubejs:is_tfc",
+  "biomes": "#kubejs:submerged_structure_gen",
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_thin",
-  "start_pool": "kubejs:amongus",
+  "start_pool": "kubejs:ruins_submerged",
   "size": 1,
   "start_height": {
     "absolute": 1

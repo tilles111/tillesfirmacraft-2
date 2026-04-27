@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:lake",
+    "tfc:ocean",
+    "tfc:ocean_reef",
+    "tfc:oceanic_mountain_lake",
+    "tfc:river",
+    "tfc:salt_marsh",
+    "tfc:shore",
+    "tfc:tidal_flats",
+    "tfc:volcanic_mountain_lake",
+    "tfc:volcanic_oceanic_mountain_lake"
+  ]
+}
