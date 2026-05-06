@@ -139,7 +139,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "tfc:rock/loose/gabbro"
+          "name": "tfc:rock/loose/rhyolite"
         },
         {
           "type": "minecraft:item",
@@ -184,7 +184,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "tfc:rock/loose/slate"
+          "name": "tfc:rock/loose/basalt"
         },
         {
           "type": "minecraft:item",

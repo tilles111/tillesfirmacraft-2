@@ -14,7 +14,9 @@
         "tfc:firmalife/climate_station",
         "tfc:mechanics/papermaking",
         "tfc:mechanics/gems",
-        "tfc:mechanics/glassworking_applications"
+        "tfc:mechanics/glassworking_applications",
+        "tfc:firmalife/beekeeping",
+        "tfc:getting_started/a_place_to_sleep"
       ],
       "bookmarks": [],
       "completedManualQuests": []

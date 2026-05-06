@@ -4,6 +4,8 @@ Platform.mods.kubejs.name = 'TFC: Dawn Till Dusk'
 
 StartupEvents.registry('item', event => {
   event.create('eldrite_chunk')
+    .tag('tfc:any_knapping')
+  event.create('wayward_focus')
   event.create('ancient_scrap')
 })
 

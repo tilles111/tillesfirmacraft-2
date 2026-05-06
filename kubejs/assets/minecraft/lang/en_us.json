@@ -28,5 +28,6 @@
   "item.minecraft.creeper_spawn_egg": "Cinder Spawn Egg",
   "subtitles.entity.creeper.death": "Cinder dies",
   "subtitles.entity.creeper.hurt": "Cinder hurts",
-  "subtitles.entity.creeper.primed": "Cinder primes"
+  "subtitles.entity.creeper.primed": "Cinder primes",
+  "item.minecraft.compass": "Homeward Compass"
 }

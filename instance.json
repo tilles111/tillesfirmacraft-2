@@ -38896,13 +38896,247 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Soul Bound Enchantment",
+        "version": "soulbound-forge-1.0.0+1.20.1.jar",
+        "optional": true,
+        "file": "soulbound-forge-1.0.0+1.20.1.jar",
+        "type": "mods",
+        "description": "An enchantment book that prevents the player from dropping items",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 888668,
+        "curseForgeFileId": 5568387,
+        "curseForgeProject": {
+          "id": 888668,
+          "name": "Soul Bound Enchantment",
+          "authors": [
+            {
+              "id": 101045576,
+              "name": "imoonday1008",
+              "url": "https://www.curseforge.com/members/imoonday1008"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An enchantment book that prevents the player from dropping items",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "soul-bound-enchantment",
+          "isFeatured": false,
+          "dateModified": "2024-12-06T15:35:13.467Z",
+          "dateCreated": "2023-07-16T07:49:09.21Z",
+          "dateReleased": "2024-12-06T15:31:03.39Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/soul-bound-enchantment",
+            "sourceUrl": "https://github.com/iMoonDay/Soulbound"
+          },
+          "logo": {
+            "id": 848953,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/848/953/256/256/638249476142877984.png",
+            "title": "638249476142877984.png",
+            "url": "https://media.forgecdn.net/avatars/848/953/638249476142877984.png",
+            "modId": 888668
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 694943,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/694/943/310/172/2023-07-14_23.png",
+              "title": "Configure Screen",
+              "url": "https://media.forgecdn.net/attachments/694/943/2023-07-14_23.png",
+              "modId": 888668
+            }
+          ],
+          "mainFileId": 5968259
+        },
+        "curseForgeFile": {
+          "id": 5568387,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "soulbound-forge-1.0.0+1.20.1.jar",
+          "fileName": "soulbound-forge-1.0.0+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-26T16:34:23.783Z",
+          "fileLength": 24133,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2012300244,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 644800470,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2995101408,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2193838474,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2799358041,
+              "name": "soulbound.mixins.json"
+            },
+            {
+              "fingerprint": 418876688,
+              "name": "soulbound.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c7a110b2767191674c727812b378d430a897bb75",
+              "algo": 1
+            },
+            {
+              "value": "347d7f81fc57fd7391ed5a88ec3b2f2b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 428926944,
+          "modId": 888668
+        },
+        "modrinthProject": {
+          "id": "MmUmcwom",
+          "slug": "soulbound-enchantment",
+          "project_type": "mod",
+          "team": "PO7qaFVr",
+          "title": "Soulbound Enchantment",
+          "description": "An enchantment book that prevents the player from dropping items",
+          "body": "## Module introduction\n\nThis module has **only one** soulbound enchantment, several custom configurations, and no redundant features.\n\nTo change the configuration, install the **Cloth Config API** or manually open the **/config/soulbound.json** configuration file (Forge only supports configuration file modifications, called **soulbound-common.toml**).\n\n \n\n## Function introduction\n\nItems with soulbound enchantment are automatically retained upon death, and durability is randomly reduced, depending on the configuration. If set to 0, durability is not reduced.\n\nDoes **not** reduce durability when **Creative Mode** or **Keep Inventory**.\n\n ",
+          "published": "2023-07-25T21:10:49.879960Z",
+          "updated": "2024-12-06T15:30:23.502550Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "magic",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/MmUmcwom/dc78bb10171a320f5d79b2b220ae47ecb9da65f0.png",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/MmUmcwom/images/45f2b15e4772c43be997b989c4789d9f2ca5116e.png",
+              "raw_url": "https://cdn.modrinth.com/data/MmUmcwom/images/45f2b15e4772c43be997b989c4789d9f2ca5116e.png",
+              "featured": true,
+              "title": "Configuration Screen",
+              "created": "2023-07-25T21:23:27.705986Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/MmUmcwom/images/7f94f18ec14e4e40bea1457cc127c18d4c1b85bb_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/MmUmcwom/images/7f94f18ec14e4e40bea1457cc127c18d4c1b85bb.png",
+              "featured": false,
+              "title": "Enchanted Book",
+              "created": "2023-07-25T21:23:01.758586Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "MYm9H9e4",
+          "project_id": "MmUmcwom",
+          "author_id": "618c8Ib6",
+          "name": "Forge-1.0.0+1.20.1",
+          "version_number": "1.0.0",
+          "changelog": "",
+          "date_published": "2024-07-26T16:32:46.461495Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ed68d4da10d7ecd8243559a5dc716de6e2b4d5039904a21b099eb7e567ef250d22263cb3f9d4d43489a2a31a127acf95c53c73b2e52bfacd2055d96446711d3e",
+                "sha1": "c7a110b2767191674c727812b378d430a897bb75"
+              },
+              "url": "https://cdn.modrinth.com/data/MmUmcwom/versions/MYm9H9e4/soulbound-forge-1.0.0%2B1.20.1.jar",
+              "filename": "soulbound-forge-1.0.0+1.20.1.jar",
+              "primary": true,
+              "size": 24133
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1777258903185,
-    "numPlays": 76,
+    "lastPlayed": 1778047194015,
+    "numPlays": 91,
     "lastExportName": "Cool TFC Modpack",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Tilles",

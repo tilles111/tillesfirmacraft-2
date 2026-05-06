@@ -5,22 +5,117 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:lodestone",
+    "item:minecraft:compass{Enchantments:[{id:\"soulbound:soulbound\",lvl:1s}],RepairCost:1}",
+    {
+      "type": "item",
+      "id": "kubejs:wayward_focus",
+      "amount": 2
+    },
+    "item:kubejs:eldrite_chunk",
+    "item:minecraft:skeleton_skull",
+    "item:minecraft:bone",
+    "item:minecraft:echo_shard",
+    "item:minecraft:recovery_compass",
+    "item:firmaciv:unfinished_nav_clock",
+    "item:tfc:lens",
+    "item:malum:ether",
+    "item:tfc:large_raw_hide",
+    "item:tfc:fire_bricks",
+    {
+      "type": "item",
+      "id": "firmaciv:thatch_roofing_slab",
+      "amount": 4
+    },
+    "item:tfc:thatch",
+    {
+      "type": "item",
+      "id": "tfc:rock/loose/rhyolite",
+      "amount": 32
+    },
+    "item:firmaciv:copper_bolt",
+    {
+      "type": "item",
+      "id": "compressedcreativity:compressed_iron_casing",
+      "amount": 32
+    },
+    "item:immersiveengineering:cokebrick",
+    {
+      "type": "item",
+      "id": "immersiveengineering:blastbrick",
+      "amount": 27
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:blast_furnace",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "immersiveengineering:coke_oven",
+      "amount": 32
+    },
+    "item:tfc:mortar",
+    "item:tfc:powder/kaolinite",
+    "item:tfc:powder/graphite",
+    "item:tfc:fire_clay",
+    "item:tfc:ceramic/unfired_fire_brick",
+    "item:tfc:ceramic/fire_brick",
+    "item:tfc:brass_mechanisms",
+    {
+      "type": "item",
+      "id": "firmalife:climate_station",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "firmalife:polished_sealed_bricks",
+      "amount": 32
+    },
+    "item:firmalife:metal/ingot/stainless_steel",
+    "item:firmalife:metal/ingot/chromium",
+    "item:firmalife:ore/rich_chromite/gabbro",
+    "item:firmalife:empty_olivine_wine_bottle",
+    "item:firmalife:beehive",
+    "item:firmalife:beehive_frame{}",
+    "item:tfc:food/beef",
+    "item:tfc:food/cooked_beef",
+    "item:tfc:bucket/beer",
+    {
+      "type": "fluid",
+      "id": "tfc:beer",
+      "amount": 0
+    },
+    "item:theurgy:alchemical_sulfur_beef{\"theurgy:sulfur.source.id\":\"minecraft:beef\"}",
+    "item:firmalife:beeswax",
+    {
+      "type": "item",
+      "id": "firmalife:sealed_bricks",
+      "amount": 32
+    },
+    "item:firmalife:chiseled_sealed_bricks",
+    "item:wizards_reborn:arcanum",
+    "item:wizards_reborn:arcane_workbench",
+    "item:minecraft:gold_ingot",
+    "item:malum:hallowed_gold_ingot",
+    {
+      "type": "item",
+      "id": "tfc:metal/ingot/gold",
+      "amount": 4
+    },
+    "item:tfc:gem/sapphire",
+    "item:tfc:ore/sapphire",
+    "item:tfc:ore/amethyst",
+    "item:tfc:ore/opal",
     {
       "type": "item",
       "id": "tfc:metal/ingot/bismuth_bronze",
       "amount": 3
     },
-    "item:kubejs:eldrite_chunk",
     {
       "type": "item",
       "id": "minecraft:clay_ball",
       "amount": 2
-    },
-    "item:tfc:ore/opal",
-    {
-      "type": "item",
-      "id": "minecraft:compass",
-      "amount": 5
     },
     "item:kubejs:ancient_scrap",
     {
@@ -30,10 +125,7 @@
     },
     "item:minecraft:paper",
     "item:minecraft:map",
-    "item:wizards_reborn:arcanum",
-    "item:wizards_reborn:arcane_workbench",
     "item:tfc:metal/ingot/black_bronze",
-    "item:tfc:powder/kaolinite",
     "#item:minecraft:planks",
     "item:minecraft:stick",
     {
@@ -217,8 +309,6 @@
     "item:tfc:ore/pyrite",
     "item:tfc:ore/emerald",
     "item:tfc:ore/lapis_lazuli",
-    "item:tfc:ore/amethyst",
-    "item:tfc:ore/sapphire",
     "item:tfc:ore/diamond",
     {
       "type": "item",
@@ -226,7 +316,6 @@
       "amount": 32
     },
     "item:tfc:gem/ruby",
-    "item:tfc:lens",
     {
       "type": "item",
       "id": "tfc:deposit/native_copper/chert",
@@ -245,7 +334,6 @@
     },
     "item:tfc:gem/emerald",
     "item:tfc:powder/flux",
-    "item:tfc:powder/graphite",
     "item:tfc:rotten_compost",
     "item:tfc:gem/lapis_lazuli",
     "item:theurgy:crystallized_water",
@@ -276,7 +364,6 @@
     "item:malum:charcoal_fragment",
     "item:minecraft:tnt",
     "item:minecraft:gunpowder",
-    "item:tfc:fire_clay",
     "item:tfc:seeds/garlic",
     "item:tfc:seeds/sugarcane",
     "item:tfc:food/wheat",
@@ -296,7 +383,6 @@
     "item:scguns:cog_locator{Damage:0}",
     "item:scguns:ancient_brass",
     "item:minecraft:cooked_beef",
-    "item:minecraft:bone",
     "item:tfc:compost",
     "item:firmalife:jar/rotten_compost",
     "item:wizards_reborn:arcane_linen",
@@ -306,11 +392,6 @@
     "item:scguns:dragon_salve",
     "item:botania:gaia_head",
     "item:minecraft:scute",
-    {
-      "type": "item",
-      "id": "minecraft:lodestone",
-      "amount": 32
-    },
     "item:firmaciv:firmaciv_compass",
     "item:minecraft:leather_helmet{Damage:0}",
     "item:firmalife:beekeeper_helmet{Damage:0}",
@@ -356,11 +437,6 @@
     "item:immersiveengineering:dust_hop_graphite",
     "item:immersiveengineering:ingot_hop_graphite",
     "item:create:cut_calcite",
-    {
-      "type": "item",
-      "id": "firmaciv:copper_bolt",
-      "amount": 64
-    },
     {
       "type": "item",
       "id": "tfc:rock/bricks/dolomite",
@@ -517,7 +593,6 @@
     },
     "item:tfc:rock/smooth/chert",
     "item:tfc:rock/raw/chert",
-    "item:tfc:gem/sapphire",
     {
       "type": "item",
       "id": "tfc:gem/amethyst",
@@ -544,9 +619,7 @@
       "id": "tfc:groundcover/humus",
       "amount": 3
     },
-    "item:malum:ether",
     "item:malum:ether_torch",
-    "item:firmalife:sealed_bricks",
     {
       "type": "item",
       "id": "firmalife:sealed_door",
@@ -558,7 +631,6 @@
       "amount": 4
     },
     "item:tfc:ore/sylvite",
-    "item:malum:hallowed_gold_ingot",
     "item:malum:spirit_jar",
     "item:tfc:metal/ingot/weak_blue_steel",
     {
@@ -600,7 +672,6 @@
     "item:precisionprospecting:metal/prospector_drill/wrought_iron{Damage:0}",
     "item:tfc:stone/knife_head/sedimentary",
     "item:tfc:bone_needle{Damage:0}",
-    "item:minecraft:skeleton_skull",
     "item:minecraft:bone_meal",
     {
       "type": "item",
@@ -639,11 +710,6 @@
     "#item:tfc:saws",
     "item:tfc:wood/lumber/sycamore",
     "item:tfc:wood/planks/sycamore_door",
-    {
-      "type": "item",
-      "id": "firmaciv:thatch_roofing_slab",
-      "amount": 32
-    },
     {
       "type": "item",
       "id": "firmalife:jar/honey",
@@ -707,8 +773,8 @@
       "amount": 1000,
       "ingredients": [
         "#fluid:firmalife:mixable",
-        "#fluid:tfc:water",
-        "#fluid:tfcchannelcasting:mixable"
+        "#fluid:tfcchannelcasting:mixable",
+        "#fluid:tfc:water"
       ]
     },
     {
@@ -879,9 +945,7 @@
       "id": "firmalife:metal/stainless_steel",
       "amount": 100
     },
-    "item:firmalife:metal/ingot/stainless_steel",
     "item:firmalife:metal/double_ingot/stainless_steel",
-    "item:firmalife:metal/ingot/chromium",
     {
       "type": "tag",
       "registry": "minecraft:item",
@@ -897,7 +961,6 @@
     "item:minecraft:spruce_trapdoor",
     "item:woodencog:wooden_generator",
     "item:woodencog:ct_transformer",
-    "item:tfc:thatch",
     "item:sns:straw_basket",
     "item:sns:leather_sack",
     "item:sns:bound_leather_strip",
@@ -931,7 +994,14 @@
     "tfc:crafting/stone/axe_sedimentary"
   ],
   "recipe_defaults": {
-    "added": [],
+    "added": [
+      "tfc:crafting/fire_clay",
+      "woodencog:heating/kaolin_clay.json",
+      "jei:/tfc/heating/fired_fire_brick",
+      "jei:/tfc/fire_clay_knapping/brick",
+      "jei:/tfc/quern/graphite",
+      "jei:/tfc/barrel/mortar"
+    ],
     "tags": {},
     "resolutions": {},
     "disabled": []
