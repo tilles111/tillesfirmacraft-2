@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:highlands",
+    "tfc:hills",
+    "tfc:lowlands",
+    "tfc:mountains",
+    "tfc:oceanic_mountains",
+    "tfc:old_mountains",
+    "tfc:plains",
+    "tfc:plateau",
+    "tfc:rolling_hills",
+    "tfc:volcanic_mountains",
+    "tfc:volcanic_oceanic_mountains"
+  ]
+}

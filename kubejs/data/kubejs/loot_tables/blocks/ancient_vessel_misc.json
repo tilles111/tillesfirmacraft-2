@@ -169,11 +169,6 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 2,
-          "name": "tfc:lens"
-        },
-        {
-          "type": "minecraft:item",
           "name": "kubejs:eldrite_chunk"
         }
       ],

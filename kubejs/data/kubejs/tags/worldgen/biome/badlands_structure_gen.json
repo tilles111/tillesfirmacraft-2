@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:badlands",
+    "tfc:canyons",
+    "tfc:inverted_badlands",
+    "tfc:low_canyons"
+  ]
+}

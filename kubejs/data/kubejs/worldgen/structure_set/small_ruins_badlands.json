@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "kubejs:small_ruins_badlands",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.25,
+    "spacing": 12,
+    "separation": 5,
+    "salt": 1646207470
+  }
+}

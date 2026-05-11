@@ -5,18 +5,45 @@
     }
   ],
   "lookup_history": [
-    "item:minecraft:lodestone",
-    "item:minecraft:compass{Enchantments:[{id:\"soulbound:soulbound\",lvl:1s}],RepairCost:1}",
+    "item:kubejs:eldrite_chunk",
+    "item:kubejs:wayward_focus",
+    "item:minecraft:compass{Enchantments:[{id:\"soulbound:soulbound\",lvl:1s}],LodestoneDimension:\"minecraft:overworld\",LodestoneTracked:1b}",
+    "item:malum:grim_talc",
+    "#item:tfc:rock/raw",
     {
       "type": "item",
-      "id": "kubejs:wayward_focus",
-      "amount": 2
+      "id": "tfc:rock/smooth/diorite",
+      "amount": 4
     },
-    "item:kubejs:eldrite_chunk",
+    "item:minecraft:recovery_compass",
+    "item:kubejs:ancient_vessel_misc",
+    "item:minecraft:map",
+    {
+      "type": "item",
+      "id": "tfc:wood/planks/oak_trapdoor",
+      "amount": 32
+    },
+    {
+      "type": "item",
+      "id": "minecraft:ladder",
+      "amount": 32
+    },
+    "item:tfc:metal/trapdoor/copper",
+    {
+      "type": "item",
+      "id": "minecraft:charcoal",
+      "amount": 16
+    },
+    "item:minecraft:basalt",
+    {
+      "type": "item",
+      "id": "minecraft:polished_basalt",
+      "amount": 32
+    },
+    "item:minecraft:lodestone",
     "item:minecraft:skeleton_skull",
     "item:minecraft:bone",
     "item:minecraft:echo_shard",
-    "item:minecraft:recovery_compass",
     "item:firmaciv:unfinished_nav_clock",
     "item:tfc:lens",
     "item:malum:ether",
@@ -124,7 +151,6 @@
       "amount": 2
     },
     "item:minecraft:paper",
-    "item:minecraft:map",
     "item:tfc:metal/ingot/black_bronze",
     "#item:minecraft:planks",
     "item:minecraft:stick",
@@ -235,11 +261,6 @@
     "item:tfc:metal/chestplate/copper{Damage:0}",
     "item:tfc:metal/double_sheet/copper",
     "item:tfc:metal/tuyere/copper{Damage:0}",
-    {
-      "type": "item",
-      "id": "kubejs:ancient_vessel_misc",
-      "amount": 32
-    },
     {
       "type": "item",
       "id": "kubejs:ancient_vessel_seeds",
@@ -360,7 +381,6 @@
       "id": "tfc:powder/charcoal",
       "amount": 4
     },
-    "item:minecraft:charcoal",
     "item:malum:charcoal_fragment",
     "item:minecraft:tnt",
     "item:minecraft:gunpowder",
@@ -474,11 +494,6 @@
       "type": "item",
       "id": "botania:endoflame",
       "amount": 32
-    },
-    {
-      "type": "item",
-      "id": "malum:grim_talc",
-      "amount": 2
     },
     {
       "type": "item",
@@ -773,8 +788,8 @@
       "amount": 1000,
       "ingredients": [
         "#fluid:firmalife:mixable",
-        "#fluid:tfcchannelcasting:mixable",
-        "#fluid:tfc:water"
+        "#fluid:tfc:water",
+        "#fluid:tfcchannelcasting:mixable"
       ]
     },
     {
@@ -995,12 +1010,12 @@
   ],
   "recipe_defaults": {
     "added": [
-      "tfc:crafting/fire_clay",
-      "woodencog:heating/kaolin_clay.json",
+      "jei:/tfc/barrel/mortar",
       "jei:/tfc/heating/fired_fire_brick",
-      "jei:/tfc/fire_clay_knapping/brick",
+      "tfc:crafting/fire_clay",
       "jei:/tfc/quern/graphite",
-      "jei:/tfc/barrel/mortar"
+      "jei:/tfc/fire_clay_knapping/brick",
+      "woodencog:heating/kaolin_clay.json"
     ],
     "tags": {},
     "resolutions": {},

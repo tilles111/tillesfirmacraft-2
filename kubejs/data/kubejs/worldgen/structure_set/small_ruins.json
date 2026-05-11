@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "kubejs:small_ruins",
+      "weight": 1
+    },
+    {
+      "structure": "kubejs:small_ruins_buried",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "frequency": 0.2,
+    "spacing": 12,
+    "separation": 6,
+    "salt": 1646207470
+  }
+}
